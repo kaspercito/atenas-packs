@@ -1,12 +1,12 @@
 {
   "id": "atenas-smp",
   "name": "Atenas SMP",
-  "packVersion": "1.0.4",
-  "changelog": "Añadido: architectury-9.2.14-forge.jar, cloth-config-11.1.136-forge.jar, irons_lib-1.20.1-2.2.0.jar, player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+  "packVersion": "1.0.5",
+  "changelog": "Ajustes: 1.20.1 · forge 47.4.0 · RAM 6G-6G",
   "minecraft": "1.20.1",
   "loader": {
     "type": "forge",
-    "version": "47.3.0"
+    "version": "47.4.0"
   },
   "java": null,
   "ram": {
