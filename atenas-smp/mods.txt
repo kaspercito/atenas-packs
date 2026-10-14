@@ -95,3 +95,7 @@ chunky                      # pregenerar el mapa en el servidor (evita lag con T
 # ice-and-fire-dragons      # dragones y sirenas
 # ars-nouveau               # magia por glifos
 # tinkers-construct         # herramientas personalizables
+architectury-api
+cloth-config
+irons-lib
+playeranimator

@@ -362,6 +362,30 @@
       "filename": "Chunky-1.3.146.jar",
       "explicit": true
     },
+    "lhGA9TYQ": {
+      "slug": "architectury-api",
+      "version": "9.2.14+forge",
+      "filename": "architectury-9.2.14-forge.jar",
+      "explicit": true
+    },
+    "9s6osm5g": {
+      "slug": "cloth-config",
+      "version": "11.1.136+forge",
+      "filename": "cloth-config-11.1.136-forge.jar",
+      "explicit": true
+    },
+    "9nfaJPtX": {
+      "slug": "irons-lib",
+      "version": "1.20.1-2.2.0",
+      "filename": "irons_lib-1.20.1-2.2.0.jar",
+      "explicit": true
+    },
+    "gedNE4y2": {
+      "slug": "playeranimator",
+      "version": "1.0.2-rc1+1.20-forge",
+      "filename": "player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+      "explicit": true
+    },
     "onSQdWhM": {
       "slug": "onSQdWhM",
       "version": "forge-1.20-4.0.2",
