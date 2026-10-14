@@ -1,0 +1,348 @@
+{
+  "mc": "1.20.1",
+  "loader": "forge",
+  "mods": {
+    "sk9rgfiA": {
+      "slug": "embeddium",
+      "version": "0.3.31+mc1.20.1",
+      "filename": "embeddium-0.3.31+mc1.20.1.jar",
+      "explicit": true
+    },
+    "GchcoXML": {
+      "slug": "oculus",
+      "version": "1.20.1-1.8.0",
+      "filename": "oculus-mc1.20.1-1.8.0.jar",
+      "explicit": true
+    },
+    "nmDcB62a": {
+      "slug": "modernfix",
+      "version": "5.27.88+mc1.20.1",
+      "filename": "modernfix-forge-5.27.88+mc1.20.1.jar",
+      "explicit": true
+    },
+    "uXXizFIs": {
+      "slug": "ferrite-core",
+      "version": "6.0.1",
+      "filename": "ferritecore-6.0.1-forge.jar",
+      "explicit": true
+    },
+    "NNAgCjsB": {
+      "slug": "entityculling",
+      "version": "1.11.3",
+      "filename": "entityculling-forge-1.11.3-mc1.20.1.jar",
+      "explicit": true
+    },
+    "5ZwdcRci": {
+      "slug": "immediatelyfast",
+      "version": "1.5.5+1.20.4-forge",
+      "filename": "ImmediatelyFast-Forge-1.5.5+1.20.4.jar",
+      "explicit": true
+    },
+    "NRjRiSSD": {
+      "slug": "memoryleakfix",
+      "version": "v1.1.5",
+      "filename": "memoryleakfix-forge-1.17+-1.1.5.jar",
+      "explicit": true
+    },
+    "LQ3K71Q1": {
+      "slug": "dynamic-fps",
+      "version": "3.11.4",
+      "filename": "dynamic-fps-3.11.4+minecraft-1.20.0-forge.jar",
+      "explicit": true
+    },
+    "u6dRKJwZ": {
+      "slug": "jei",
+      "version": "15.56.0.205",
+      "filename": "jei-1.20.1-forge-15.56.0.205.jar",
+      "explicit": true
+    },
+    "nvQzSEkH": {
+      "slug": "jade",
+      "version": "11.13.3+forge",
+      "filename": "Jade-1.20.1-Forge-11.13.3.jar",
+      "explicit": true
+    },
+    "EsAfCjCV": {
+      "slug": "appleskin",
+      "version": "2.5.1+mc1.20.1",
+      "filename": "appleskin-forge-mc1.20.1-2.5.1.jar",
+      "explicit": true
+    },
+    "aC3cM3Vq": {
+      "slug": "mouse-tweaks",
+      "version": "1.20.1-2.25.1-forge",
+      "filename": "MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+      "explicit": true
+    },
+    "1bokaNcj": {
+      "slug": "xaeros-minimap",
+      "version": "forge-1.20.1-26.6.0",
+      "filename": "xaerominimap-forge-1.20.1-26.6.0.jar",
+      "explicit": true
+    },
+    "NcUtCpym": {
+      "slug": "xaeros-world-map",
+      "version": "forge-1.20.1-1.47.0",
+      "filename": "xaeroworldmap-forge-1.20.1-1.47.0.jar",
+      "explicit": true
+    },
+    "O7RBXm3n": {
+      "slug": "inventory-profiles-next",
+      "version": "forge-1.20.1-1.10.20",
+      "filename": "InventoryProfilesNext-forge-1.20-1.10.20.jar",
+      "explicit": true
+    },
+    "LOpKHB2A": {
+      "slug": "waystones",
+      "version": "14.1.21+forge-1.20.1",
+      "filename": "waystones-forge-1.20.1-14.1.21.jar",
+      "explicit": true
+    },
+    "TyCTlI4b": {
+      "slug": "sophisticated-backpacks",
+      "version": "1.20.1-3.26.12.2206",
+      "filename": "sophisticatedbackpacks-1.20.1-3.26.12.2206.jar",
+      "explicit": true
+    },
+    "hMlaZH8f": {
+      "slug": "sophisticated-storage",
+      "version": "1.20.1-1.5.5.2182",
+      "filename": "sophisticatedstorage-1.20.1-1.5.5.2182.jar",
+      "explicit": true
+    },
+    "vvuO3ImH": {
+      "slug": "curios",
+      "version": "5.14.1+1.20.1",
+      "filename": "curios-forge-5.14.1+1.20.1.jar",
+      "explicit": true
+    },
+    "EltpO5cN": {
+      "slug": "lootr",
+      "version": "0.7.35.94",
+      "filename": "lootr-forge-1.20-0.7.35.94.jar",
+      "explicit": true
+    },
+    "LNytGWDc": {
+      "slug": "create",
+      "version": "mc1.20.1-6.0.8",
+      "filename": "create-1.20.1-6.0.8.jar",
+      "explicit": true
+    },
+    "R2OftAxM": {
+      "slug": "farmers-delight",
+      "version": "1.20.1-1.3.4",
+      "filename": "FarmersDelight-1.20.1-1.3.4.jar",
+      "explicit": true
+    },
+    "SaCpeal4": {
+      "slug": "comforts",
+      "version": "6.4.0+1.20.1",
+      "filename": "comforts-forge-6.4.0+1.20.1.jar",
+      "explicit": true
+    },
+    "C7I0BCni": {
+      "slug": "macaws-windows",
+      "version": "2.4.2",
+      "filename": "mcw-mcwwindows-2.4.2-mc1.20.1forge.jar",
+      "explicit": true
+    },
+    "kNxa8z3e": {
+      "slug": "macaws-doors",
+      "version": "1.1.5",
+      "filename": "mcw-doors-1.1.5-mc1.20.1forge.jar",
+      "explicit": true
+    },
+    "GURcjz8O": {
+      "slug": "macaws-bridges",
+      "version": "3.1.2",
+      "filename": "mcw-bridges-3.1.2-mc1.20.1forge.jar",
+      "explicit": true
+    },
+    "B8jaH3P1": {
+      "slug": "macaws-roofs",
+      "version": "2.3.2",
+      "filename": "mcw-roofs-2.3.2-mc1.20.1forge.jar",
+      "explicit": true
+    },
+    "n2fvCDlM": {
+      "slug": "macaws-trapdoors",
+      "version": "1.1.5",
+      "filename": "mcw-trapdoors-1.1.5-mc1.20.1forge.jar",
+      "explicit": true
+    },
+    "GmwLse2I": {
+      "slug": "macaws-fences-and-walls",
+      "version": "1.2.1",
+      "filename": "mcw-mcwfences-1.2.1-mc1.20.1forge.jar",
+      "explicit": true
+    },
+    "w4an97C2": {
+      "slug": "macaws-lights-and-lamps",
+      "version": "1.1.5",
+      "filename": "mcw-lights-1.1.5-mc1.20.1forge.jar",
+      "explicit": true
+    },
+    "VRLhWB91": {
+      "slug": "macaws-paths-and-pavings",
+      "version": "1.1.1",
+      "filename": "mcw-mcwpaths-1.1.1-mc1.20.1forge.jar",
+      "explicit": true
+    },
+    "dtWC90iB": {
+      "slug": "macaws-furniture",
+      "version": "3.4.1",
+      "filename": "mcw-furniture-3.4.1-mc1.20.1forge.jar",
+      "explicit": true
+    },
+    "BAscRYKm": {
+      "slug": "chipped",
+      "version": "3.0.7",
+      "filename": "chipped-forge-1.20.1-3.0.7.jar",
+      "explicit": true
+    },
+    "fFEIiSDQ": {
+      "slug": "supplementaries",
+      "version": "1.20-3.1.44-forge",
+      "filename": "supplementaries-1.20-3.1.44-forge.jar",
+      "explicit": true
+    },
+    "pJmCFF0p": {
+      "slug": "handcrafted",
+      "version": "3.0.6",
+      "filename": "handcrafted-forge-1.20.1-3.0.6.jar",
+      "explicit": true
+    },
+    "aQ7h7gal": {
+      "slug": "dramatic-doors",
+      "version": "1.20.1-3.3.3",
+      "filename": "DramaticDoors-QuiFabrge-1.20.1-3.3.3.jar",
+      "explicit": true
+    },
+    "eiktJyw1": {
+      "slug": "every-compat",
+      "version": "1.20-2.9.27-forge",
+      "filename": "everycomp-1.20-2.9.27-forge.jar",
+      "explicit": true
+    },
+    "8oi3bsk5": {
+      "slug": "terralith",
+      "version": "2.5.4",
+      "filename": "Terralith_1.20.x_v2.5.4.jar",
+      "explicit": true
+    },
+    "Ua7DFN59": {
+      "slug": "yungs-api",
+      "version": "1.20-Forge-4.0.6",
+      "filename": "YungsApi-1.20-Forge-4.0.6.jar",
+      "explicit": true
+    },
+    "o1C1Dkj5": {
+      "slug": "yungs-better-dungeons",
+      "version": "1.20-Forge-4.0.4",
+      "filename": "YungsBetterDungeons-1.20-Forge-4.0.4.jar",
+      "explicit": true
+    },
+    "HjmxVlSr": {
+      "slug": "yungs-better-mineshafts",
+      "version": "1.20-Forge-4.0.4",
+      "filename": "YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
+      "explicit": true
+    },
+    "kidLKymU": {
+      "slug": "yungs-better-strongholds",
+      "version": "1.20-Forge-4.0.3",
+      "filename": "YungsBetterStrongholds-1.20-Forge-4.0.3.jar",
+      "explicit": true
+    },
+    "XNlO7sBv": {
+      "slug": "yungs-better-desert-temples",
+      "version": "1.20-Forge-3.0.3",
+      "filename": "YungsBetterDesertTemples-1.20-Forge-3.0.3.jar",
+      "explicit": true
+    },
+    "z9Ve58Ih": {
+      "slug": "yungs-better-jungle-temples",
+      "version": "1.20-Forge-2.0.5",
+      "filename": "YungsBetterJungleTemples-1.20-Forge-2.0.5.jar",
+      "explicit": true
+    },
+    "t5FRdP87": {
+      "slug": "yungs-better-witch-huts",
+      "version": "1.20-Forge-3.0.3",
+      "filename": "YungsBetterWitchHuts-1.20-Forge-3.0.3.jar",
+      "explicit": true
+    },
+    "3dT9sgt4": {
+      "slug": "yungs-better-ocean-monuments",
+      "version": "1.20-Forge-3.0.4",
+      "filename": "YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar",
+      "explicit": true
+    },
+    "BFbX9xcm": {
+      "slug": "mowzies-mobs",
+      "version": "1.8.2",
+      "filename": "mowziesmobs-1.8.2.jar",
+      "explicit": true
+    },
+    "U6GY0xp0": {
+      "slug": "alexs-caves",
+      "version": "2.0.2",
+      "filename": "alexscaves-2.0.2.jar",
+      "explicit": true
+    },
+    "onSQdWhM": {
+      "slug": "onSQdWhM",
+      "version": "forge-1.20-4.0.2",
+      "filename": "libIPN-forge-1.20-4.0.2.jar",
+      "explicit": false
+    },
+    "ordsPcFz": {
+      "slug": "ordsPcFz",
+      "version": "4.12.0",
+      "filename": "kotlinforforge-4.12.0-all.jar",
+      "explicit": false
+    },
+    "MBAkmtvl": {
+      "slug": "MBAkmtvl",
+      "version": "7.3.44+forge-1.20.1",
+      "filename": "balm-forge-1.20.1-7.3.44.jar",
+      "explicit": false
+    },
+    "nmoqTijg": {
+      "slug": "nmoqTijg",
+      "version": "1.20.1-1.5.10.2402",
+      "filename": "sophisticatedcore-1.20.1-1.5.10.2402.jar",
+      "explicit": false
+    },
+    "G1hIVOrD": {
+      "slug": "G1hIVOrD",
+      "version": "2.1.29",
+      "filename": "resourcefullib-forge-1.20.1-2.1.29.jar",
+      "explicit": false
+    },
+    "b1ZV3DIJ": {
+      "slug": "b1ZV3DIJ",
+      "version": "3.1.2",
+      "filename": "athena-forge-1.20.1-3.1.2.jar",
+      "explicit": false
+    },
+    "twkfQtEc": {
+      "slug": "twkfQtEc",
+      "version": "1.20-2.16.36-forge",
+      "filename": "moonlight-1.20-2.16.36-forge.jar",
+      "explicit": false
+    },
+    "8BmcQJ2H": {
+      "slug": "8BmcQJ2H",
+      "version": "4.8.4",
+      "filename": "geckolib-forge-1.20.1-4.8.4.jar",
+      "explicit": false
+    },
+    "jJfV67b1": {
+      "slug": "jJfV67b1",
+      "version": "2.6.3",
+      "filename": "citadel-2.6.3-1.20.1.jar",
+      "explicit": false
+    }
+  }
+}
