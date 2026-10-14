@@ -1,8 +1,8 @@
 {
   "id": "atenas-smp",
   "name": "Atenas SMP",
-  "packVersion": "1.0.1",
-  "changelog": "Primera versión\nAñadido: constructionwand-1.20.1-2.11.jar, Heracles-forge-1.20.1-1.1.13.jar, L_Enders_Cataclysm-3.31.jar, lionfishapi-3.0.jar, notenoughanimations-forge-1.12.6-mc1.20.1.jar, open-parties-and-claims-forge-1.20.1-0.32.7.jar",
+  "packVersion": "1.0.2",
+  "changelog": "RAM 6G, voz, zoom y mods nuevos\nAñadido: alexsmobs-1.22.9.jar, amendments-1.20-2.2.6.jar, artifacts-forge-9.5.19.jar, Chunky-1.3.146.jar, irons_spellbooks-1.20.1-3.16.3.jar, voicechat-forge-1.20.1-2.6.22.jar",
   "minecraft": "1.20.1",
   "loader": {
     "type": "forge",
@@ -10,7 +10,7 @@
   },
   "java": null,
   "ram": {
-    "min": "3G",
+    "min": "6G",
     "max": "6G"
   },
   "server": "atenasmc.live",
@@ -31,10 +31,28 @@
       "size": 74871657
     },
     {
+      "path": "mods/alexsmobs-1.22.9.jar",
+      "url": "https://cdn.modrinth.com/data/2cMuAZAp/versions/XoIASRVU/alexsmobs-1.22.9.jar",
+      "sha256": "16bc5bcc19db9029c24f951346ec71098e6f5b0afef96e61894a2e9407aad37c",
+      "size": 26350793
+    },
+    {
+      "path": "mods/amendments-1.20-2.2.6.jar",
+      "url": "https://cdn.modrinth.com/data/6iTJugQR/versions/nJORWvdh/amendments-1.20-2.2.6.jar",
+      "sha256": "46c7e1276bc77a0843267a6aeee381af61f16bedc7949447fff49eeb7aeb7917",
+      "size": 1315525
+    },
+    {
       "path": "mods/appleskin-forge-mc1.20.1-2.5.1.jar",
       "url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/XdXDExVF/appleskin-forge-mc1.20.1-2.5.1.jar",
       "sha256": "e12419e43e3babc810af289403c5cd96bd7f09809b389acc6bb2f122b4b2a426",
       "size": 47428
+    },
+    {
+      "path": "mods/artifacts-forge-9.5.19.jar",
+      "url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/lrLPBSzq/artifacts-forge-9.5.19.jar",
+      "sha256": "f1e4dc786866b6e4f2a48142f2acf63bb9bee54ac2f31621ad5d8f18ab54c7b0",
+      "size": 850974
     },
     {
       "path": "mods/athena-forge-1.20.1-3.1.2.jar",
@@ -53,6 +71,12 @@
       "url": "https://cdn.modrinth.com/data/BAscRYKm/versions/pi3f4er3/chipped-forge-1.20.1-3.0.7.jar",
       "sha256": "300e02535342b710fb34409821de9d097b0d8b17f56a57a17d75d05c4c1c5b63",
       "size": 15060263
+    },
+    {
+      "path": "mods/Chunky-1.3.146.jar",
+      "url": "https://cdn.modrinth.com/data/fALzjamp/versions/4FTDk9wv/Chunky-1.3.146.jar",
+      "sha256": "996a3c9b53e6c0e0850fb9e78d3546d2c37a1b789ddaf529b17e4fe62ab23141",
+      "size": 341451
     },
     {
       "path": "mods/citadel-2.6.3-1.20.1.jar",
@@ -155,6 +179,12 @@
       "url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/CrtAI3P9/InventoryProfilesNext-forge-1.20-1.10.20.jar",
       "sha256": "2f664f23ed031f6cfacce01b0461c450e2248435936cb6b7e2e0463c6ec56343",
       "size": 1457354
+    },
+    {
+      "path": "mods/irons_spellbooks-1.20.1-3.16.3.jar",
+      "url": "https://cdn.modrinth.com/data/s4OWxYQQ/versions/hZaEegS9/irons_spellbooks-1.20.1-3.16.3.jar",
+      "sha256": "54b5aaa52887c38f570fbd820288171234d8541c17a5e953f9271189fdd480fb",
+      "size": 15570397
     },
     {
       "path": "mods/Jade-1.20.1-Forge-11.13.3.jar",
@@ -335,6 +365,12 @@
       "url": "https://cdn.modrinth.com/data/8oi3bsk5/versions/WeYhEb5d/Terralith_1.20.x_v2.5.4.jar",
       "sha256": "8f65f309d8f2723754bf4b60c7b5763d3ab6ed04b01c172109ba6564e981b95f",
       "size": 3156901
+    },
+    {
+      "path": "mods/voicechat-forge-1.20.1-2.6.22.jar",
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/S11m0QIb/voicechat-forge-1.20.1-2.6.22.jar",
+      "sha256": "727d31c11905be6af05686c619dd62a1ed4e451c47670cf5e9804c1ac8871386",
+      "size": 4923439
     },
     {
       "path": "mods/waystones-forge-1.20.1-14.1.21.jar",
