@@ -14,6 +14,7 @@ entityculling
 immediatelyfast
 memoryleakfix
 dynamic-fps
+rubidium-extra
 
 # ── Calidad de vida ────────────────────────────────────────────
 jei
@@ -82,14 +83,12 @@ simple-voice-chat       # puerto UDP 24454 abierto en Azure
 amendments              # complemento de Supplementaries (farolas de pared, calaveras con velas, etc.)
 
 # ── NUEVO · Que nunca se aburran (contenido, jefes, magia) ─────
-the-twilight-forest         # dimensión nueva con jefes y progresión propia
 irons-spells-n-spellbooks   # magia, hechizos, mazmorras y jefes
 alexs-mobs                  # decenas de criaturas nuevas (usa Citadel, que ya está)
 artifacts                   # objetos raros escondidos en el mundo: razón para explorar
 chunky                      # pregenerar el mapa en el servidor (evita lag con Terralith/YUNG's)
 
 # ── NUEVO · Zoom (cliente) ─────────────────────────────────────
-embeddiumplus           # extensión de Embeddium: zoom, contador de FPS y más opciones (se configura en Controles)
 # ok-zoomer             # alternativa si embeddiumplus no te convence (solo uno de los dos)
 
 # ── OPCIONALES · quita el # para activarlos (pesan más RAM) ────

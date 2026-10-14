@@ -50,6 +50,12 @@
       "filename": "dynamic-fps-3.11.4+minecraft-1.20.0-forge.jar",
       "explicit": true
     },
+    "oY2B1pjg": {
+      "slug": "rubidium-extra",
+      "version": "0.5.4.4+mc1.20.1-build.131",
+      "filename": "rubidium-extra-0.5.4.4+mc1.20.1-build.131.jar",
+      "explicit": true
+    },
     "u6dRKJwZ": {
       "slug": "jei",
       "version": "15.56.0.205",

@@ -1,8 +1,8 @@
 {
   "id": "atenas-smp",
   "name": "Atenas SMP",
-  "packVersion": "1.0.2",
-  "changelog": "RAM 6G, voz, zoom y mods nuevos\nAñadido: alexsmobs-1.22.9.jar, amendments-1.20-2.2.6.jar, artifacts-forge-9.5.19.jar, Chunky-1.3.146.jar, irons_spellbooks-1.20.1-3.16.3.jar, voicechat-forge-1.20.1-2.6.22.jar",
+  "packVersion": "1.0.3",
+  "changelog": "agregado mod de biomas y optimización\nAñadido: rubidium-extra-0.5.4.4+mc1.20.1-build.131.jar, twilightforest-1.20.1-4.3.2508-universal.jar",
   "minecraft": "1.20.1",
   "loader": {
     "type": "forge",
@@ -337,6 +337,12 @@
       "size": 432753
     },
     {
+      "path": "mods/rubidium-extra-0.5.4.4+mc1.20.1-build.131.jar",
+      "url": "https://cdn.modrinth.com/data/oY2B1pjg/versions/F06DXCMX/rubidium-extra-0.5.4.4%2Bmc1.20.1-build.131.jar",
+      "sha256": "32c28582040dfab4e167542bf319107296e9eff3cb17f4f576eba036f2d256da",
+      "size": 568608
+    },
+    {
       "path": "mods/sophisticatedbackpacks-1.20.1-3.26.12.2206.jar",
       "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/X7q2xTaV/sophisticatedbackpacks-1.20.1-3.26.12.2206.jar",
       "sha256": "1884ff9f2a35e64ea1e1b7702812e7e2db72465d0a091c11768cbf4229afd81d",
@@ -365,6 +371,12 @@
       "url": "https://cdn.modrinth.com/data/8oi3bsk5/versions/WeYhEb5d/Terralith_1.20.x_v2.5.4.jar",
       "sha256": "8f65f309d8f2723754bf4b60c7b5763d3ab6ed04b01c172109ba6564e981b95f",
       "size": 3156901
+    },
+    {
+      "path": "mods/twilightforest-1.20.1-4.3.2508-universal.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/twilightforest-1.20.1-4.3.2508-universal.jar",
+      "sha256": "0bdc89263616d1b35c32ef82c5e9c14cbd20368e2fe8b468c72a28320be7a778",
+      "size": 23332091
     },
     {
       "path": "mods/voicechat-forge-1.20.1-2.6.22.jar",
