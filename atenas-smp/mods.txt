@@ -30,14 +30,11 @@ curios
 lootr
 
 # ── Propósito: misiones, equipos y territorio ──────────────────
-ftb-quests-forge
-ftb-teams-forge
-ftb-chunks-forge
-ftb-library-forge
+odyssey-quests          # Heracles: árbol de misiones (los FTB no están en Modrinth)
+open-parties-and-claims # claims y equipos (reemplaza FTB Chunks/Teams)
 
 # ── Progresión: tecnología y cocina ────────────────────────────
 create
-createdeco
 farmers-delight
 comforts
 
@@ -54,7 +51,7 @@ macaws-furniture
 chipped
 supplementaries
 handcrafted
-building-gadgets
+construction-wand
 dramatic-doors
 every-compat
 
@@ -70,3 +67,10 @@ yungs-better-witch-huts
 yungs-better-ocean-monuments
 mowzies-mobs
 alexs-caves
+
+# ── Jefes y el gran desafío ────────────────────────────────────
+l_enders-cataclysm      # jefes y mazmorras difíciles; su equipo exige farmear
+# crackers-wither-storm-mod  # ACTIVAR MÁS ADELANTE (quita el #) para lanzar el Wither Storm como evento
+
+# ── Animaciones ligeras (solo cliente, casi sin costo de FPS) ──
+not-enough-animations

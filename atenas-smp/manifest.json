@@ -1,8 +1,8 @@
 {
   "id": "atenas-smp",
   "name": "Atenas SMP",
-  "packVersion": "1.0.0",
-  "changelog": "Primera versión",
+  "packVersion": "1.0.1",
+  "changelog": "Primera versión\nAñadido: constructionwand-1.20.1-2.11.jar, Heracles-forge-1.20.1-1.1.13.jar, L_Enders_Cataclysm-3.31.jar, lionfishapi-3.0.jar, notenoughanimations-forge-1.12.6-mc1.20.1.jar, open-parties-and-claims-forge-1.20.1-0.32.7.jar",
   "minecraft": "1.20.1",
   "loader": {
     "type": "forge",
@@ -65,6 +65,12 @@
       "url": "https://cdn.modrinth.com/data/SaCpeal4/versions/gBDsc134/comforts-forge-6.4.0%2B1.20.1.jar",
       "sha256": "56398103e0e3821c98f21a5b556d57deb0686b9f50868b4278ecb73cc9d2f42c",
       "size": 382083
+    },
+    {
+      "path": "mods/constructionwand-1.20.1-2.11.jar",
+      "url": "https://cdn.modrinth.com/data/bV2crgLh/versions/XCgKj8gL/constructionwand-1.20.1-2.11.jar",
+      "sha256": "b55ca6f0e734bad848adb06949675136f1d05cb4fb3efdde084c9842c40e1eec",
+      "size": 210312
     },
     {
       "path": "mods/create-1.20.1-6.0.8.jar",
@@ -133,6 +139,12 @@
       "size": 7111059
     },
     {
+      "path": "mods/Heracles-forge-1.20.1-1.1.13.jar",
+      "url": "https://cdn.modrinth.com/data/lo90fZoB/versions/9ZUSHiZa/Heracles-forge-1.20.1-1.1.13.jar",
+      "sha256": "cd69e0f2619870bd1798792f5d37cb690b6061b29f55c9b7cb50af711b8f3bfb",
+      "size": 1420890
+    },
+    {
       "path": "mods/ImmediatelyFast-Forge-1.5.5+1.20.4.jar",
       "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/rvsLEEZU/ImmediatelyFast-Forge-1.5.5%2B1.20.4.jar",
       "sha256": "82db19cc65b5c11a444498fb4b8cbcb0393c043e794cb5bf368631a0af765035",
@@ -163,10 +175,22 @@
       "size": 7442998
     },
     {
+      "path": "mods/L_Enders_Cataclysm-3.31.jar",
+      "url": "https://cdn.modrinth.com/data/46KJle7n/versions/C3H0azzB/L_Enders_Cataclysm-3.31.jar",
+      "sha256": "c29dcf940168208517b72f2d9965828b106a6b94cbea55d5001558c69a27b362",
+      "size": 73916104
+    },
+    {
       "path": "mods/libIPN-forge-1.20-4.0.2.jar",
       "url": "https://cdn.modrinth.com/data/onSQdWhM/versions/pdAXmKcS/libIPN-forge-1.20-4.0.2.jar",
       "sha256": "cb96fa15eddc74c243677f7f5b6e3ecaa87bb33f4854ae0353646f304058add6",
       "size": 693301
+    },
+    {
+      "path": "mods/lionfishapi-3.0.jar",
+      "url": "https://cdn.modrinth.com/data/FoVacERa/versions/CPftDBcY/lionfishapi-3.0.jar",
+      "sha256": "d2fdaf7e9bc53fde7da4a86ab17018a3ed6c16fc2d46de5054e5a83e2bef7871",
+      "size": 101931
     },
     {
       "path": "mods/lootr-forge-1.20-0.7.35.94.jar",
@@ -259,10 +283,22 @@
       "size": 36033850
     },
     {
+      "path": "mods/notenoughanimations-forge-1.12.6-mc1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/MPCX6s5C/versions/kGjMleOz/notenoughanimations-forge-1.12.6-mc1.20.1.jar",
+      "sha256": "66f1f6d61102dd03a4afafe4c9f1d39be9e55dabc8d0821cb46acca1328b525d",
+      "size": 1870649
+    },
+    {
       "path": "mods/oculus-mc1.20.1-1.8.0.jar",
       "url": "https://cdn.modrinth.com/data/GchcoXML/versions/iQ1SwGc3/oculus-mc1.20.1-1.8.0.jar",
       "sha256": "0945df0cba0f62b3901dd80c3268e5311b770ece78c78037a45db12ac0425fef",
       "size": 2851119
+    },
+    {
+      "path": "mods/open-parties-and-claims-forge-1.20.1-0.32.7.jar",
+      "url": "https://cdn.modrinth.com/data/gF3BGWvG/versions/PkZL3SuC/open-parties-and-claims-forge-1.20.1-0.32.7.jar",
+      "sha256": "e315edb21094281e1182697e6fbfbb380bbec424eaf1c3daa1c40d831221f2cb",
+      "size": 1875093
     },
     {
       "path": "mods/resourcefullib-forge-1.20.1-2.1.29.jar",
