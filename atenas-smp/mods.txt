@@ -1,0 +1,72 @@
+# ═══════════════════════════════════════════════════════════════
+#  ATENAS SMP · Supervivencia con propósito · Forge 1.20.1
+#  Un mod por línea (slug de Modrinth). Para fijar versión: slug@version
+#  Las dependencias obligatorias se añaden solas.
+#  Para actualizar:  npm run pack -- RUTA/atenas-smp --note "lo que cambió"
+# ═══════════════════════════════════════════════════════════════
+
+# ── Rendimiento (cliente) ──────────────────────────────────────
+embeddium
+oculus
+modernfix
+ferrite-core
+entityculling
+immediatelyfast
+memoryleakfix
+dynamic-fps
+
+# ── Calidad de vida ────────────────────────────────────────────
+jei
+jade
+appleskin
+mouse-tweaks
+xaeros-minimap
+xaeros-world-map
+inventory-profiles-next
+waystones
+sophisticated-backpacks
+sophisticated-storage
+curios
+lootr
+
+# ── Propósito: misiones, equipos y territorio ──────────────────
+ftb-quests-forge
+ftb-teams-forge
+ftb-chunks-forge
+ftb-library-forge
+
+# ── Progresión: tecnología y cocina ────────────────────────────
+create
+createdeco
+farmers-delight
+comforts
+
+# ── Construcción ───────────────────────────────────────────────
+macaws-windows
+macaws-doors
+macaws-bridges
+macaws-roofs
+macaws-trapdoors
+macaws-fences-and-walls
+macaws-lights-and-lamps
+macaws-paths-and-pavings
+macaws-furniture
+chipped
+supplementaries
+handcrafted
+building-gadgets
+dramatic-doors
+every-compat
+
+# ── Mundo, exploración y jefes ─────────────────────────────────
+terralith
+yungs-api
+yungs-better-dungeons
+yungs-better-mineshafts
+yungs-better-strongholds
+yungs-better-desert-temples
+yungs-better-jungle-temples
+yungs-better-witch-huts
+yungs-better-ocean-monuments
+mowzies-mobs
+alexs-caves
