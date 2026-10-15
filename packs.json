@@ -10,17 +10,6 @@
         "version": "47.4.0"
       },
       "manifestUrl": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/manifest.json"
-    },
-    {
-      "id": "atenas",
-      "name": "Atenas",
-      "description": "Explorar, disfrutar y pasar el tiempo.",
-      "minecraft": "1.20.1",
-      "loader": {
-        "type": "forge",
-        "version": "47.4.10"
-      },
-      "manifestUrl": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas/manifest.json"
     }
   ]
 }

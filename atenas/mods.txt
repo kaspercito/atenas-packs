@@ -1,7 +1,0 @@
-# ═══════════════════════════════════════════════════════════════
-#  Atenas · Forge 1.20.1
-#  Un mod por línea (slug de Modrinth). Para fijar versión: slug@version
-#  Las dependencias obligatorias se añaden solas.
-#  Se administra desde Atenas Admin (pestaña «Añadir mods»).
-# ═══════════════════════════════════════════════════════════════
-echovoids
