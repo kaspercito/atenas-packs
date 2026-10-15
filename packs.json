@@ -1,3 +1,15 @@
 {
-  "packs": []
+  "packs": [
+    {
+      "id": "atenas-smp",
+      "name": "Atenas SMP",
+      "description": "",
+      "minecraft": "1.20.1",
+      "loader": {
+        "type": "forge",
+        "version": "47.4.10"
+      },
+      "manifestUrl": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/manifest.json"
+    }
+  ]
 }

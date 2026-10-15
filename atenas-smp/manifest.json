@@ -1,0 +1,886 @@
+{
+  "id": "atenas-smp",
+  "name": "Atenas SMP",
+  "packVersion": "1.0.0",
+  "changelog": "Añadido: [1.20.1] SecurityCraft v1.10.2.1.jar, ad_astra-forge-1.20.1-1.15.21.jar, AdvancementPlaques-1.20.1-forge-1.6.9.jar, amendments-1.20-2.2.6.jar, ancient_remnants-1.5.2+1.20.1-forge.jar, apexcore-1.20.1-10.0.0.jar, architectury-9.2.14-forge.jar, Argentina's Delight 1.20.1 (ver1.21).jar, armorplus-1.20.1-20.2.3.jar, artifacts-forge-9.5.19.jar, Auroras-1.20.1-1.6.2.jar, azurelib-neo-1.20.1-3.1.22.jar, balm-forge-1.20.1-7.3.44.jar, BCLib-20.0.13.jar, better-cities-better-end-1.16-1.20.jar, BetterEnd-20.0.11.jar, BetterThirdPerson-Forge-1.20-1.9.0.jar, bettervillage-forge-1.20.1-3.3.1-all.jar, bf_blockpack-forge-1.20.1-1.1.2.jar, block_factorys_bosses-2.1.2-forge-1.20.1.jar, blueprint-1.20.1-7.1.5.jar, Bookshelf-Forge-1.20.1-20.2.15.jar, born_in_chaos_[Forge]1.20.1_1.7.5.jar, bossesunleashed-1.0.4-hotfix.jar, botarium-forge-1.20.1-2.3.4.jar, camera-forge-1.20.1-1.0.20.jar, carryon-forge-1.20.1-2.1.2.7.jar, CinematicZoom-Forge-1.20.1-1.3.8.jar, cloth-config-11.1.136-forge.jar, Corgilib-Forge-1.20.1-4.0.3.6.jar, cosmeticarmorreworked-1.20.1-v1a.jar, create-1.20.1-6.0.8.jar, CreativeCore_FORGE_v2.12.40_mc1.20.1.jar, cristellib-1.1.6-forge.jar, crittersandcompanions-forge-1.20.1-2.7.1.jar, cultofazazelforge-1.1.4.12.jar, curios-forge-5.14.1+1.20.1.jar, Data_Anchor-forge-1.20.1-1.0.0.23.jar, DungeonsArise-1.20.x-2.1.58-release.jar, dynamiclights-1.20.1.3.jar, echovoids-2.0.3b-forge-1.20.1.jar, elevatorid-1.20.1-1.9.1-forge.jar, embeddium-0.3.31+mc1.20.1.jar, EnchantmentDescriptions-Forge-1.20.1-17.1.21.jar, enlightend-5.0.14-1.20.1.jar, entity_model_features-3.3.11-1.20.1-forge.jar, entity_texture_features-7.2.5-1.20.1-forge.jar, entityculling-forge-1.11.3-mc1.20.1.jar, explosiveenhancement-1.2.0.jar, fantasyfurniture-1.20.1-9.0.0.jar, FarmersDelight-1.20.1-1.3.4.jar, fdbosses-3.1.0.3-1.20.1.jar, fdlib-1.0.9-1.20.1.jar, ferritecore-6.0.1-forge.jar, formations-1.0.4-forge-mc1.20.2.jar, fragmentum-5.3.0+1.20.1-forge.jar, framework-forge-1.20.1-0.8.0.jar, fzzy_config-0.7.7+1.20.1+forge.jar, geckolib-forge-1.20.1-4.8.4.jar, goblintraders-forge-1.20.1-1.11.5.jar, hamsters-forge-1.0.3-1.20.1.jar, handcrafted-forge-1.20.1-3.0.6.jar, Highlighter-1.20.1-forge-1.1.9.jar, Iceberg-1.20.1-forge-1.1.25.jar, IDA_v2.1.3-1.20.1.jar, ImmediatelyFast-Forge-1.5.5+1.20.4.jar, immersive_gateways-forge-0.0.7+1.20.1.jar, immersivehotbar-1.2.2-forge-1.20.1-all.jar, ImmersiveUI-FORGE-0.3.0.jar, integrated_api-forge-1.20.1-1.9.1.jar, integrated_cataclysm_forge-1.0.5+1.20.1.jar, integrated_patches v1.2.0-1.20.1.jar, ironfurnaces-1.20.1-4.1.8.jar, irons_lib-1.20.1-2.2.0.jar, irons_spellbooks-1.20.1-3.16.3.jar, Jade-1.20.1-Forge-11.13.3.jar, jei-1.20.1-forge-15.56.0.205.jar, journeymap-forge-1.20.1-6.0.7.jar, knightlib-forge-1.20.1-2.0.4.jar, L_Enders_Cataclysm-3.31.jar, libraryferret-forge-1.20.1-4.0.0.jar, lionfishapi-3.0.jar, lootbeams-1.20.1-1.2.6.jar, Mantle-1.20.1-1.11.117.jar, meteor_shower-0.0.4.2.jar, monsterexpansion-1.20.1-v0.7.6.jar, MoogsEndStructures-universal-1.20-2.1.0.jar, MoogsStructureLib-forge-1.20-3.4.2.jar, moonlight-1.20-2.16.37-forge.jar, MouseTweaks-forge-mc1.20.1-2.25.1.jar, naturalist-5.0pre5+forge-1.20.1.jar, Nullscape_1.20.x_v1.2.8.jar, OctoLib-FORGE-0.5.0.1+1.20.1.jar, oculus-mc1.20.1-1.8.0.jar, Oh-The-Biomes-Weve-Gone-Forge-1.8.2.jar, Oh-The-Trees-Youll-Grow-forge-1.20.1-1.7.3.jar, olympusmythology-forge-1.20.1-1.0.11.jar, Paraglider-forge-20.1.3.jar, Patchouli-1.20.1-85-FORGE.jar, player-animation-lib-forge-1.0.2-rc1+1.20.jar, PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar, punchy-2.8f-forge-1.20.1.jar, Quark-4.0-462.jar, refurbished_furniture-forge-1.20.1-1.0.20.jar, resourcefulconfig-forge-1.20.1-2.1.3.jar, resourcefullib-forge-1.20.1-2.1.29.jar, Ribbits-1.20.1-Forge-3.0.5.jar, rubidium-extra-0.5.4.4+mc1.20.1-build.131.jar, samurai_dynasty-0.0.51-1.20.1-forge.jar, simplyswords-forge-neoforge-1.70.2-1.20.1.jar, SimplyTooltips-forge-0.1.5-1.20.1.jar, sky_whale_ship-1.20.1.jar, SmoothPlayerAnimations_Forge_1.20.1_1.1.0.jar, sophisticatedbackpacks-1.20.1-3.26.12.2206.jar, sophisticatedcore-1.20.1-1.5.10.2402.jar, sound-physics-remastered-forge-1.20.1-1.4.10.jar, stalwart-dungeons-1.20.1-1.2.8.jar, stellara-forge-1.20.1-0.1.jar, supplementaries-1.20-3.1.44-forge (1).jar, supplementaries-1.20-3.1.44-forge.jar, TConstruct-1.20.1-3.11.2.166.jar, TerraBlender-forge-1.20.1-3.0.1.10.jar, thedragonlib-1.20.1-1.0.0.jar, TheOuterEnd-1.0.13.jar, tombstone-1.20.1-9.1.5.jar, Towns-and-Towers-1.12-Fabric+Forge.jar, TreeChop-1.20.1-forge-0.19.0-fixed.jar, Tridot-1.20.1-1.0.172.jar, Unusual-Prehistory-2-1.20.1-1.4.3.jar, unusualend-2.3.1d.jar, unusualfishmod-1.1.10.jar, unusualprehistory-1.5.0.3.jar, Valoria-1.20.1-1.1.0.1.jar, variantsandventures-forge-1.0.28+mc1.20.1.jar, veinmining-forge-1.5.0+1.20.1.jar, visuality-forge-2.2.0.jar, voicechat-forge-1.20.1-2.6.24.jar, Waves-1.20.1-1.6.1.jar, waystones-forge-1.20.1-14.1.21.jar, weaponmaster-1.4.3-1.20.1.jar, WunderLib-20.0.1.jar, yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar, YungsApi-1.20-Forge-4.0.6.jar, Zeta-1.0-31.jar",
+  "minecraft": "1.20.1",
+  "loader": {
+    "type": "forge",
+    "version": "47.4.10"
+  },
+  "java": null,
+  "ram": {
+    "min": "6G",
+    "max": "8G"
+  },
+  "server": "atenasmc.live",
+  "managed": [
+    "mods"
+  ],
+  "files": [
+    {
+      "path": "mods/[1.20.1] SecurityCraft v1.10.2.1.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/%5B1.20.1%5D%20SecurityCraft%20v1.10.2.1.jar",
+      "sha256": "f7c637b291cccd2c4a4f94048a6d08a48065c0618fec03043d6f9e15af27948a",
+      "size": 4995865
+    },
+    {
+      "path": "mods/ad_astra-forge-1.20.1-1.15.21.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/ad_astra-forge-1.20.1-1.15.21.jar",
+      "sha256": "d84dc1182b4c570d955df67b80703dc058ce944c7d9b0702e3577934c96d864c",
+      "size": 7508773
+    },
+    {
+      "path": "mods/AdvancementPlaques-1.20.1-forge-1.6.9.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/AdvancementPlaques-1.20.1-forge-1.6.9.jar",
+      "sha256": "537f84f1153369d61878965846a8ead7c5eae3a6ad917b04c02521ad76182ad2",
+      "size": 208850
+    },
+    {
+      "path": "mods/amendments-1.20-2.2.6.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/amendments-1.20-2.2.6.jar",
+      "sha256": "46c7e1276bc77a0843267a6aeee381af61f16bedc7949447fff49eeb7aeb7917",
+      "size": 1315525
+    },
+    {
+      "path": "mods/ancient_remnants-1.5.2+1.20.1-forge.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/ancient_remnants-1.5.2%2B1.20.1-forge.jar",
+      "sha256": "808e84818b22a78299dbbd49d85812b4c357894653d15c348a6726a3e7c43213",
+      "size": 10983247
+    },
+    {
+      "path": "mods/apexcore-1.20.1-10.0.0.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/apexcore-1.20.1-10.0.0.jar",
+      "sha256": "ba713663dff20cd9a9e599a8f7c87cf7359fedd5ebc9f5c2bac749e20155ad7a",
+      "size": 556266
+    },
+    {
+      "path": "mods/architectury-9.2.14-forge.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/architectury-9.2.14-forge.jar",
+      "sha256": "218b471d0b8a1f6cda14cfc1beb9eeb0df54304500acc6c5613d9b88ec65d9af",
+      "size": 580602
+    },
+    {
+      "path": "mods/Argentina's Delight 1.20.1 (ver1.21).jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/Argentina's%20Delight%201.20.1%20(ver1.21).jar",
+      "sha256": "4c09bfa3e176a8a89995130fb584d0f24086d93cb291f68fc15c4dad8da53ca1",
+      "size": 2972002
+    },
+    {
+      "path": "mods/armorplus-1.20.1-20.2.3.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/armorplus-1.20.1-20.2.3.jar",
+      "sha256": "40d7e885891176200956b64bb181ef5f856cf5dd0985cb4e5f153afa2943b02f",
+      "size": 2586476
+    },
+    {
+      "path": "mods/artifacts-forge-9.5.19.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/artifacts-forge-9.5.19.jar",
+      "sha256": "f1e4dc786866b6e4f2a48142f2acf63bb9bee54ac2f31621ad5d8f18ab54c7b0",
+      "size": 850974
+    },
+    {
+      "path": "mods/Auroras-1.20.1-1.6.2.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/Auroras-1.20.1-1.6.2.jar",
+      "sha256": "d10dfe4f57c371e387d89aeb38dd38568daa8522459a6aea778bd1d47e56362e",
+      "size": 2119153
+    },
+    {
+      "path": "mods/azurelib-neo-1.20.1-3.1.22.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/azurelib-neo-1.20.1-3.1.22.jar",
+      "sha256": "320a996968ba08411a40c563ac711d3780805735a48294e53cebe97ae99ec52c",
+      "size": 1158755
+    },
+    {
+      "path": "mods/balm-forge-1.20.1-7.3.44.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/balm-forge-1.20.1-7.3.44.jar",
+      "sha256": "ad11d968770bb1ce73377626b6f1dcd4ae6f8be1ef6f37cee9b872b8176aebd3",
+      "size": 561741
+    },
+    {
+      "path": "mods/BCLib-20.0.13.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/BCLib-20.0.13.jar",
+      "sha256": "75a7d2d8f44f9d9a1ce801f4f236e601bcc11d256964c1f77ce2aaf858818050",
+      "size": 2236939
+    },
+    {
+      "path": "mods/better-cities-better-end-1.16-1.20.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/better-cities-better-end-1.16-1.20.jar",
+      "sha256": "e5320074c7986bb1cd5711935e5b834727cc16ba2c7fd82a0689d4919252a82f",
+      "size": 1449138
+    },
+    {
+      "path": "mods/BetterEnd-20.0.11.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/BetterEnd-20.0.11.jar",
+      "sha256": "8c24d905c4c0d4859c48b210922ebf3b4cb7a316eecc5bf845e57312e258d190",
+      "size": 97337194
+    },
+    {
+      "path": "mods/BetterThirdPerson-Forge-1.20-1.9.0.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/BetterThirdPerson-Forge-1.20-1.9.0.jar",
+      "sha256": "e8b575996cc5ff40e010161cca8923b8367ce210999da7f00487d4ce0de63755",
+      "size": 61525
+    },
+    {
+      "path": "mods/bettervillage-forge-1.20.1-3.3.1-all.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/bettervillage-forge-1.20.1-3.3.1-all.jar",
+      "sha256": "9e8b26db627f1eaa6f4daa3a771c5ac844ec29249bc251273df394736451d3f2",
+      "size": 2612506
+    },
+    {
+      "path": "mods/bf_blockpack-forge-1.20.1-1.1.2.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/bf_blockpack-forge-1.20.1-1.1.2.jar",
+      "sha256": "61cbfe2596b5268c93f360382593fb7c37dcfcc81e784f74bd90c8830d8998a6",
+      "size": 9730501
+    },
+    {
+      "path": "mods/block_factorys_bosses-2.1.2-forge-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/block_factorys_bosses-2.1.2-forge-1.20.1.jar",
+      "sha256": "8c61087aa483f90861451682519582e03fa76e773d855e35180a8ed3428938bc",
+      "size": 23963009
+    },
+    {
+      "path": "mods/blueprint-1.20.1-7.1.5.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/blueprint-1.20.1-7.1.5.jar",
+      "sha256": "ab6782901ffb7b08b86325897fb3a2194e0fb1a346af316d74707101c36afb9f",
+      "size": 1160817
+    },
+    {
+      "path": "mods/Bookshelf-Forge-1.20.1-20.2.15.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/Bookshelf-Forge-1.20.1-20.2.15.jar",
+      "sha256": "7980d4a0beed1dcd2c283cf65f3c93f6b0085833f3ac490014979c95f1dfaf67",
+      "size": 343925
+    },
+    {
+      "path": "mods/born_in_chaos_[Forge]1.20.1_1.7.5.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/born_in_chaos_%5BForge%5D1.20.1_1.7.5.jar",
+      "sha256": "9f242f4f3330f3d0d985f5f3ce9a92fe09016ff9c6162252f201d17009b28d7d",
+      "size": 11839865
+    },
+    {
+      "path": "mods/bossesunleashed-1.0.4-hotfix.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/bossesunleashed-1.0.4-hotfix.jar",
+      "sha256": "e761e801caaae56d11be5481b27fc6edf1007b4f7484855aca9161c04e1609a1",
+      "size": 8925048
+    },
+    {
+      "path": "mods/botarium-forge-1.20.1-2.3.4.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/botarium-forge-1.20.1-2.3.4.jar",
+      "sha256": "470810a364ff4ad4d4fcd4e55798263938fc893970eacecc58e8b741a392b1cf",
+      "size": 157633
+    },
+    {
+      "path": "mods/camera-forge-1.20.1-1.0.20.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/camera-forge-1.20.1-1.0.20.jar",
+      "sha256": "593f3a9c0baf09d7baf8f9ec44b882716c43fbf11d5cbff607c9f7fa3ec9aeb8",
+      "size": 299726
+    },
+    {
+      "path": "mods/carryon-forge-1.20.1-2.1.2.7.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/carryon-forge-1.20.1-2.1.2.7.jar",
+      "sha256": "d7470921fc5ff988788d43409083f62478aecc91f4b81d7e6b63c80c933d4613",
+      "size": 439457
+    },
+    {
+      "path": "mods/CinematicZoom-Forge-1.20.1-1.3.8.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/CinematicZoom-Forge-1.20.1-1.3.8.jar",
+      "sha256": "155130b9ba0d80e73d94722e07342e326f003136733321a5f50d709ab1e7b01f",
+      "size": 73594
+    },
+    {
+      "path": "mods/cloth-config-11.1.136-forge.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/cloth-config-11.1.136-forge.jar",
+      "sha256": "1e895e85cf5b1e1905ef3178ec155c8badfe22a1577b92c09143a5aa1f4ce0f2",
+      "size": 1181413
+    },
+    {
+      "path": "mods/Corgilib-Forge-1.20.1-4.0.3.6.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/Corgilib-Forge-1.20.1-4.0.3.6.jar",
+      "sha256": "6f337ceae789bd31f39c0c4e1bfa1bc094dbfcc2d8e4eee3c8b6f50750891298",
+      "size": 318788
+    },
+    {
+      "path": "mods/cosmeticarmorreworked-1.20.1-v1a.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/cosmeticarmorreworked-1.20.1-v1a.jar",
+      "sha256": "c790e8671625b05ec0aa19272e0ea74ea95619f953e3c6f39a6736af0d386804",
+      "size": 88752
+    },
+    {
+      "path": "mods/create-1.20.1-6.0.8.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/create-1.20.1-6.0.8.jar",
+      "sha256": "6fbb910c367dbce8e4fc7e5bf64b6edd4de980906ed00af8e47e4af843c0d9b0",
+      "size": 19170905
+    },
+    {
+      "path": "mods/CreativeCore_FORGE_v2.12.40_mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/CreativeCore_FORGE_v2.12.40_mc1.20.1.jar",
+      "sha256": "936de62489c0d6fbe74202486cbe2b191b8629b02bab1d480acfdb03690f33f4",
+      "size": 1144290
+    },
+    {
+      "path": "mods/cristellib-1.1.6-forge.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/cristellib-1.1.6-forge.jar",
+      "sha256": "3856ad565ea45d6189452d813e2f021b365b686d3b1adae5f747c56a1e535d9f",
+      "size": 431318
+    },
+    {
+      "path": "mods/crittersandcompanions-forge-1.20.1-2.7.1.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/crittersandcompanions-forge-1.20.1-2.7.1.jar",
+      "sha256": "468bdf80d5a38bd1389be28c39ed0016d62078bd81f82577f1dbd54aae672c33",
+      "size": 2115160
+    },
+    {
+      "path": "mods/cultofazazelforge-1.1.4.12.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/cultofazazelforge-1.1.4.12.jar",
+      "sha256": "92b7eb590241b4c6fbd478f53529807127a2a9bdc5c28f062342df62484b8ed7",
+      "size": 10909359
+    },
+    {
+      "path": "mods/curios-forge-5.14.1+1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/curios-forge-5.14.1%2B1.20.1.jar",
+      "sha256": "1e817919a35b37cf30524aaec73f0ca5130452f23f168f844854df282eb8e51f",
+      "size": 398066
+    },
+    {
+      "path": "mods/Data_Anchor-forge-1.20.1-1.0.0.23.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/Data_Anchor-forge-1.20.1-1.0.0.23.jar",
+      "sha256": "9169d2387acc9cf00d6747fdf4b43111dde99ac5ca00f84de687d8d5502c23c7",
+      "size": 117628
+    },
+    {
+      "path": "mods/DungeonsArise-1.20.x-2.1.58-release.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/DungeonsArise-1.20.x-2.1.58-release.jar",
+      "sha256": "f8f1254dbe7ed7c1d5403f20361a36f0d0587c82b71313e3f427c7f1ce7c8a90",
+      "size": 8762342
+    },
+    {
+      "path": "mods/dynamiclights-1.20.1.3.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/dynamiclights-1.20.1.3.jar",
+      "sha256": "ca71e97a0fe2d9ac760cdb326426c7af1fa1e161562290fab50b1993785af6d7",
+      "size": 49779
+    },
+    {
+      "path": "mods/echovoids-2.0.3b-forge-1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/pBrtNB24/versions/B7luDqgf/echovoids-2.0.3b-forge-1.20.1.jar",
+      "sha256": "babdf47702858e6cf423e22f7191def9727fcf48ebfd92ce424b98eee633031a",
+      "size": 170966662
+    },
+    {
+      "path": "mods/elevatorid-1.20.1-1.9.1-forge.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/elevatorid-1.20.1-1.9.1-forge.jar",
+      "sha256": "7487c091bc8e6ae7b83c61471c97258b380fab2a0f421ed84df78f92ba630f75",
+      "size": 187868
+    },
+    {
+      "path": "mods/embeddium-0.3.31+mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/embeddium-0.3.31%2Bmc1.20.1.jar",
+      "sha256": "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb",
+      "size": 1320675
+    },
+    {
+      "path": "mods/EnchantmentDescriptions-Forge-1.20.1-17.1.21.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/EnchantmentDescriptions-Forge-1.20.1-17.1.21.jar",
+      "sha256": "909d1941d4ef6e4b7336738ee31380d6e1117c3c22feb70b64fed47f1cba2b07",
+      "size": 66883
+    },
+    {
+      "path": "mods/enlightend-5.0.14-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/enlightend-5.0.14-1.20.1.jar",
+      "sha256": "80da6c8ff98e1005092b7add04e48ee1a7bdb7b8bfb9938877d08656239dc9f4",
+      "size": 21506560
+    },
+    {
+      "path": "mods/entity_model_features-3.3.11-1.20.1-forge.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/entity_model_features-3.3.11-1.20.1-forge.jar",
+      "sha256": "cb408c2eecf708613e1b8f18b0a70abcc5ff0217a29f6b69c7c7cbf1df8ec374",
+      "size": 839768
+    },
+    {
+      "path": "mods/entity_texture_features-7.2.5-1.20.1-forge.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/entity_texture_features-7.2.5-1.20.1-forge.jar",
+      "sha256": "c41fc98c079d8a98cc7297641aa2956a56697165abf8884b93b29d129d8c713c",
+      "size": 999301
+    },
+    {
+      "path": "mods/entityculling-forge-1.11.3-mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/entityculling-forge-1.11.3-mc1.20.1.jar",
+      "sha256": "86de2a9fc6538bc26e71e5393ae72018eb9bb349a5dbaa0645fd194da5654b66",
+      "size": 1515076
+    },
+    {
+      "path": "mods/explosiveenhancement-1.2.0.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/explosiveenhancement-1.2.0.jar",
+      "sha256": "aea3fd8c2b2b8cbcf522ae47d392af67d3f60ded48d4ebf0270e2a99f85b431a",
+      "size": 97476
+    },
+    {
+      "path": "mods/fantasyfurniture-1.20.1-9.0.0.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/fantasyfurniture-1.20.1-9.0.0.jar",
+      "sha256": "11035b688bb1018a7ebfdaa868ffe6ace87e533b678dcf3b689c15f79fe1af2c",
+      "size": 3202951
+    },
+    {
+      "path": "mods/FarmersDelight-1.20.1-1.3.4.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/FarmersDelight-1.20.1-1.3.4.jar",
+      "sha256": "34f03eb671ea1ca579b00c98e4541404cb96d1a292014aed9cc5eb45ad8afbce",
+      "size": 3311051
+    },
+    {
+      "path": "mods/fdbosses-3.1.0.3-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/fdbosses-3.1.0.3-1.20.1.jar",
+      "sha256": "cafc218c02e5455c91273dbc209f49ea7574a38d69a5e42bb6b279e200e05d42",
+      "size": 26329336
+    },
+    {
+      "path": "mods/fdlib-1.0.9-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/fdlib-1.0.9-1.20.1.jar",
+      "sha256": "27dc0b1bd0ec9fae0ab97ebeb09cc4d8cf16cdae7eae12d2e0e49c0264e0cd6b",
+      "size": 1647611
+    },
+    {
+      "path": "mods/ferritecore-6.0.1-forge.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/ferritecore-6.0.1-forge.jar",
+      "sha256": "9c2c9396a49e796d88497758caa4637d2bcbb433c318e2dd9cebcffbaf0f6c54",
+      "size": 123034
+    },
+    {
+      "path": "mods/formations-1.0.4-forge-mc1.20.2.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/formations-1.0.4-forge-mc1.20.2.jar",
+      "sha256": "2386c12440e3464a38f300faaa52a9ce00d78d0cb70b0c8115d1148053095ac8",
+      "size": 290100
+    },
+    {
+      "path": "mods/fragmentum-5.3.0+1.20.1-forge.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/fragmentum-5.3.0%2B1.20.1-forge.jar",
+      "sha256": "8bac35d228f07cfbaf16a53415823d77ca2353b0caac00638699e1e5eeb08e78",
+      "size": 8597690
+    },
+    {
+      "path": "mods/framework-forge-1.20.1-0.8.0.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/framework-forge-1.20.1-0.8.0.jar",
+      "sha256": "37c267f46d8b8dfa81bae8c9fa9fa6467e456cadecae10722ee91b43437f25a0",
+      "size": 383868
+    },
+    {
+      "path": "mods/fzzy_config-0.7.7+1.20.1+forge.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/fzzy_config-0.7.7%2B1.20.1%2Bforge.jar",
+      "sha256": "c4acf6fd3ce66ff28050dd9fdbff25c407f98a4911311ff3f59d651acccc9575",
+      "size": 2397175
+    },
+    {
+      "path": "mods/geckolib-forge-1.20.1-4.8.4.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/geckolib-forge-1.20.1-4.8.4.jar",
+      "sha256": "c04abba4fd354dd8c0e8a732f1f05f4dca893d2e1d962b2ab128bbd411478747",
+      "size": 1038209
+    },
+    {
+      "path": "mods/goblintraders-forge-1.20.1-1.11.5.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/goblintraders-forge-1.20.1-1.11.5.jar",
+      "sha256": "05362605ea68a0b45a12b796a6787f30430bd55e462959f0a43ccd63ca14438a",
+      "size": 328727
+    },
+    {
+      "path": "mods/hamsters-forge-1.0.3-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/hamsters-forge-1.0.3-1.20.1.jar",
+      "sha256": "68a81007153fa97e8986306a2e358fcaa8a240d2fe8f30d361acfc43f8f7c51f",
+      "size": 439448
+    },
+    {
+      "path": "mods/handcrafted-forge-1.20.1-3.0.6.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/handcrafted-forge-1.20.1-3.0.6.jar",
+      "sha256": "1da3c7c524bfb656bb370757af55f08f1678e8e1cb934e1c4c04aa773ed64a79",
+      "size": 7111059
+    },
+    {
+      "path": "mods/Highlighter-1.20.1-forge-1.1.9.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/Highlighter-1.20.1-forge-1.1.9.jar",
+      "sha256": "8389c409257541c06789cd2287725d3df173168d9a0ebb9ff44c9b319e8b8026",
+      "size": 29438
+    },
+    {
+      "path": "mods/Iceberg-1.20.1-forge-1.1.25.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/Iceberg-1.20.1-forge-1.1.25.jar",
+      "sha256": "91ad6b459e0c7a16a9f3dc90230248a696600ceec6646aa23263559b8648dbc3",
+      "size": 134551
+    },
+    {
+      "path": "mods/IDA_v2.1.3-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/IDA_v2.1.3-1.20.1.jar",
+      "sha256": "98845c6d5d64603ff85e5b7a97a376ad7bbd3bbbfa706bdbf629695941945c61",
+      "size": 12271277
+    },
+    {
+      "path": "mods/ImmediatelyFast-Forge-1.5.5+1.20.4.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/ImmediatelyFast-Forge-1.5.5%2B1.20.4.jar",
+      "sha256": "82db19cc65b5c11a444498fb4b8cbcb0393c043e794cb5bf368631a0af765035",
+      "size": 532063
+    },
+    {
+      "path": "mods/immersive_gateways-forge-0.0.7+1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/immersive_gateways-forge-0.0.7%2B1.20.1.jar",
+      "sha256": "d85d92c6f1c3a3a1778871b228eb1cec528098454411d4f51c63fd78de3e5145",
+      "size": 509994
+    },
+    {
+      "path": "mods/immersivehotbar-1.2.2-forge-1.20.1-all.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/immersivehotbar-1.2.2-forge-1.20.1-all.jar",
+      "sha256": "6a914777f33af72ff29a15fb717a5affd8edb1ba08078f6bc6fe79b7bffa0b40",
+      "size": 305716
+    },
+    {
+      "path": "mods/ImmersiveUI-FORGE-0.3.0.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/ImmersiveUI-FORGE-0.3.0.jar",
+      "sha256": "7295ae6681b178ed633e951b1f4478d15b2ed7b13836038caf7d3c9427fff1ff",
+      "size": 401514
+    },
+    {
+      "path": "mods/integrated_api-forge-1.20.1-1.9.1.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/integrated_api-forge-1.20.1-1.9.1.jar",
+      "sha256": "c3d9cd60167e93ae02a03224826661b9896140b220ddbdcb247539e681839291",
+      "size": 713270
+    },
+    {
+      "path": "mods/integrated_cataclysm_forge-1.0.5+1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/integrated_cataclysm_forge-1.0.5%2B1.20.1.jar",
+      "sha256": "89c666a30663ff0a8cd0440c43f4439cb9f65ec322bef28ef90eee8f4344c519",
+      "size": 5079044
+    },
+    {
+      "path": "mods/integrated_patches v1.2.0-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/integrated_patches%20v1.2.0-1.20.1.jar",
+      "sha256": "978f3ccc73b1084899a864969fcd8cc0a3ec11f729a8c4a7f1cc1003c25f3879",
+      "size": 60922
+    },
+    {
+      "path": "mods/ironfurnaces-1.20.1-4.1.8.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/ironfurnaces-1.20.1-4.1.8.jar",
+      "sha256": "e457052522cef1f8644b6929a64eab96de04ce9e6e32a715f1d68d79da26d66b",
+      "size": 612921
+    },
+    {
+      "path": "mods/irons_lib-1.20.1-2.2.0.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/irons_lib-1.20.1-2.2.0.jar",
+      "sha256": "48f1c1d80fa85b0ddea59465bef9ac86fc1e46c58caaea839c8e8f89f29b9ebb",
+      "size": 490088
+    },
+    {
+      "path": "mods/irons_spellbooks-1.20.1-3.16.3.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/irons_spellbooks-1.20.1-3.16.3.jar",
+      "sha256": "54b5aaa52887c38f570fbd820288171234d8541c17a5e953f9271189fdd480fb",
+      "size": 15570397
+    },
+    {
+      "path": "mods/Jade-1.20.1-Forge-11.13.3.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/Jade-1.20.1-Forge-11.13.3.jar",
+      "sha256": "a632c77975e5aedff6322b0072f8b0db3f5d4bf914df6bdcc87d1aea4d5f55f4",
+      "size": 553487
+    },
+    {
+      "path": "mods/jei-1.20.1-forge-15.56.0.205.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/jei-1.20.1-forge-15.56.0.205.jar",
+      "sha256": "6b251e60a4719c874da89d750af97aa6498f6f4475e3ae79cb1288c7bf0cb65c",
+      "size": 1778129
+    },
+    {
+      "path": "mods/journeymap-forge-1.20.1-6.0.7.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/journeymap-forge-1.20.1-6.0.7.jar",
+      "sha256": "65cf198bd2ec41b2c1ac24a28544dddc74d5ef63222ebf3d393b76fa7bdc7a23",
+      "size": 4353808
+    },
+    {
+      "path": "mods/knightlib-forge-1.20.1-2.0.4.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/knightlib-forge-1.20.1-2.0.4.jar",
+      "sha256": "6fb9f0e91ca8b402451016910eeaf53016fb7ddb3715b71e7df8949afbe777ea",
+      "size": 1076999
+    },
+    {
+      "path": "mods/L_Enders_Cataclysm-3.31.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/L_Enders_Cataclysm-3.31.jar",
+      "sha256": "c29dcf940168208517b72f2d9965828b106a6b94cbea55d5001558c69a27b362",
+      "size": 73916104
+    },
+    {
+      "path": "mods/libraryferret-forge-1.20.1-4.0.0.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/libraryferret-forge-1.20.1-4.0.0.jar",
+      "sha256": "355f5000b56d6f355338bd494fcdb822f36e29cf9e3c27ebcc7720402a804510",
+      "size": 190536
+    },
+    {
+      "path": "mods/lionfishapi-3.0.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/lionfishapi-3.0.jar",
+      "sha256": "d2fdaf7e9bc53fde7da4a86ab17018a3ed6c16fc2d46de5054e5a83e2bef7871",
+      "size": 101931
+    },
+    {
+      "path": "mods/lootbeams-1.20.1-1.2.6.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/lootbeams-1.20.1-1.2.6.jar",
+      "sha256": "4660197524c9198ca93b20999204881a007df452e3bd2151358ea6b844e86b3f",
+      "size": 163914
+    },
+    {
+      "path": "mods/Mantle-1.20.1-1.11.117.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/Mantle-1.20.1-1.11.117.jar",
+      "sha256": "bcb9681f78dde0da7e63e92abb341dc0dc09503fc1ab78c96f9d40571edc240d",
+      "size": 1652715
+    },
+    {
+      "path": "mods/meteor_shower-0.0.4.2.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/meteor_shower-0.0.4.2.jar",
+      "sha256": "6f66e0f6fdbef823edaabd944ca626d5d492c4783d0664d8476e5eb7412754f0",
+      "size": 252389
+    },
+    {
+      "path": "mods/monsterexpansion-1.20.1-v0.7.6.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/monsterexpansion-1.20.1-v0.7.6.jar",
+      "sha256": "28fd406c53ec40d7164018ab8e35ab3b0a570e30138160fdcdd48c7a54775dcf",
+      "size": 18448166
+    },
+    {
+      "path": "mods/MoogsEndStructures-universal-1.20-2.1.0.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/MoogsEndStructures-universal-1.20-2.1.0.jar",
+      "sha256": "6d5c7f2a8773b96d00d8292e08b00ca7d32f2503be5151cf4f59e1871f57394f",
+      "size": 2546120
+    },
+    {
+      "path": "mods/MoogsStructureLib-forge-1.20-3.4.2.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/MoogsStructureLib-forge-1.20-3.4.2.jar",
+      "sha256": "e608ce2e206b5cca513ab1b79a5eba40237e65d910998118041277909d5488b9",
+      "size": 1089534
+    },
+    {
+      "path": "mods/moonlight-1.20-2.16.37-forge.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/moonlight-1.20-2.16.37-forge.jar",
+      "sha256": "0cf5a628fd2dcde4a87b9e596657684c409836414fc86cbe110f3858824dc971",
+      "size": 1421904
+    },
+    {
+      "path": "mods/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+      "sha256": "6c27d16aa715ac6613a55fc463739e2c7b78279e4e4c4cede299e4a2d4a70f08",
+      "size": 76237
+    },
+    {
+      "path": "mods/naturalist-5.0pre5+forge-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/naturalist-5.0pre5%2Bforge-1.20.1.jar",
+      "sha256": "2cb0ec1143818a4827fb3b8a1d5fc7be627a0b72632c8a19cb0a5a363ecbfe5b",
+      "size": 3807415
+    },
+    {
+      "path": "mods/Nullscape_1.20.x_v1.2.8.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/Nullscape_1.20.x_v1.2.8.jar",
+      "sha256": "32ccc5beb6ad0215e06082620903e1825a1b0df51777f3f31801b4a17e6ebcc5",
+      "size": 399214
+    },
+    {
+      "path": "mods/OctoLib-FORGE-0.5.0.1+1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/OctoLib-FORGE-0.5.0.1%2B1.20.1.jar",
+      "sha256": "5bb146c691f2c5054752f006a61aab6335ecb1cd9718a9643733de5367971047",
+      "size": 424035
+    },
+    {
+      "path": "mods/oculus-mc1.20.1-1.8.0.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/oculus-mc1.20.1-1.8.0.jar",
+      "sha256": "0945df0cba0f62b3901dd80c3268e5311b770ece78c78037a45db12ac0425fef",
+      "size": 2851119
+    },
+    {
+      "path": "mods/Oh-The-Biomes-Weve-Gone-Forge-1.8.2.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/Oh-The-Biomes-Weve-Gone-Forge-1.8.2.jar",
+      "sha256": "38174a9aaf8b087f9f264d0fcd43f3c3180238d7732c7d65582e4bcedaea01d3",
+      "size": 19071374
+    },
+    {
+      "path": "mods/Oh-The-Trees-Youll-Grow-forge-1.20.1-1.7.3.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/Oh-The-Trees-Youll-Grow-forge-1.20.1-1.7.3.jar",
+      "sha256": "5817a5ff8439515b6413ab655cc7d64ecd3d24d4ac5a8605ae34fd73ec8be4cf",
+      "size": 178409
+    },
+    {
+      "path": "mods/olympusmythology-forge-1.20.1-1.0.11.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/olympusmythology-forge-1.20.1-1.0.11.jar",
+      "sha256": "7391e1ad8650ecb43118ecdb96f8bd6477b95f59af61414925f24f71bd85199a",
+      "size": 2098645
+    },
+    {
+      "path": "mods/Paraglider-forge-20.1.3.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/Paraglider-forge-20.1.3.jar",
+      "sha256": "3528e4d424682a415ae97b9597e5ed0567e5a194b4aeb30ae364e962da43b36a",
+      "size": 589055
+    },
+    {
+      "path": "mods/Patchouli-1.20.1-85-FORGE.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/Patchouli-1.20.1-85-FORGE.jar",
+      "sha256": "05f7b5d52f6b8f0fd7f8b4822fa07a192d1394d83a264309c9d221d6d4fd21c5",
+      "size": 642732
+    },
+    {
+      "path": "mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/player-animation-lib-forge-1.0.2-rc1%2B1.20.jar",
+      "sha256": "90d9965cb9efdbda29fdc5610be3914cf7008bf5c392ff34f7ab25f96a852691",
+      "size": 181437
+    },
+    {
+      "path": "mods/PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar",
+      "sha256": "beeb560232c8ee691ea446d53194358902eed8ed38d198515906ac724bdde1fb",
+      "size": 5298162
+    },
+    {
+      "path": "mods/punchy-2.8f-forge-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/punchy-2.8f-forge-1.20.1.jar",
+      "sha256": "3ab3f90f47e5da38993af7390a01b12b5678ceb6fd89cad87a8a1bfceddb5ea7",
+      "size": 1937605
+    },
+    {
+      "path": "mods/Quark-4.0-462.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/Quark-4.0-462.jar",
+      "sha256": "c90b96f049d92825c4a103721988c80d72e5ad380d17be46a0f53e114874c478",
+      "size": 14935230
+    },
+    {
+      "path": "mods/refurbished_furniture-forge-1.20.1-1.0.20.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/refurbished_furniture-forge-1.20.1-1.0.20.jar",
+      "sha256": "480546202aa21fa07e6b1571f3e3263e5690e9804afb7c35984642bcf473bc6e",
+      "size": 6689588
+    },
+    {
+      "path": "mods/resourcefulconfig-forge-1.20.1-2.1.3.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/resourcefulconfig-forge-1.20.1-2.1.3.jar",
+      "sha256": "c404b9e5cf8595427a72d4ca6ee5730289168762b463f169be3ae5dfe3727ded",
+      "size": 136923
+    },
+    {
+      "path": "mods/resourcefullib-forge-1.20.1-2.1.29.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/resourcefullib-forge-1.20.1-2.1.29.jar",
+      "sha256": "b13afb95231d88e1caea5a045967e0fc291b29020b0d26ad39e6f9e9a551fee8",
+      "size": 432753
+    },
+    {
+      "path": "mods/Ribbits-1.20.1-Forge-3.0.5.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/Ribbits-1.20.1-Forge-3.0.5.jar",
+      "sha256": "e04aa665df7e96844fe8833f29cc343feefac8ad7b949399d7b4a60475123e2b",
+      "size": 2223589
+    },
+    {
+      "path": "mods/rubidium-extra-0.5.4.4+mc1.20.1-build.131.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/rubidium-extra-0.5.4.4%2Bmc1.20.1-build.131.jar",
+      "sha256": "32c28582040dfab4e167542bf319107296e9eff3cb17f4f576eba036f2d256da",
+      "size": 568608
+    },
+    {
+      "path": "mods/samurai_dynasty-0.0.51-1.20.1-forge.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/samurai_dynasty-0.0.51-1.20.1-forge.jar",
+      "sha256": "be95a714c1d5b2e577cf2d05c6158782cc484951d08ef0ea17b3c31b80f544df",
+      "size": 2267792
+    },
+    {
+      "path": "mods/simplyswords-forge-neoforge-1.70.2-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/simplyswords-forge-neoforge-1.70.2-1.20.1.jar",
+      "sha256": "642e385ffda914f1b9411f0a457fe5fb5e05aa160dc44392dec9a549c2bcec21",
+      "size": 15765792
+    },
+    {
+      "path": "mods/SimplyTooltips-forge-0.1.5-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/SimplyTooltips-forge-0.1.5-1.20.1.jar",
+      "sha256": "a50357b4982132522f48afc6fa625c453359390f8180e4c72f6288ecd46dee3c",
+      "size": 5418741
+    },
+    {
+      "path": "mods/sky_whale_ship-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/sky_whale_ship-1.20.1.jar",
+      "sha256": "8cf312214d33fce2206c60c4a73374d4a83a192896c6a87d779b724ff3f310ce",
+      "size": 724779
+    },
+    {
+      "path": "mods/SmoothPlayerAnimations_Forge_1.20.1_1.1.0.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/SmoothPlayerAnimations_Forge_1.20.1_1.1.0.jar",
+      "sha256": "9a91ef369c62dcd0a0ff0bd24307aaaf531c45b94108f9e88fa0b9d3ef398c48",
+      "size": 397258
+    },
+    {
+      "path": "mods/sophisticatedbackpacks-1.20.1-3.26.12.2206.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/sophisticatedbackpacks-1.20.1-3.26.12.2206.jar",
+      "sha256": "c2138dd3be9dd228ada74331b94a5a1a7e95074de67d68028ce44229f6d2f83a",
+      "size": 1220809
+    },
+    {
+      "path": "mods/sophisticatedcore-1.20.1-1.5.10.2402.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/sophisticatedcore-1.20.1-1.5.10.2402.jar",
+      "sha256": "5b0d4bd0ac0badf08471fa78912eec0c1f1962e13f16249e4774fa7667b9c6bd",
+      "size": 1763344
+    },
+    {
+      "path": "mods/sound-physics-remastered-forge-1.20.1-1.4.10.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/sound-physics-remastered-forge-1.20.1-1.4.10.jar",
+      "sha256": "57ce3c7d5abe724d9fb82f3d068b7717a56b94b7d3ea98f90a2f9ca61c8f57b1",
+      "size": 203819
+    },
+    {
+      "path": "mods/stalwart-dungeons-1.20.1-1.2.8.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/stalwart-dungeons-1.20.1-1.2.8.jar",
+      "sha256": "c0b967220e751629da248151a30d8d21f9cf3afc6c92da0aa8bd838a05f8fd7a",
+      "size": 1049721
+    },
+    {
+      "path": "mods/stellara-forge-1.20.1-0.1.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/stellara-forge-1.20.1-0.1.jar",
+      "sha256": "c91d25aff1d9b2a9b60eb10a014da1aae527cb88243954da1f4e3b02170d1259",
+      "size": 184454
+    },
+    {
+      "path": "mods/supplementaries-1.20-3.1.44-forge (1).jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/supplementaries-1.20-3.1.44-forge%20(1).jar",
+      "sha256": "13c07f2b290f9f3dc8fcab8287ad699b0af16974291ad43c7cc95f8cf235a90b",
+      "size": 13686603
+    },
+    {
+      "path": "mods/supplementaries-1.20-3.1.44-forge.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/supplementaries-1.20-3.1.44-forge.jar",
+      "sha256": "13c07f2b290f9f3dc8fcab8287ad699b0af16974291ad43c7cc95f8cf235a90b",
+      "size": 13686603
+    },
+    {
+      "path": "mods/TConstruct-1.20.1-3.11.2.166.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/TConstruct-1.20.1-3.11.2.166.jar",
+      "sha256": "653b49d73481a1325ba78adc7273dee6c765a51bafdf264a7510576d6ef91c43",
+      "size": 21572031
+    },
+    {
+      "path": "mods/TerraBlender-forge-1.20.1-3.0.1.10.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/TerraBlender-forge-1.20.1-3.0.1.10.jar",
+      "sha256": "c109016f46ca9bdae69976bf080bbf2e8e5968cb66c0a78845f8ca6af5dbbeb1",
+      "size": 107532
+    },
+    {
+      "path": "mods/thedragonlib-1.20.1-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/thedragonlib-1.20.1-1.0.0.jar",
+      "sha256": "cd1072bdb80ab1faaa0ad30b8b9b11fda49fa49b8de2be4831085c6732c00ded",
+      "size": 38506
+    },
+    {
+      "path": "mods/TheOuterEnd-1.0.13.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/TheOuterEnd-1.0.13.jar",
+      "sha256": "f3e375be84c9e84d6ea7d3679635424d536c59d80c49cf5d669abbcd1b3f8b73",
+      "size": 14375300
+    },
+    {
+      "path": "mods/tombstone-1.20.1-9.1.5.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/tombstone-1.20.1-9.1.5.jar",
+      "sha256": "b610a465ac5bffa8142076324946a59ab4b662affec7c25ddcb4ece9e33d6497",
+      "size": 2560746
+    },
+    {
+      "path": "mods/Towns-and-Towers-1.12-Fabric+Forge.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/Towns-and-Towers-1.12-Fabric%2BForge.jar",
+      "sha256": "9c8115af7109579da990249fdd67b38323a45be70f8a3a962b61da69c7021984",
+      "size": 2864275
+    },
+    {
+      "path": "mods/TreeChop-1.20.1-forge-0.19.0-fixed.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/TreeChop-1.20.1-forge-0.19.0-fixed.jar",
+      "sha256": "219fbe5bf8d862dc7b524ca5a0151f66bba4d53a01010858e136a9e8c4d55d4f",
+      "size": 517225
+    },
+    {
+      "path": "mods/Tridot-1.20.1-1.0.172.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/Tridot-1.20.1-1.0.172.jar",
+      "sha256": "6d9bbd23b73233bf97d9f992a56490d25657e9be0160f1df62e4b6c5cf6e1f47",
+      "size": 1456826
+    },
+    {
+      "path": "mods/Unusual-Prehistory-2-1.20.1-1.4.3.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/Unusual-Prehistory-2-1.20.1-1.4.3.jar",
+      "sha256": "9da01cd8c77b17735a2b5f59d2581f044afa9adaf74b129bdc1e88e42de4d84a",
+      "size": 20257763
+    },
+    {
+      "path": "mods/unusualend-2.3.1d.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/unusualend-2.3.1d.jar",
+      "sha256": "b3f5b4fb5472ae25ed34e7b64ddb4067df9b031771998fa16c5e09a6c3e274b5",
+      "size": 20043102
+    },
+    {
+      "path": "mods/unusualfishmod-1.1.10.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/unusualfishmod-1.1.10.jar",
+      "sha256": "08528074c3abcfbec28f9ce36b7ffa8c2ac3d3bac53f827e725fa46a99654ed8",
+      "size": 5047780
+    },
+    {
+      "path": "mods/unusualprehistory-1.5.0.3.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/unusualprehistory-1.5.0.3.jar",
+      "sha256": "a83c80d5dac97a2d04240b6581b95fc3b65352ea1fb33409a72db2b1a59db018",
+      "size": 8813657
+    },
+    {
+      "path": "mods/Valoria-1.20.1-1.1.0.1.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/Valoria-1.20.1-1.1.0.1.jar",
+      "sha256": "ff28ba707f0d0a506e6030d5908c6f507448ff25f3ecd6509d0f566f03ac5d79",
+      "size": 37117064
+    },
+    {
+      "path": "mods/variantsandventures-forge-1.0.28+mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/variantsandventures-forge-1.0.28%2Bmc1.20.1.jar",
+      "sha256": "56ea7f262334f5515cb2b08c8cd3e7e594a188b1984e8e5fdc54398e50e06f03",
+      "size": 1287099
+    },
+    {
+      "path": "mods/veinmining-forge-1.5.0+1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/veinmining-forge-1.5.0%2B1.20.1.jar",
+      "sha256": "0863db13b3e13ec5fd077df1b64c21ab7637048880713c859246a6e1d7144460",
+      "size": 230264
+    },
+    {
+      "path": "mods/visuality-forge-2.2.0.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/visuality-forge-2.2.0.jar",
+      "sha256": "0eb8b00fb8e3bef96930a13a6abeec6fde624baf95886d54e82986f03998d88e",
+      "size": 226834
+    },
+    {
+      "path": "mods/voicechat-forge-1.20.1-2.6.24.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/voicechat-forge-1.20.1-2.6.24.jar",
+      "sha256": "27836959ce2d5b6879cb9dc2b9a698fa7434c8641e46290e98fd8641b732dc4a",
+      "size": 4939842
+    },
+    {
+      "path": "mods/Waves-1.20.1-1.6.1.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/Waves-1.20.1-1.6.1.jar",
+      "sha256": "aa0b0c1c5874da16e23b738f76bb5f83f0d312cdc1f9c67388301341d58e57ff",
+      "size": 1337928
+    },
+    {
+      "path": "mods/waystones-forge-1.20.1-14.1.21.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/waystones-forge-1.20.1-14.1.21.jar",
+      "sha256": "fd6fe3c645328ea7be5bc6723d02c881e34650e0cbd4527ba59e42fa4cbe3c80",
+      "size": 536782
+    },
+    {
+      "path": "mods/weaponmaster-1.4.3-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/weaponmaster-1.4.3-1.20.1.jar",
+      "sha256": "3a6673b8d7d0d7db0561442e32616b1fd4f7ececbe1fc4b812a876d66691a8cf",
+      "size": 3027302
+    },
+    {
+      "path": "mods/WunderLib-20.0.1.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/WunderLib-20.0.1.jar",
+      "sha256": "33d30150d69f0b1f1b077dab0edbefdca5e274bfa9a56578c6fe35d4dc62ccbd",
+      "size": 227846
+    },
+    {
+      "path": "mods/yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/yet_another_config_lib_v3-3.6.6%2B1.20.1-forge.jar",
+      "sha256": "bd05da3d9df29b914165583f1c6dfd918a138996447ff32c0418329824027a8f",
+      "size": 1105891
+    },
+    {
+      "path": "mods/YungsApi-1.20-Forge-4.0.6.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/YungsApi-1.20-Forge-4.0.6.jar",
+      "sha256": "101c30d01d0cf9d86190f578eb1e43bd06b64092e95662a00ef52946f472c7b1",
+      "size": 370524
+    },
+    {
+      "path": "mods/Zeta-1.0-31.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/Zeta-1.0-31.jar",
+      "sha256": "cd1786902a79434f8fd762d741019d9c8a79725fef7e30a89c153c934e1e6a9e",
+      "size": 1006518
+    }
+  ]
+}
