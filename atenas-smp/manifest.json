@@ -1,8 +1,8 @@
 {
   "id": "atenas-smp",
   "name": "Atenas SMP",
-  "packVersion": "1.0.2",
-  "changelog": "Añadido: alltheleaks-1.1.4+1.20.1-forge.jar, citadel-2.6.3-1.20.1.jar, emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar, ftb-teams-forge-2001.3.2.jar, gbf-1.0.2.jar, gnetum-2.5.1+1.20.1-forge.jar, iceandfire-2.1.13-1.20.1-beta-5.jar, lithostitched-forge-1.20.1-1.4.11.jar, modernfix-forge-5.27.88+mc1.20.1.jar, music_disc_maker-3.1.0+forge-1.20.1.jar, particle_core-0.3.3+1.20.1+forge.jar, ruok-forge_1.20.1_Pre-Release_6-1.7.4.jar, skinrestorer-2.10.0+1.20-forge.jar, Terralith_1.20.x_v2.5.4.jar\nQuitado: Auroras-1.20.1-1.6.2.jar, cultofazazelforge-1.1.4.12.jar, stellara-forge-1.20.1-0.1.jar",
+  "packVersion": "1.0.3",
+  "changelog": "Añadido: ProjectE-1.20.1-PE1.0.1.jar",
   "minecraft": "1.20.1",
   "loader": {
     "type": "forge",
@@ -689,6 +689,12 @@
       "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar",
       "sha256": "beeb560232c8ee691ea446d53194358902eed8ed38d198515906ac724bdde1fb",
       "size": 5298162
+    },
+    {
+      "path": "mods/ProjectE-1.20.1-PE1.0.1.jar",
+      "url": "https://edge.forgecdn.net/files/4901/949/ProjectE-1.20.1-PE1.0.1.jar",
+      "sha256": "f51f387e56307e7cda26915ca0c789760d85e97a8b40b8bfa0988be66371d018",
+      "size": 2257347
     },
     {
       "path": "mods/punchy-2.8f-forge-1.20.1.jar",
