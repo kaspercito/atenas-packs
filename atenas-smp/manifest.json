@@ -1,8 +1,8 @@
 {
   "id": "atenas-smp",
   "name": "Atenas SMP",
-  "packVersion": "1.0.6",
-  "changelog": "Quitado: skinrestorer-2.10.0+1.20-forge.jar",
+  "packVersion": "1.0.7",
+  "changelog": "Añadido: AtenasSocial-1.20.1-1.0.3.jar\nQuitado: AtenasSocial-1.20.1-1.0.2.jar",
   "minecraft": "1.20.1",
   "loader": {
     "type": "forge",
@@ -85,10 +85,10 @@
       "size": 850974
     },
     {
-      "path": "mods/AtenasSocial-1.20.1-1.0.2.jar",
-      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/AtenasSocial-1.20.1-1.0.2.jar",
-      "sha256": "6ca0ce5425a5050efcaa92733de56529b12baf5cbae46c71d6b5db2781a7de6e",
-      "size": 2003337
+      "path": "mods/AtenasSocial-1.20.1-1.0.3.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/AtenasSocial-1.20.1-1.0.3.jar",
+      "sha256": "d4049819a5278e8645f555c461fec5c7a1f8f1cf0e8c09ecefbf970dc2da50ed",
+      "size": 6777761
     },
     {
       "path": "mods/azurelib-neo-1.20.1-3.1.22.jar",
