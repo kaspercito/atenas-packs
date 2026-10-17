@@ -1,8 +1,8 @@
 {
   "id": "atenas-smp",
   "name": "Atenas SMP",
-  "packVersion": "1.0.5",
-  "changelog": "Añadido: AtenasSocial-1.20.1-1.0.2.jar\nQuitado: AtenasSocial-1.20.1-1.0.1.jar",
+  "packVersion": "1.0.6",
+  "changelog": "Quitado: skinrestorer-2.10.0+1.20-forge.jar",
   "minecraft": "1.20.1",
   "loader": {
     "type": "forge",
@@ -767,12 +767,6 @@
       "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/SimplyTooltips-forge-0.1.5-1.20.1.jar",
       "sha256": "a50357b4982132522f48afc6fa625c453359390f8180e4c72f6288ecd46dee3c",
       "size": 5418741
-    },
-    {
-      "path": "mods/skinrestorer-2.10.0+1.20-forge.jar",
-      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/skinrestorer-2.10.0%2B1.20-forge.jar",
-      "sha256": "2f201b30da26d3a6302be4af0fe89a0cc5bdd91351488443b8ff848b8efdf2ef",
-      "size": 278170
     },
     {
       "path": "mods/sky_whale_ship-1.20.1.jar",
