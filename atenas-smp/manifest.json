@@ -1,8 +1,8 @@
 {
   "id": "atenas-smp",
   "name": "Atenas SMP",
-  "packVersion": "1.0.18",
-  "changelog": "Añadido: AtenasSocial-1.20.1-1.1.3.jar\nQuitado: AtenasSocial-1.20.1-1.1.2.jar",
+  "packVersion": "1.0.19",
+  "changelog": "Añadido: AtenasSocial-1.20.1-1.1.4.jar\nQuitado: AtenasSocial-1.20.1-1.1.3.jar",
   "minecraft": "1.20.1",
   "loader": {
     "type": "forge",
@@ -85,10 +85,10 @@
       "size": 850974
     },
     {
-      "path": "mods/AtenasSocial-1.20.1-1.1.3.jar",
-      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/AtenasSocial-1.20.1-1.1.3.jar",
-      "sha256": "c550309a2ed7394af4b4383806a6d164af8c041bd9896ce43c33848161187515",
-      "size": 11149239
+      "path": "mods/AtenasSocial-1.20.1-1.1.4.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/AtenasSocial-1.20.1-1.1.4.jar",
+      "sha256": "e9ac1e2d19a1848b27835b17edf8e58d618e65449a92c5cc0777b71b5c34de1c",
+      "size": 11151887
     },
     {
       "path": "mods/azurelib-neo-1.20.1-3.1.22.jar",
