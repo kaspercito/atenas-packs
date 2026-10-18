@@ -1,8 +1,8 @@
 {
   "id": "atenas-smp",
   "name": "Atenas SMP",
-  "packVersion": "1.0.16",
-  "changelog": "Añadido: AtenasSocial-1.20.1-1.1.2.jar\nQuitado: AtenasSocial-1.20.1-1.1.1.jar",
+  "packVersion": "1.0.17",
+  "changelog": "Añadido: sophisticatedcore-1.20.1-1.5.12.2412.jar, sophisticatedstorage-1.20.1-1.5.6.2183.jar",
   "minecraft": "1.20.1",
   "loader": {
     "type": "forge",
@@ -791,6 +791,18 @@
       "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/sophisticatedcore-1.20.1-1.5.10.2402.jar",
       "sha256": "5b0d4bd0ac0badf08471fa78912eec0c1f1962e13f16249e4774fa7667b9c6bd",
       "size": 1763344
+    },
+    {
+      "path": "mods/sophisticatedcore-1.20.1-1.5.12.2412.jar",
+      "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/YxgjJy68/sophisticatedcore-1.20.1-1.5.12.2412.jar",
+      "sha256": "2185f35625dbcb3ceb91502f324bf321b7d1d09eb0b226a7cc48fe788d0f814a",
+      "size": 1763486
+    },
+    {
+      "path": "mods/sophisticatedstorage-1.20.1-1.5.6.2183.jar",
+      "url": "https://cdn.modrinth.com/data/hMlaZH8f/versions/vFpp1Lw7/sophisticatedstorage-1.20.1-1.5.6.2183.jar",
+      "sha256": "25e76218c1467ee2fdb469b3cd81941d0c8ce31738a0f3dbed66a99e9f952961",
+      "size": 1932769
     },
     {
       "path": "mods/sound-physics-remastered-forge-1.20.1-1.4.10.jar",
