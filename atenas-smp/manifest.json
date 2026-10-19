@@ -1,8 +1,8 @@
 {
   "id": "atenas-smp",
   "name": "Atenas SMP",
-  "packVersion": "1.0.30",
-  "changelog": "Quitado: monsterexpansion-1.20.1-v0.7.6.jar",
+  "packVersion": "1.0.31",
+  "changelog": "Quitado: BetterEnd-20.0.11.jar, create-1.20.1-6.0.8.jar, echovoids-2.0.3b-forge-1.20.1.jar",
   "minecraft": "1.20.1",
   "loader": {
     "type": "forge",
@@ -115,12 +115,6 @@
       "size": 1449138
     },
     {
-      "path": "mods/BetterEnd-20.0.11.jar",
-      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/BetterEnd-20.0.11.jar",
-      "sha256": "8c24d905c4c0d4859c48b210922ebf3b4cb7a316eecc5bf845e57312e258d190",
-      "size": 97337194
-    },
-    {
       "path": "mods/BetterThirdPerson-Forge-1.20-1.9.0.jar",
       "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/BetterThirdPerson-Forge-1.20-1.9.0.jar",
       "sha256": "e8b575996cc5ff40e010161cca8923b8367ce210999da7f00487d4ce0de63755",
@@ -217,12 +211,6 @@
       "size": 88752
     },
     {
-      "path": "mods/create-1.20.1-6.0.8.jar",
-      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/create-1.20.1-6.0.8.jar",
-      "sha256": "6fbb910c367dbce8e4fc7e5bf64b6edd4de980906ed00af8e47e4af843c0d9b0",
-      "size": 19170905
-    },
-    {
       "path": "mods/CreativeCore_FORGE_v2.12.40_mc1.20.1.jar",
       "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/CreativeCore_FORGE_v2.12.40_mc1.20.1.jar",
       "sha256": "936de62489c0d6fbe74202486cbe2b191b8629b02bab1d480acfdb03690f33f4",
@@ -263,12 +251,6 @@
       "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/dynamiclights-1.20.1.3.jar",
       "sha256": "ca71e97a0fe2d9ac760cdb326426c7af1fa1e161562290fab50b1993785af6d7",
       "size": 49779
-    },
-    {
-      "path": "mods/echovoids-2.0.3b-forge-1.20.1.jar",
-      "url": "https://cdn.modrinth.com/data/pBrtNB24/versions/B7luDqgf/echovoids-2.0.3b-forge-1.20.1.jar",
-      "sha256": "babdf47702858e6cf423e22f7191def9727fcf48ebfd92ce424b98eee633031a",
-      "size": 170966662
     },
     {
       "path": "mods/elevatorid-1.20.1-1.9.1-forge.jar",
