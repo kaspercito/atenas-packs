@@ -5,5 +5,3 @@
 #  Se administra desde Atenas Admin (pestaña «Añadir mods»).
 # ═══════════════════════════════════════════════════════════════
 echovoids
-sophisticated-storage
-sophisticated-core
