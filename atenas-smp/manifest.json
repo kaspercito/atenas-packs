@@ -1,8 +1,8 @@
 {
   "id": "atenas-smp",
   "name": "Atenas SMP",
-  "packVersion": "1.0.29",
-  "changelog": "Quitado: sophisticatedcore-1.20.1-1.5.12.2412.jar, sophisticatedstorage-1.20.1-1.5.6.2183.jar",
+  "packVersion": "1.0.30",
+  "changelog": "Quitado: monsterexpansion-1.20.1-v0.7.6.jar",
   "minecraft": "1.20.1",
   "loader": {
     "type": "forge",
@@ -587,12 +587,6 @@
       "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/modernfix-forge-5.27.88%2Bmc1.20.1.jar",
       "sha256": "0f4321aa704c3d7813822065675c33441759dc52b6825fa522b5a36f37e430d5",
       "size": 1009661
-    },
-    {
-      "path": "mods/monsterexpansion-1.20.1-v0.7.6.jar",
-      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/monsterexpansion-1.20.1-v0.7.6.jar",
-      "sha256": "28fd406c53ec40d7164018ab8e35ab3b0a570e30138160fdcdd48c7a54775dcf",
-      "size": 18448166
     },
     {
       "path": "mods/MoogsEndStructures-universal-1.20-2.1.0.jar",
