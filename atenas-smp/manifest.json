@@ -1,8 +1,8 @@
 {
   "id": "atenas-smp",
   "name": "Atenas SMP",
-  "packVersion": "1.0.31",
-  "changelog": "Quitado: BetterEnd-20.0.11.jar, create-1.20.1-6.0.8.jar, echovoids-2.0.3b-forge-1.20.1.jar",
+  "packVersion": "1.0.32",
+  "changelog": "Quitado: enlightend-5.0.14-1.20.1.jar, MoogsEndStructures-universal-1.20-2.1.0.jar, Nullscape_1.20.x_v1.2.8.jar, TheOuterEnd-1.0.13.jar, unusualend-2.3.1d.jar",
   "minecraft": "1.20.1",
   "loader": {
     "type": "forge",
@@ -275,12 +275,6 @@
       "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/EnchantmentDescriptions-Forge-1.20.1-17.1.21.jar",
       "sha256": "909d1941d4ef6e4b7336738ee31380d6e1117c3c22feb70b64fed47f1cba2b07",
       "size": 66883
-    },
-    {
-      "path": "mods/enlightend-5.0.14-1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/enlightend-5.0.14-1.20.1.jar",
-      "sha256": "80da6c8ff98e1005092b7add04e48ee1a7bdb7b8bfb9938877d08656239dc9f4",
-      "size": 21506560
     },
     {
       "path": "mods/entity_model_features-3.3.11-1.20.1-forge.jar",
@@ -571,12 +565,6 @@
       "size": 1009661
     },
     {
-      "path": "mods/MoogsEndStructures-universal-1.20-2.1.0.jar",
-      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/MoogsEndStructures-universal-1.20-2.1.0.jar",
-      "sha256": "6d5c7f2a8773b96d00d8292e08b00ca7d32f2503be5151cf4f59e1871f57394f",
-      "size": 2546120
-    },
-    {
       "path": "mods/MoogsStructureLib-forge-1.20-3.4.2.jar",
       "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/MoogsStructureLib-forge-1.20-3.4.2.jar",
       "sha256": "e608ce2e206b5cca513ab1b79a5eba40237e65d910998118041277909d5488b9",
@@ -605,12 +593,6 @@
       "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/naturalist-5.0pre5%2Bforge-1.20.1.jar",
       "sha256": "2cb0ec1143818a4827fb3b8a1d5fc7be627a0b72632c8a19cb0a5a363ecbfe5b",
       "size": 3807415
-    },
-    {
-      "path": "mods/Nullscape_1.20.x_v1.2.8.jar",
-      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/Nullscape_1.20.x_v1.2.8.jar",
-      "sha256": "32ccc5beb6ad0215e06082620903e1825a1b0df51777f3f31801b4a17e6ebcc5",
-      "size": 399214
     },
     {
       "path": "mods/OctoLib-FORGE-0.5.0.1+1.20.1.jar",
@@ -817,12 +799,6 @@
       "size": 38506
     },
     {
-      "path": "mods/TheOuterEnd-1.0.13.jar",
-      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/TheOuterEnd-1.0.13.jar",
-      "sha256": "f3e375be84c9e84d6ea7d3679635424d536c59d80c49cf5d669abbcd1b3f8b73",
-      "size": 14375300
-    },
-    {
       "path": "mods/tombstone-1.20.1-9.1.5.jar",
       "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/tombstone-1.20.1-9.1.5.jar",
       "sha256": "b610a465ac5bffa8142076324946a59ab4b662affec7c25ddcb4ece9e33d6497",
@@ -857,12 +833,6 @@
       "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/Unusual-Prehistory-2-1.20.1-1.4.3.jar",
       "sha256": "9da01cd8c77b17735a2b5f59d2581f044afa9adaf74b129bdc1e88e42de4d84a",
       "size": 20257763
-    },
-    {
-      "path": "mods/unusualend-2.3.1d.jar",
-      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/unusualend-2.3.1d.jar",
-      "sha256": "b3f5b4fb5472ae25ed34e7b64ddb4067df9b031771998fa16c5e09a6c3e274b5",
-      "size": 20043102
     },
     {
       "path": "mods/unusualfishmod-1.1.10.jar",
