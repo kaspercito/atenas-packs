@@ -1,8 +1,8 @@
 {
   "id": "atenas-smp",
   "name": "Atenas SMP",
-  "packVersion": "1.0.32",
-  "changelog": "Quitado: enlightend-5.0.14-1.20.1.jar, MoogsEndStructures-universal-1.20-2.1.0.jar, Nullscape_1.20.x_v1.2.8.jar, TheOuterEnd-1.0.13.jar, unusualend-2.3.1d.jar",
+  "packVersion": "1.0.33",
+  "changelog": "Quitado: integrated_api-forge-1.20.1-1.9.1.jar, integrated_cataclysm_forge-1.0.5+1.20.1.jar, integrated_patches v1.2.0-1.20.1.jar",
   "minecraft": "1.20.1",
   "loader": {
     "type": "forge",
@@ -455,24 +455,6 @@
       "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/ImmersiveUI-FORGE-0.3.0.jar",
       "sha256": "7295ae6681b178ed633e951b1f4478d15b2ed7b13836038caf7d3c9427fff1ff",
       "size": 401514
-    },
-    {
-      "path": "mods/integrated_api-forge-1.20.1-1.9.1.jar",
-      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/integrated_api-forge-1.20.1-1.9.1.jar",
-      "sha256": "c3d9cd60167e93ae02a03224826661b9896140b220ddbdcb247539e681839291",
-      "size": 713270
-    },
-    {
-      "path": "mods/integrated_cataclysm_forge-1.0.5+1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/integrated_cataclysm_forge-1.0.5%2B1.20.1.jar",
-      "sha256": "89c666a30663ff0a8cd0440c43f4439cb9f65ec322bef28ef90eee8f4344c519",
-      "size": 5079044
-    },
-    {
-      "path": "mods/integrated_patches v1.2.0-1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/files/mods/integrated_patches%20v1.2.0-1.20.1.jar",
-      "sha256": "978f3ccc73b1084899a864969fcd8cc0a3ec11f729a8c4a7f1cc1003c25f3879",
-      "size": 60922
     },
     {
       "path": "mods/ironfurnaces-1.20.1-4.1.8.jar",
