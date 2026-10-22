@@ -1,12 +1,12 @@
 {
   "id": "atenas-cobblemon",
   "name": "Atenas Cobblemon",
-  "packVersion": "1.0.8",
-  "changelog": "Añadido: another_furniture-fabric-4.0.2.jar, CobbleDollars-fabric-2.0.0+Beta-6.1+1.21.1.jar, cobblemonextrastructures-1.21.1-1.3.0-fabric.jar, cobblemonopponents-fabric-1.8.0.jar, cobblestructures-1.1.0.jar",
+  "packVersion": "1.0.9",
+  "changelog": "Ajustes: 1.21.1 · fabric 0.19.5 · RAM 8G-12G",
   "minecraft": "1.21.1",
   "loader": {
     "type": "fabric",
-    "version": "0.18.1"
+    "version": "0.19.5"
   },
   "java": null,
   "ram": {
