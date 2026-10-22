@@ -1,8 +1,8 @@
 {
   "id": "atenas-cobblemon",
   "name": "Atenas Cobblemon",
-  "packVersion": "1.0.3",
-  "changelog": "Añadido: BetterThirdPerson-Fabric-1.21-1.9.0.jar, entity_model_features-3.3.12-1.21-fabric.jar, entity_texture_features-7.2.6-1.21-fabric (1).jar, entity_texture_features-7.2.6-1.21-fabric.jar, make_bubbles_pop-0.3.0-fabric-mc1.19.4-1.21.jar, owo-lib-0.13.0-alpha.15+1.21.jar, particular-1.1.2+1.21.jar, visuality-0.7.7+1.21.jar\nQuitado: dynamic-fps-3.11.4+minecraft-1.21.0-fabric.jar, entityculling-fabric-1.11.3-mc1.21.1.jar, ImmediatelyFast-Fabric-1.6.15+1.21.1.jar, iris-fabric-1.8.8+mc1.21.1.jar, notenoughanimations-fabric-1.12.6-mc1.21.1.jar, sodium-extra-fabric-0.9.4+mc1.21.1.jar, sodium-fabric-0.8.13+mc1.21.1.jar",
+  "packVersion": "1.0.4",
+  "changelog": "Quitado: owo-lib-0.13.0-alpha.15+1.21.jar",
   "minecraft": "1.21.1",
   "loader": {
     "type": "fabric",
@@ -1613,12 +1613,6 @@
       "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/owo-lib-0.12.15.4%2B1.21.jar",
       "sha256": "825180ce17bc012fb450653b14df9f32479dcdd073fc3f133bb47462f5a63cec",
       "size": 1183559
-    },
-    {
-      "path": "mods/owo-lib-0.13.0-alpha.15+1.21.jar",
-      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/owo-lib-0.13.0-alpha.15%2B1.21.jar",
-      "sha256": "bf14fd85d3d360e5c1f8e4e2294a8b2ee5c0baf7f3788160473b6d217ef3816f",
-      "size": 1963544
     },
     {
       "path": "mods/particular-1.1.2+1.21.jar",
