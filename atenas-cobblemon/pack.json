@@ -17,5 +17,8 @@
     "mods"
   ],
   "once": [],
-  "sources": {}
+  "sources": {
+    "mods/Cobblemon-fabric-1.8.2+1.21.1.jar": "https://cdn.modrinth.com/data/MdwFAVRL/versions/GJ2a1b8O/Cobblemon-fabric-1.8.2%2B1.21.1.jar",
+    "mods/fabric-api-0.116.17+1.21.1.jar": "https://cdn.modrinth.com/data/P7dR8mSH/versions/Mys3P7lK/fabric-api-0.116.17%2B1.21.1.jar"
+  }
 }

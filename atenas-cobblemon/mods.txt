@@ -4,3 +4,4 @@
 #  Las dependencias obligatorias se añaden solas.
 #  Se administra desde Atenas Admin (pestaña «Añadir mods»).
 # ═══════════════════════════════════════════════════════════════
+cobblemon

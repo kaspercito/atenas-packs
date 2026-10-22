@@ -1,8 +1,8 @@
 {
   "id": "atenas-cobblemon",
   "name": "Atenas Cobblemon",
-  "packVersion": "1.0.0",
-  "changelog": "Añadido: appleskin.json5, balm-client.toml, balm-common.out.toml, balm-common.toml, config.properties, enchantment_data.json, betteradvancements.json, betterpingdisplay.json, betterthirdperson.json5, bwncr.toml, citresewn.json, main.json, complexpack.cfg, craftingtweaks-common.toml, craftingtweaks.toml, craftpresence.json, dynamiccrosshair.json5, emi_ores-client.json, emi.css, enchdesc.json, enhanced_attack_indicator.json, entity_model_features.json, entity_texture_features.json, entityculling.json, etf_warnings.json, indigo-renderer.properties, fallingleaves.json, north_province.ogg, background.png, button_hover.png, button_small_hover.png, button_small.png, button.png, cm_menu.png, cm_title.png, exit_button.png, exit_hover.png, grad.png, icon16x16.png, icon32x32.png, iconmacos.icns, music_button.png, music_hover.png, scroll_hover.png, scroll.png, sliderback.png, credits.txt, audio_element_controller_metas.json, custom_gui_screens.txt, customizablemenus.txt, cm_music.txt, cm_title.txt, element_layer_control.lewidget, legacy_checklist.txt, options.txt, Animations.png, Dex.png, DoubleBattles.png, EvolutionEffects.png, Fishing.png, NewPokemon.png, NPC.png, NurseVil.png, ShinyEffects.png, ShipwreckCove.png, TripleBattles.png, TumblestoneBlocksets.png, properties.txt, dark.json, light.json, user_variables.db, ferritecore.mixin.properties, forgeconfigapiport.toml, immediatelyfast.json, invmove.json, cloth-config.json, emi.json, jei.json, rei.json, unrecognized.json, vanilla.json, iris-excluded.json, iris.properties, blacklist.json, jei-client.ini, jei-colors.ini, jei-debug.ini, jei-mod-id-format.ini, recipe-category-sort-order.ini, de_de.local, en_us.local, pl_pl.local, pt_br.local, lambdynlights.toml, languagereload.json, letmedespawn.json, libgui.json5, lithium.properties, config.cfg, make_bubbles_pop.json, medal.json, midnightlib.json, modmenu.json, moreculling.toml, notenoughanimations.json, options.json, Cobblemon-Tips-1.0.0.zip, settings.json, particlerain.json5, particular.json5, updater.json, userconfig.json, complexcobblemon.zip, Maxi's-JM+CM_Pixel-U8.zip, collapsible.json5, config.json5, favorites.json5, hints.json, pinyin_double.properties, pinyin.properties, sodium-extra-options.json, sodium-extra.properties, sodium-fingerprint.json, sodium-mixins.properties, sodium-options.json, sodium-shadowy-path-blocks-options.json, sodiumextras-client.toml, stendhal.properties, tipsmod.json, visuality.json, wakes.json, xaerominimap-common.txt, xaeropatreon.txt, xaeroworldmap-common.txt, xaeroworldmap.txt, yacl.json5, balm-client.toml, balm-common.out.toml, balm-common.toml, config.properties, enchantment_data.json, betteradvancements.json, betterpingdisplay.json, betterthirdperson.json5, bhmenu-general.properties, bhmenu-public_server_list.properties, bhmenu-server_creator_banner.properties, bwncr.toml, citresewn.json, main.json, craftingtweaks-common.toml, craftingtweaks.toml, dynamiccrosshair.json5, emi_ores-client.json, emi.css, enchdesc.json, enhanced_attack_indicator.json, entity_model_features.json, entity_texture_features.json, entityculling.json, etf_warnings.json, indigo-renderer.properties, fallingleaves.json, ferritecore.mixin.properties, forgeconfigapiport.toml, immediatelyfast.json, invmove.json, cloth-config.json, emi.json, jei.json, rei.json, unrecognized.json, vanilla.json, iris-excluded.json, iris.properties, blacklist.json, jei-client.ini, jei-colors.ini, jei-debug.ini, jei-mod-id-format.ini, recipe-category-sort-order.ini, de_de.local, en_us.local, pl_pl.local, pt_br.local, lambdynlights.toml, languagereload.json, letmedespawn.json, libgui.json5, lithium.properties, config.cfg, make_bubbles_pop.json, medal.json, midnightlib.json, modmenu.json, moreculling.toml, notenoughanimations.json, settings.json, particlerain.json5, particular.json5, updater.json, userconfig.json, collapsible.json5, config.json5, favorites.json5, hints.json, pinyin_double.properties, pinyin.properties, sodium-extra-options.json, sodium-extra.properties, sodium-fingerprint.json, sodium-mixins.properties, sodium-options.json, sodium-shadowy-path-blocks-options.json, sodiumextras-client.toml, stendhal.properties, tipsmod.json, visuality.json, wakes.json, xaerominimap_entities.json, xaerominimap-common.txt, xaerominimap.txt, xaeropatreon.txt, xaeroworldmap-common.txt, xaeroworldmap.txt, yacl.json5, options.txt, ComplementaryReimagined_r5.5.1.zip.txt, complexclientfabric-1.0.0.jar",
+  "packVersion": "1.0.1",
+  "changelog": "Añadido: AdvancedLootInfo-fabric-1.21.1-1.1.7.jar, almanac-1.21.x-fabric-1.0.2.jar, AmbientEnvironment-fabric-1.21.1-18.0.0.2.jar, balm-fabric-1.21.1-21.0.46.jar, bookshelf-fabric-1.21.1-21.1.64.jar, citresewn-1.2.2+1.21.jar, cloth-config-15.0.140-fabric.jar, Clumps-fabric-1.21.1-19.0.0.1.jar, Cobblemon-fabric-1.8.2+1.21.1.jar, craftingtweaks-fabric-1.21.1-21.1.5.jar, emi_ores-1.2+1.21.1+fabric.jar, emi-1.1.22+1.21.1+fabric.jar, EMIProfessions-fabric-1.21.1-1.0.3.jar, fabric-api-0.116.17+1.21.1.jar, fabric-api-0.116.7+1.21.1.jar, fallingleaves-1.16.4+1.21.1.jar, ferritecore-7.0.2-hotfix-fabric.jar, jeed-1.21-2.2.19-fabric.jar, jei-1.21.1-fabric-19.21.2.313.jar, journeymap-fabric-1.21.1-6.0.0-beta.52.jar, konkrete_fabric_1.9.9_MC_1.21.jar, krypton-0.2.8.jar, language-reload-1.7.3+1.21.1.jar, letmedespawn-1.21.x-fabric-1.5.0.jar, lithium-fabric-0.15.0+mc1.21.1.jar, melody_fabric_1.0.10_MC_1.21.jar, modmenu-11.0.3.jar, monsters-in-the-closet-1.0.3+1.21.jar, netherportalfix-fabric-1.21.1-21.1.3.jar, NoChatRestrictions-Fabric-MC1.21.11-v1.0.0.jar, OpenLoader-fabric-1.21.1-21.1.5.jar, owo-lib-0.12.15.4+1.21.jar, prickle-fabric-1.21.1-21.1.8.jar, shulkerboxtooltip-fabric-5.1.6+1.21.1.jar, sodiumleafculling-fabric-1.0.1-1.21.1.jar, yet_another_config_lib_v3-3.6.6+1.21.1-fabric.jar, yosbr-0.1.2.jar",
   "minecraft": "1.21.1",
   "loader": {
     "type": "fabric",
@@ -1387,10 +1387,232 @@
       "size": 843
     },
     {
+      "path": "mods/AdvancedLootInfo-fabric-1.21.1-1.1.7.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/AdvancedLootInfo-fabric-1.21.1-1.1.7.jar",
+      "sha256": "6e152d59b90165288b08bc6d2dba54ed079299195325b64c46ba0f73412ac98f",
+      "size": 318517
+    },
+    {
+      "path": "mods/almanac-1.21.x-fabric-1.0.2.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/almanac-1.21.x-fabric-1.0.2.jar",
+      "sha256": "54f78dab3ef4dd019dfd868362749100b89ddfb2fb6b6b8f1e8a191a28b65740",
+      "size": 16349
+    },
+    {
+      "path": "mods/AmbientEnvironment-fabric-1.21.1-18.0.0.2.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/AmbientEnvironment-fabric-1.21.1-18.0.0.2.jar",
+      "sha256": "7db6fc039872bf0b5743aab810e5b25a2c485bb1afe5adda6f4103ab4028f5be",
+      "size": 52331
+    },
+    {
+      "path": "mods/balm-fabric-1.21.1-21.0.46.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/balm-fabric-1.21.1-21.0.46.jar",
+      "sha256": "99569f2c1e1e6541f8cd9b91a6782f239ec29dabf3b41e17f17a139220eff09a",
+      "size": 619073
+    },
+    {
+      "path": "mods/bookshelf-fabric-1.21.1-21.1.64.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/bookshelf-fabric-1.21.1-21.1.64.jar",
+      "sha256": "6ab519ab1e398ce7c679de2308c8c8d76e6966c01071a95810181dd26c9cbaa5",
+      "size": 339416
+    },
+    {
+      "path": "mods/citresewn-1.2.2+1.21.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/citresewn-1.2.2%2B1.21.jar",
+      "sha256": "27f960a57597539cb8dfdd7a926268a123177322b14bea113415a56825c01776",
+      "size": 396723
+    },
+    {
+      "path": "mods/cloth-config-15.0.140-fabric.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/cloth-config-15.0.140-fabric.jar",
+      "sha256": "33894e95da3af59014b39d126586d5241e07ea39f8618763e30dab637405f95f",
+      "size": 1157166
+    },
+    {
+      "path": "mods/Clumps-fabric-1.21.1-19.0.0.1.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/Clumps-fabric-1.21.1-19.0.0.1.jar",
+      "sha256": "49e406cb2872e24a2d2dbe461b93f0c8fbee1748d14c2a941e54f785e3a1e1a7",
+      "size": 20723
+    },
+    {
+      "path": "mods/Cobblemon-fabric-1.8.2+1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/MdwFAVRL/versions/GJ2a1b8O/Cobblemon-fabric-1.8.2%2B1.21.1.jar",
+      "sha256": "cae8ac328b61354fbe415208b8c6ffc12e7155094d0a87082e85e7914fb380c2",
+      "size": 139317851
+    },
+    {
       "path": "mods/complexclientfabric-1.0.0.jar",
       "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/complexclientfabric-1.0.0.jar",
       "sha256": "b92f723869e7038e64100c1c7c8f9eec4456fce399a86c21e7e2298689e09486",
       "size": 510257
+    },
+    {
+      "path": "mods/craftingtweaks-fabric-1.21.1-21.1.5.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/craftingtweaks-fabric-1.21.1-21.1.5.jar",
+      "sha256": "2c4aec04433ac4da2e2e71d164a33d5435eda98a5c400aacdb91ffe736e6426e",
+      "size": 247914
+    },
+    {
+      "path": "mods/emi_ores-1.2+1.21.1+fabric.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/emi_ores-1.2%2B1.21.1%2Bfabric.jar",
+      "sha256": "c90d4edcc91eea15e560e36f832fb09801962d10df941c3ab750aedf6bc9e77c",
+      "size": 109322
+    },
+    {
+      "path": "mods/emi-1.1.22+1.21.1+fabric.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/emi-1.1.22%2B1.21.1%2Bfabric.jar",
+      "sha256": "6da00a8d13cad6e55abaa3032d80ff4d1d1520146b683f1ca7c029e01718fe05",
+      "size": 1025303
+    },
+    {
+      "path": "mods/EMIProfessions-fabric-1.21.1-1.0.3.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/EMIProfessions-fabric-1.21.1-1.0.3.jar",
+      "sha256": "b4c5e157097c4962c54a2cd1aba3bd0806dfff344e9ca695ebf243e7747c9dc8",
+      "size": 23810
+    },
+    {
+      "path": "mods/fabric-api-0.116.17+1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/Mys3P7lK/fabric-api-0.116.17%2B1.21.1.jar",
+      "sha256": "79ac44b40780acbd884b34c50be1e39af682847e5f5cb3b1fddeeaa768dce800",
+      "size": 2452735
+    },
+    {
+      "path": "mods/fabric-api-0.116.7+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/fabric-api-0.116.7%2B1.21.1.jar",
+      "sha256": "08018cc48c97415a38016a00dbd5a2c7a460ba6b7a051690a8cb3dbb5e8482a4",
+      "size": 2424884
+    },
+    {
+      "path": "mods/fallingleaves-1.16.4+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/fallingleaves-1.16.4%2B1.21.1.jar",
+      "sha256": "80ead0e0046abd7f2d072f939289587c4fcdb774a73098ac3e1bb19ffc1994ce",
+      "size": 167591
+    },
+    {
+      "path": "mods/ferritecore-7.0.2-hotfix-fabric.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/ferritecore-7.0.2-hotfix-fabric.jar",
+      "sha256": "e3fae8e321474a35e94f9bb09eafd0440ce0fe98f4aebbc067e392889700a4fa",
+      "size": 120709
+    },
+    {
+      "path": "mods/jeed-1.21-2.2.19-fabric.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/jeed-1.21-2.2.19-fabric.jar",
+      "sha256": "de1f929eef8ebd325402567054ec9a5449816a4dd44fe95d8eed84c8ef2bb8da",
+      "size": 152619
+    },
+    {
+      "path": "mods/jei-1.21.1-fabric-19.21.2.313.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/jei-1.21.1-fabric-19.21.2.313.jar",
+      "sha256": "e07ee903abae89c182452d992d271da2213e9f3e82e68e554697d510235b69cc",
+      "size": 1481367
+    },
+    {
+      "path": "mods/journeymap-fabric-1.21.1-6.0.0-beta.52.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/journeymap-fabric-1.21.1-6.0.0-beta.52.jar",
+      "sha256": "65897b43e8b3d48e273d5f8b1d86543b99b92dbc2a0c6d412d04443e6d1c723b",
+      "size": 3564296
+    },
+    {
+      "path": "mods/konkrete_fabric_1.9.9_MC_1.21.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/konkrete_fabric_1.9.9_MC_1.21.jar",
+      "sha256": "06e912f99d59bf81c0676f1db936150ad4443d5674f59b3c55604540ba620841",
+      "size": 786695
+    },
+    {
+      "path": "mods/krypton-0.2.8.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/krypton-0.2.8.jar",
+      "sha256": "94f195819b24e5da64effdc9da15cdd84836cc75e8ff0fd098bab6bc2f49e3fe",
+      "size": 161045
+    },
+    {
+      "path": "mods/language-reload-1.7.3+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/language-reload-1.7.3%2B1.21.1.jar",
+      "sha256": "66ed72f7e890524ed1afaa829075e19d4e084c7e6914fded9f289adb51f2e3af",
+      "size": 74287
+    },
+    {
+      "path": "mods/letmedespawn-1.21.x-fabric-1.5.0.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/letmedespawn-1.21.x-fabric-1.5.0.jar",
+      "sha256": "abeac43f78a915cfa0c855fa945f07601a1509064079c4c8640c7105ba6ac554",
+      "size": 14791
+    },
+    {
+      "path": "mods/lithium-fabric-0.15.0+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/lithium-fabric-0.15.0%2Bmc1.21.1.jar",
+      "sha256": "d5fe8d3195eac5b2cdffa00ed7e3077560c64d2064b88221cdea0d9ed05004b6",
+      "size": 771768
+    },
+    {
+      "path": "mods/melody_fabric_1.0.10_MC_1.21.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/melody_fabric_1.0.10_MC_1.21.jar",
+      "sha256": "223ab859b9cc246d8d6e5cec5e734f97be3aac545de6cda7743750262428ed83",
+      "size": 188035
+    },
+    {
+      "path": "mods/modmenu-11.0.3.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/modmenu-11.0.3.jar",
+      "sha256": "a45a12807a29f0e5b23b87cd380fd6fe8589ffe4a665cadce234168a4dabe428",
+      "size": 973066
+    },
+    {
+      "path": "mods/monsters-in-the-closet-1.0.3+1.21.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/monsters-in-the-closet-1.0.3%2B1.21.jar",
+      "sha256": "c1be9f55852b2e30d10b0650f9d3b4719a820ca5d953972fe2c4a140037ead16",
+      "size": 12324
+    },
+    {
+      "path": "mods/netherportalfix-fabric-1.21.1-21.1.3.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/netherportalfix-fabric-1.21.1-21.1.3.jar",
+      "sha256": "c6589e3a95ee6dbced2442682caeec53789999bc6a2883f9919e039b1bee98c6",
+      "size": 213294
+    },
+    {
+      "path": "mods/NoChatRestrictions-Fabric-MC1.21.11-v1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/NoChatRestrictions-Fabric-MC1.21.11-v1.0.0.jar",
+      "sha256": "bc8b10f71e17822ca274936e487104e6572f60e8969b81bfe23f30fc11300a94",
+      "size": 9907
+    },
+    {
+      "path": "mods/OpenLoader-fabric-1.21.1-21.1.5.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/OpenLoader-fabric-1.21.1-21.1.5.jar",
+      "sha256": "95b48a53035f1b7193916b8202637a582d6680ebdcdb0ce6a0c6c0427a443483",
+      "size": 38198
+    },
+    {
+      "path": "mods/owo-lib-0.12.15.4+1.21.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/owo-lib-0.12.15.4%2B1.21.jar",
+      "sha256": "825180ce17bc012fb450653b14df9f32479dcdd073fc3f133bb47462f5a63cec",
+      "size": 1183559
+    },
+    {
+      "path": "mods/prickle-fabric-1.21.1-21.1.8.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/prickle-fabric-1.21.1-21.1.8.jar",
+      "sha256": "0298071d0c28a7417b713b89e35f8a8ccb8b0afb83f75bb786deca0d7b56945a",
+      "size": 86155
+    },
+    {
+      "path": "mods/shulkerboxtooltip-fabric-5.1.6+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/shulkerboxtooltip-fabric-5.1.6%2B1.21.1.jar",
+      "sha256": "0f36f13526598f6fb9bbfbec04a678ad1e5cdbfabe43d575ea724cbb0c663040",
+      "size": 377858
+    },
+    {
+      "path": "mods/sodiumleafculling-fabric-1.0.1-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/sodiumleafculling-fabric-1.0.1-1.21.1.jar",
+      "sha256": "aa8f0db9eb8f2bbe06d4713dc42e1d0d362ed14a33b85a4f7917202bb7b65041",
+      "size": 299711
+    },
+    {
+      "path": "mods/yet_another_config_lib_v3-3.6.6+1.21.1-fabric.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/yet_another_config_lib_v3-3.6.6%2B1.21.1-fabric.jar",
+      "sha256": "0255a43f70ced798c5798a930f3098d9b21d62d6ace5d7a7301f5aca035da9b0",
+      "size": 1116172
+    },
+    {
+      "path": "mods/yosbr-0.1.2.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/yosbr-0.1.2.jar",
+      "sha256": "db4c744fd71f5617639cb0fdff72378b08d2852004f4045c62090de1bf53afcb",
+      "size": 17373
     }
   ]
 }
