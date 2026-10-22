@@ -1,8 +1,8 @@
 {
   "id": "atenas-cobblemon",
   "name": "Atenas Cobblemon",
-  "packVersion": "1.0.7",
-  "changelog": "Añadido: [1.21.1] SecurityCraft-fabric-V0.6.1.jar, balm-fabric-1.21.1-21.0.66.jar, cardinal-components-api-6.1.3.jar, lambdynamiclights-4.8.11+1.21.1.jar, PresenceFootsteps-1.11.2+1.21.jar, sodium-extra-fabric-0.6.0+mc1.21.1.jar, sound-physics-remastered-fabric-1.21.1-1.5.2.jar, travelersbackpack-fabric-1.21.1-10.1.39.jar, voicechat-fabric-1.21.1-2.6.22.jar, wakes-0.4.1+1.21.1.jar, waystones-fabric-1.21.1-21.1.46.jar\nQuitado: sodium-extra-fabric-0.9.4+mc1.21.1.jar",
+  "packVersion": "1.0.8",
+  "changelog": "Añadido: another_furniture-fabric-4.0.2.jar, CobbleDollars-fabric-2.0.0+Beta-6.1+1.21.1.jar, cobblemonextrastructures-1.21.1-1.3.0-fabric.jar, cobblemonopponents-fabric-1.8.0.jar, cobblestructures-1.1.0.jar",
   "minecraft": "1.21.1",
   "loader": {
     "type": "fabric",
@@ -1411,6 +1411,12 @@
       "size": 52331
     },
     {
+      "path": "mods/another_furniture-fabric-4.0.2.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/another_furniture-fabric-4.0.2.jar",
+      "sha256": "3f0e6c276dde5cd6390e9c14bc4c283e4043f25d812c1f5ecc36b7b2f61642b5",
+      "size": 2398841
+    },
+    {
       "path": "mods/balm-fabric-1.21.1-21.0.46.jar",
       "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/balm-fabric-1.21.1-21.0.46.jar",
       "sha256": "99569f2c1e1e6541f8cd9b91a6782f239ec29dabf3b41e17f17a139220eff09a",
@@ -1459,10 +1465,34 @@
       "size": 20723
     },
     {
+      "path": "mods/CobbleDollars-fabric-2.0.0+Beta-6.1+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/CobbleDollars-fabric-2.0.0%2BBeta-6.1%2B1.21.1.jar",
+      "sha256": "a007523e2dd8c6f47edc914d33d26ad0a860a0124038e1ec6303a593a919c1b4",
+      "size": 500815
+    },
+    {
       "path": "mods/Cobblemon-fabric-1.8.2+1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/MdwFAVRL/versions/GJ2a1b8O/Cobblemon-fabric-1.8.2%2B1.21.1.jar",
       "sha256": "cae8ac328b61354fbe415208b8c6ffc12e7155094d0a87082e85e7914fb380c2",
       "size": 139317851
+    },
+    {
+      "path": "mods/cobblemonextrastructures-1.21.1-1.3.0-fabric.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/cobblemonextrastructures-1.21.1-1.3.0-fabric.jar",
+      "sha256": "9ce3b6eb6cf1f52241e084cf594a767d40f8091ceb5d7709cbda67776e9d3624",
+      "size": 1136541
+    },
+    {
+      "path": "mods/cobblemonopponents-fabric-1.8.0.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/cobblemonopponents-fabric-1.8.0.jar",
+      "sha256": "e8b8f559f8e3bc38b1a1c29183903b44baf003e971c19eec82094c10dc467611",
+      "size": 30740566
+    },
+    {
+      "path": "mods/cobblestructures-1.1.0.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/cobblestructures-1.1.0.jar",
+      "sha256": "a1674ae27aeddb9e885431e0b28dd4b6aaf0728a57465729b0f59748981f2b63",
+      "size": 100965
     },
     {
       "path": "mods/complexclientfabric-1.0.0.jar",
