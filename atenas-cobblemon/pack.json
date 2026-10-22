@@ -6,7 +6,7 @@
   "minecraft": "1.21.1",
   "loader": {
     "type": "fabric",
-    "version": "0.19.5"
+    "version": "0.18.1"
   },
   "ram": {
     "min": "8G",
