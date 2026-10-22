@@ -1,0 +1,1396 @@
+{
+  "id": "atenas-cobblemon",
+  "name": "Atenas Cobblemon",
+  "packVersion": "1.0.0",
+  "changelog": "Añadido: appleskin.json5, balm-client.toml, balm-common.out.toml, balm-common.toml, config.properties, enchantment_data.json, betteradvancements.json, betterpingdisplay.json, betterthirdperson.json5, bwncr.toml, citresewn.json, main.json, complexpack.cfg, craftingtweaks-common.toml, craftingtweaks.toml, craftpresence.json, dynamiccrosshair.json5, emi_ores-client.json, emi.css, enchdesc.json, enhanced_attack_indicator.json, entity_model_features.json, entity_texture_features.json, entityculling.json, etf_warnings.json, indigo-renderer.properties, fallingleaves.json, north_province.ogg, background.png, button_hover.png, button_small_hover.png, button_small.png, button.png, cm_menu.png, cm_title.png, exit_button.png, exit_hover.png, grad.png, icon16x16.png, icon32x32.png, iconmacos.icns, music_button.png, music_hover.png, scroll_hover.png, scroll.png, sliderback.png, credits.txt, audio_element_controller_metas.json, custom_gui_screens.txt, customizablemenus.txt, cm_music.txt, cm_title.txt, element_layer_control.lewidget, legacy_checklist.txt, options.txt, Animations.png, Dex.png, DoubleBattles.png, EvolutionEffects.png, Fishing.png, NewPokemon.png, NPC.png, NurseVil.png, ShinyEffects.png, ShipwreckCove.png, TripleBattles.png, TumblestoneBlocksets.png, properties.txt, dark.json, light.json, user_variables.db, ferritecore.mixin.properties, forgeconfigapiport.toml, immediatelyfast.json, invmove.json, cloth-config.json, emi.json, jei.json, rei.json, unrecognized.json, vanilla.json, iris-excluded.json, iris.properties, blacklist.json, jei-client.ini, jei-colors.ini, jei-debug.ini, jei-mod-id-format.ini, recipe-category-sort-order.ini, de_de.local, en_us.local, pl_pl.local, pt_br.local, lambdynlights.toml, languagereload.json, letmedespawn.json, libgui.json5, lithium.properties, config.cfg, make_bubbles_pop.json, medal.json, midnightlib.json, modmenu.json, moreculling.toml, notenoughanimations.json, options.json, Cobblemon-Tips-1.0.0.zip, settings.json, particlerain.json5, particular.json5, updater.json, userconfig.json, complexcobblemon.zip, Maxi's-JM+CM_Pixel-U8.zip, collapsible.json5, config.json5, favorites.json5, hints.json, pinyin_double.properties, pinyin.properties, sodium-extra-options.json, sodium-extra.properties, sodium-fingerprint.json, sodium-mixins.properties, sodium-options.json, sodium-shadowy-path-blocks-options.json, sodiumextras-client.toml, stendhal.properties, tipsmod.json, visuality.json, wakes.json, xaerominimap-common.txt, xaeropatreon.txt, xaeroworldmap-common.txt, xaeroworldmap.txt, yacl.json5, balm-client.toml, balm-common.out.toml, balm-common.toml, config.properties, enchantment_data.json, betteradvancements.json, betterpingdisplay.json, betterthirdperson.json5, bhmenu-general.properties, bhmenu-public_server_list.properties, bhmenu-server_creator_banner.properties, bwncr.toml, citresewn.json, main.json, craftingtweaks-common.toml, craftingtweaks.toml, dynamiccrosshair.json5, emi_ores-client.json, emi.css, enchdesc.json, enhanced_attack_indicator.json, entity_model_features.json, entity_texture_features.json, entityculling.json, etf_warnings.json, indigo-renderer.properties, fallingleaves.json, ferritecore.mixin.properties, forgeconfigapiport.toml, immediatelyfast.json, invmove.json, cloth-config.json, emi.json, jei.json, rei.json, unrecognized.json, vanilla.json, iris-excluded.json, iris.properties, blacklist.json, jei-client.ini, jei-colors.ini, jei-debug.ini, jei-mod-id-format.ini, recipe-category-sort-order.ini, de_de.local, en_us.local, pl_pl.local, pt_br.local, lambdynlights.toml, languagereload.json, letmedespawn.json, libgui.json5, lithium.properties, config.cfg, make_bubbles_pop.json, medal.json, midnightlib.json, modmenu.json, moreculling.toml, notenoughanimations.json, settings.json, particlerain.json5, particular.json5, updater.json, userconfig.json, collapsible.json5, config.json5, favorites.json5, hints.json, pinyin_double.properties, pinyin.properties, sodium-extra-options.json, sodium-extra.properties, sodium-fingerprint.json, sodium-mixins.properties, sodium-options.json, sodium-shadowy-path-blocks-options.json, sodiumextras-client.toml, stendhal.properties, tipsmod.json, visuality.json, wakes.json, xaerominimap_entities.json, xaerominimap-common.txt, xaerominimap.txt, xaeropatreon.txt, xaeroworldmap-common.txt, xaeroworldmap.txt, yacl.json5, options.txt, ComplementaryReimagined_r5.5.1.zip.txt, complexclientfabric-1.0.0.jar",
+  "minecraft": "1.21.1",
+  "loader": {
+    "type": "fabric",
+    "version": "0.18.1"
+  },
+  "java": null,
+  "ram": {
+    "min": "8G",
+    "max": "12G"
+  },
+  "server": "atenasmc.live",
+  "managed": [
+    "mods"
+  ],
+  "files": [
+    {
+      "path": "config/appleskin.json5",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/appleskin.json5",
+      "sha256": "ab7f78056c199b438d556e3b3f431ed40313e32405fb1b287918f3117aca1191",
+      "size": 1332
+    },
+    {
+      "path": "config/balm-client.toml",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/balm-client.toml",
+      "sha256": "e6ca77393d993b18e48a8d87115d52dad5eb0554ba3070f8919c257460fe377e",
+      "size": 786
+    },
+    {
+      "path": "config/balm-common.out.toml",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/balm-common.out.toml",
+      "sha256": "4af862cd0a1c7c379c40c110d5ddea00e211dec005fb09dcee1bfa490b3682b0",
+      "size": 927
+    },
+    {
+      "path": "config/balm-common.toml",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/balm-common.toml",
+      "sha256": "2fbbc2792edc05ca4df6648bf4f2637502e9bc1942baa957abaace7882e70fef",
+      "size": 873
+    },
+    {
+      "path": "config/bebooks/config.properties",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/bebooks/config.properties",
+      "sha256": "ad937ed0c42866e2afa35bbe41d87f3e0fb32bfe397001092908f14d9a2e3ebf",
+      "size": 250
+    },
+    {
+      "path": "config/bebooks/enchantment_data.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/bebooks/enchantment_data.json",
+      "sha256": "050344e8e9f46726be412134f0f7888c8a20792009184e8b8118f9ac0e570199",
+      "size": 3056
+    },
+    {
+      "path": "config/betteradvancements.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/betteradvancements.json",
+      "sha256": "82ffaabd04cb676394314ad57bacb68b9160d2d8fec5109f1f106115e71417af",
+      "size": 597
+    },
+    {
+      "path": "config/betterpingdisplay.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/betterpingdisplay.json",
+      "sha256": "b6ac6dcb805a7c126a17400ad2c66a6e582cfb6d9585c1ccac9f9d4cbf9e7c3b",
+      "size": 121
+    },
+    {
+      "path": "config/betterthirdperson.json5",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/betterthirdperson.json5",
+      "sha256": "151cb9f1ab722aa7026701e482e77cb13eeef2ce7c77cfbac997f719a81b1dbb",
+      "size": 639
+    },
+    {
+      "path": "config/bwncr.toml",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/bwncr.toml",
+      "sha256": "b35a981348a11e9ef2e73e87530e4f97d2feb7e3e6df50af897159825fa5a9ff",
+      "size": 131
+    },
+    {
+      "path": "config/citresewn.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/citresewn.json",
+      "sha256": "1ea03400477ac2075d61ae58cfc573bc78ce954507d090ab69547de279918656",
+      "size": 121
+    },
+    {
+      "path": "config/cobblemon/main.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/cobblemon/main.json",
+      "sha256": "d08b5ae439dd0549e5d7dd8418b7f5724249a76d3d638e2c1967d8b249b1f0ba",
+      "size": 2557
+    },
+    {
+      "path": "config/complexpack.cfg",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/complexpack.cfg",
+      "sha256": "b7c2241a1e33f1e8e334ad923c962b7ab8c9d89de33e2326ffddc4b8260d3087",
+      "size": 334
+    },
+    {
+      "path": "config/craftingtweaks-common.toml",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/craftingtweaks-common.toml",
+      "sha256": "4af862cd0a1c7c379c40c110d5ddea00e211dec005fb09dcee1bfa490b3682b0",
+      "size": 927
+    },
+    {
+      "path": "config/craftingtweaks.toml",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/craftingtweaks.toml",
+      "sha256": "8830d327f96393c7952f119a69679025a5f1f21cffa278356503021d55d861b2",
+      "size": 274
+    },
+    {
+      "path": "config/craftpresence.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/craftpresence.json",
+      "sha256": "bede32d2e3eb0c06531a73c5674e9ef96a73d471ca3560515789bc8de2e1e6ad",
+      "size": 13438
+    },
+    {
+      "path": "config/dynamiccrosshair.json5",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/dynamiccrosshair.json5",
+      "sha256": "add5ed0bc9c7f6acbbef0041e48423f0538c88de9abb92961bb82191cc5f3f89",
+      "size": 3377
+    },
+    {
+      "path": "config/emi_ores-client.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/emi_ores-client.json",
+      "sha256": "1efbbe3d2bcae8b53d5d61596960703c047e9902a96eb46cf5214aeb68f093b6",
+      "size": 33
+    },
+    {
+      "path": "config/emi.css",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/emi.css",
+      "sha256": "eaa7a68db0a98d21a97918d90ba8e176d4599607831deb54e30697fa547fe015",
+      "size": 10179
+    },
+    {
+      "path": "config/enchdesc.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/enchdesc.json",
+      "sha256": "7116b95a9b6797af8db84e410a2ca2fdf6f813461e37cd04bff5af933f31567b",
+      "size": 2059
+    },
+    {
+      "path": "config/enhanced_attack_indicator.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/enhanced_attack_indicator.json",
+      "sha256": "a465ac9fd343ed2d2454a2c8488f8812e6742e434bff7e98d1432797fc6c5ea4",
+      "size": 222
+    },
+    {
+      "path": "config/entity_model_features.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/entity_model_features.json",
+      "sha256": "49c31f039ecaa30817ce0d89b98fa602dac4ad5b3972e7e2e0b5bfefe04615a8",
+      "size": 1080
+    },
+    {
+      "path": "config/entity_texture_features.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/entity_texture_features.json",
+      "sha256": "0554c0e7816266477c65c18d2ada9fdddf1c6750787efd329056223ca4a073b2",
+      "size": 1420
+    },
+    {
+      "path": "config/entityculling.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/entityculling.json",
+      "sha256": "68320f4d33013254db37919b8c6132480e845752f721a2cc6109f553678f79a7",
+      "size": 1345
+    },
+    {
+      "path": "config/etf_warnings.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/etf_warnings.json",
+      "sha256": "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e",
+      "size": 28
+    },
+    {
+      "path": "config/fabric/indigo-renderer.properties",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/fabric/indigo-renderer.properties",
+      "sha256": "2306624cccd03355a93a3f889929e3dce59710e40e790996c083f24e8ec49574",
+      "size": 290
+    },
+    {
+      "path": "config/fallingleaves.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/fallingleaves.json",
+      "sha256": "b2a2ba1b05a237b0bffae22188c7c2f9ed62cc356e9c4b2291de6929d64cf608",
+      "size": 10722
+    },
+    {
+      "path": "config/fancymenu/assets/cm_audio/north_province.ogg",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/fancymenu/assets/cm_audio/north_province.ogg",
+      "sha256": "c1be22d0e1012e55ad0573afb190fb9d19a08b570b1b55ec59c792e45961a41a",
+      "size": 4930132
+    },
+    {
+      "path": "config/fancymenu/assets/cm_textures/background.png",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/fancymenu/assets/cm_textures/background.png",
+      "sha256": "4f841b2c18aff6ae6092819d0c1089b903f7a005ce095235a1c6d7b4af2146ad",
+      "size": 1585081
+    },
+    {
+      "path": "config/fancymenu/assets/cm_textures/button_hover.png",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/fancymenu/assets/cm_textures/button_hover.png",
+      "sha256": "03b9b9a8a5fab603bba69c0d51f7f72dbbb6b5d537f2ab58b16e242f7090c362",
+      "size": 205
+    },
+    {
+      "path": "config/fancymenu/assets/cm_textures/button_small_hover.png",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/fancymenu/assets/cm_textures/button_small_hover.png",
+      "sha256": "f15235a3dd73dccb39b29ef76e69d282828f9c3fc72821fafd31ac4da1b77376",
+      "size": 426
+    },
+    {
+      "path": "config/fancymenu/assets/cm_textures/button_small.png",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/fancymenu/assets/cm_textures/button_small.png",
+      "sha256": "6c35b16cb1d5b6eab10e8c4f7270d27f8f185f9453f8f097e5d9e7cf8624e7ad",
+      "size": 426
+    },
+    {
+      "path": "config/fancymenu/assets/cm_textures/button.png",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/fancymenu/assets/cm_textures/button.png",
+      "sha256": "614edb44787dc63f7abe3c035aed6b64117899269eddbd868e9c8d67741b39e6",
+      "size": 205
+    },
+    {
+      "path": "config/fancymenu/assets/cm_textures/cm_menu.png",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/fancymenu/assets/cm_textures/cm_menu.png",
+      "sha256": "1c6e2c90d4d7bbf497f83f1430507872ff3d4c3d7f2bf1585c5b3f6b74544447",
+      "size": 464
+    },
+    {
+      "path": "config/fancymenu/assets/cm_textures/cm_title.png",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/fancymenu/assets/cm_textures/cm_title.png",
+      "sha256": "a618094d8e00dbc42936fa20aa9b70c41c41924f71d88d972ca050c07b49c88a",
+      "size": 49215
+    },
+    {
+      "path": "config/fancymenu/assets/cm_textures/exit_button.png",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/fancymenu/assets/cm_textures/exit_button.png",
+      "sha256": "6e1c01c4ccf8066d2a9d785ef9bdbee380ab15f2311e999de59cd2113fcb607a",
+      "size": 290
+    },
+    {
+      "path": "config/fancymenu/assets/cm_textures/exit_hover.png",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/fancymenu/assets/cm_textures/exit_hover.png",
+      "sha256": "d960830f72d1351ec5178beec7b6fc7b5d97b4c9e44662decc66cf27cf67fcd9",
+      "size": 290
+    },
+    {
+      "path": "config/fancymenu/assets/cm_textures/grad.png",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/fancymenu/assets/cm_textures/grad.png",
+      "sha256": "69770622340aa93c64660afa73497b2480b07d56a854c839351095582b0100b4",
+      "size": 493601
+    },
+    {
+      "path": "config/fancymenu/assets/cm_textures/icon16x16.png",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/fancymenu/assets/cm_textures/icon16x16.png",
+      "sha256": "8b4f11f73494d0860e937fdf14c14aba17aa79458b8136899c452c25f124d473",
+      "size": 7154
+    },
+    {
+      "path": "config/fancymenu/assets/cm_textures/icon32x32.png",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/fancymenu/assets/cm_textures/icon32x32.png",
+      "sha256": "b107d1639c336295f844500db9d79d25bfa96acdf6605cc5188bf2d74b90fe26",
+      "size": 934
+    },
+    {
+      "path": "config/fancymenu/assets/cm_textures/iconmacos.icns",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/fancymenu/assets/cm_textures/iconmacos.icns",
+      "sha256": "0d37fade68c7fd5ccdfa71de5ccd8a0c17be69f71832c250a7b633f2f1fdb81e",
+      "size": 2693
+    },
+    {
+      "path": "config/fancymenu/assets/cm_textures/music_button.png",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/fancymenu/assets/cm_textures/music_button.png",
+      "sha256": "290856158561baa5c22c54ba79a0a79ac4568097de1b23c15d6432b776996116",
+      "size": 218
+    },
+    {
+      "path": "config/fancymenu/assets/cm_textures/music_hover.png",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/fancymenu/assets/cm_textures/music_hover.png",
+      "sha256": "99d800947e4bf52117855bfd790431a941b77170b8b96d0fa315650307a6c570",
+      "size": 218
+    },
+    {
+      "path": "config/fancymenu/assets/cm_textures/scroll_hover.png",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/fancymenu/assets/cm_textures/scroll_hover.png",
+      "sha256": "e414a88912eee6f5110390ae079c258e609d6652099d21943e54612afd0e1ca6",
+      "size": 201
+    },
+    {
+      "path": "config/fancymenu/assets/cm_textures/scroll.png",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/fancymenu/assets/cm_textures/scroll.png",
+      "sha256": "f7bf06aa80f14c246dde8e5d7387317f3b21bfbc4f1d3620b9d10b4ac8bbaff0",
+      "size": 201
+    },
+    {
+      "path": "config/fancymenu/assets/cm_textures/sliderback.png",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/fancymenu/assets/cm_textures/sliderback.png",
+      "sha256": "da3a15e5b973369624ffa098a830f175383763476de426ee274fa021260d52ea",
+      "size": 422
+    },
+    {
+      "path": "config/fancymenu/assets/credits.txt",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/fancymenu/assets/credits.txt",
+      "sha256": "225948e025f30a20cb3dcced9c8b415a3baf2a8fad2d7fcd14a837032ab5310e",
+      "size": 2395
+    },
+    {
+      "path": "config/fancymenu/audio_element_controller_metas.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/fancymenu/audio_element_controller_metas.json",
+      "sha256": "1e77547b11b825ea8b3bc9db5a749acfa6cde5aabf41d590a43abe3716425d2d",
+      "size": 109
+    },
+    {
+      "path": "config/fancymenu/custom_gui_screens.txt",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/fancymenu/custom_gui_screens.txt",
+      "sha256": "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880",
+      "size": 51
+    },
+    {
+      "path": "config/fancymenu/customizablemenus.txt",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/fancymenu/customizablemenus.txt",
+      "sha256": "825a55d0460b01f2dedbc337ef416f231ee3c7fcf4797b40b297482065908567",
+      "size": 172
+    },
+    {
+      "path": "config/fancymenu/customization/cm_music.txt",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/fancymenu/customization/cm_music.txt",
+      "sha256": "cca531251b6e167062447f230cf27c63126e751959b84671369bf614190ce19d",
+      "size": 1526
+    },
+    {
+      "path": "config/fancymenu/customization/cm_title.txt",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/fancymenu/customization/cm_title.txt",
+      "sha256": "78471a4a7bca9ff5eda5a5b23e40325d012c80a864a0ecd2d88cfd7ee8ed3758",
+      "size": 44861
+    },
+    {
+      "path": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+      "sha256": "508656b2bb5db59445a07b7beeed2674b341cd0ba78ad41ab1dcc523066ec24d",
+      "size": 201
+    },
+    {
+      "path": "config/fancymenu/legacy_checklist.txt",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/fancymenu/legacy_checklist.txt",
+      "sha256": "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0",
+      "size": 42
+    },
+    {
+      "path": "config/fancymenu/options.txt",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/fancymenu/options.txt",
+      "sha256": "8bee1b41ae046e78c1c15b20ddc148bca24f51a63437ff776f66bd536a7a2e5d",
+      "size": 2112
+    },
+    {
+      "path": "config/fancymenu/slideshows/cm_showcase/images/Animations.png",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/fancymenu/slideshows/cm_showcase/images/Animations.png",
+      "sha256": "f7b57e4214113866fc1143efa4a73b81f2119417809215f8d9b6c4110609e5fe",
+      "size": 250382
+    },
+    {
+      "path": "config/fancymenu/slideshows/cm_showcase/images/Dex.png",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/fancymenu/slideshows/cm_showcase/images/Dex.png",
+      "sha256": "e89d8f4e21dd1b678191d1fa50c41140f531bcb4ef414a9bbb54627fd2a6b3f2",
+      "size": 192908
+    },
+    {
+      "path": "config/fancymenu/slideshows/cm_showcase/images/DoubleBattles.png",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/fancymenu/slideshows/cm_showcase/images/DoubleBattles.png",
+      "sha256": "a4fb7ed8e23b3b9b9e63fed2928f620e938f5dcdcb3d6ef3dfeda862cb03236e",
+      "size": 323176
+    },
+    {
+      "path": "config/fancymenu/slideshows/cm_showcase/images/EvolutionEffects.png",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/fancymenu/slideshows/cm_showcase/images/EvolutionEffects.png",
+      "sha256": "f7eb75dab7f23ad718691f83dabbb706a1b0b0082b62a5096acd23ec6a59a91d",
+      "size": 222334
+    },
+    {
+      "path": "config/fancymenu/slideshows/cm_showcase/images/Fishing.png",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/fancymenu/slideshows/cm_showcase/images/Fishing.png",
+      "sha256": "688691ea14d8991b531217563cc136650ecf947674f8a07765f6a421e6d6ed7f",
+      "size": 213564
+    },
+    {
+      "path": "config/fancymenu/slideshows/cm_showcase/images/NewPokemon.png",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/fancymenu/slideshows/cm_showcase/images/NewPokemon.png",
+      "sha256": "9532804049f0a3c33138ade6c5d2bb6d371dec8890083a7b069924146fad725d",
+      "size": 282593
+    },
+    {
+      "path": "config/fancymenu/slideshows/cm_showcase/images/NPC.png",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/fancymenu/slideshows/cm_showcase/images/NPC.png",
+      "sha256": "5e86d0cd6fdbc5a995f84dc4b357c83bc4548aee17900f33b7e95d36cca6a017",
+      "size": 202906
+    },
+    {
+      "path": "config/fancymenu/slideshows/cm_showcase/images/NurseVil.png",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/fancymenu/slideshows/cm_showcase/images/NurseVil.png",
+      "sha256": "ad90f78011e605351690e79c0f589066d5f413a624d4c303a9cea41991dbf5ca",
+      "size": 296959
+    },
+    {
+      "path": "config/fancymenu/slideshows/cm_showcase/images/ShinyEffects.png",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/fancymenu/slideshows/cm_showcase/images/ShinyEffects.png",
+      "sha256": "9b71b4005712c39af9b40d666b5d90d878256d0d9c3593929a7bc5a53fcedb32",
+      "size": 224611
+    },
+    {
+      "path": "config/fancymenu/slideshows/cm_showcase/images/ShipwreckCove.png",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/fancymenu/slideshows/cm_showcase/images/ShipwreckCove.png",
+      "sha256": "c4ea4093ba40b7967b2eaff35c775128a75f3a2060dcd7fd9639a2fdd5184ab5",
+      "size": 304278
+    },
+    {
+      "path": "config/fancymenu/slideshows/cm_showcase/images/TripleBattles.png",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/fancymenu/slideshows/cm_showcase/images/TripleBattles.png",
+      "sha256": "0226ce085c1813261e9b543de077f49bb5fa45cbc3f65d5b22cc1c42d2aec972",
+      "size": 307384
+    },
+    {
+      "path": "config/fancymenu/slideshows/cm_showcase/images/TumblestoneBlocksets.png",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/fancymenu/slideshows/cm_showcase/images/TumblestoneBlocksets.png",
+      "sha256": "527fe364a30fa1218d1175c0b73e918637a89cc3d42f688d59aaaf3832e32e4a",
+      "size": 272409
+    },
+    {
+      "path": "config/fancymenu/slideshows/cm_showcase/properties.txt",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/fancymenu/slideshows/cm_showcase/properties.txt",
+      "sha256": "4f88be7d0b4c3360cdbf4712c01b3774e7d42ab68a4ead8863cedf545c7a9e8c",
+      "size": 179
+    },
+    {
+      "path": "config/fancymenu/ui_themes/dark.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/fancymenu/ui_themes/dark.json",
+      "sha256": "45541e5c5019585b9c4ff114aed530826129e8a7ac6866b5d5fe41dd278abae4",
+      "size": 4133
+    },
+    {
+      "path": "config/fancymenu/ui_themes/light.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/fancymenu/ui_themes/light.json",
+      "sha256": "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620",
+      "size": 4135
+    },
+    {
+      "path": "config/fancymenu/user_variables.db",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/fancymenu/user_variables.db",
+      "sha256": "653d0e0c2efd1d1a97c5ad9379cb59b8a2496e1defde33f154ad05c91663766a",
+      "size": 95
+    },
+    {
+      "path": "config/ferritecore.mixin.properties",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/ferritecore.mixin.properties",
+      "sha256": "a2091a291309db8920c8a80e913ed31c24c29687d8cd25ac18076ad85a90ddb8",
+      "size": 1525
+    },
+    {
+      "path": "config/forgeconfigapiport.toml",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/forgeconfigapiport.toml",
+      "sha256": "0b7d9dcfc1122e488c28991456edca82080ce402bdf1b45bbd35dc7fceaaa1c5",
+      "size": 278
+    },
+    {
+      "path": "config/immediatelyfast.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/immediatelyfast.json",
+      "sha256": "f2b7f219198f0a911d04b09f545f2c1256e8d114951443924878dc10963e16aa",
+      "size": 1060
+    },
+    {
+      "path": "config/invmove.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/invmove.json",
+      "sha256": "d3c2a43ded45efcd78e73bdadc545b42841172a1e6a9e7d20521ae17f67739fc",
+      "size": 382
+    },
+    {
+      "path": "config/invmove/cloth-config.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/invmove/cloth-config.json",
+      "sha256": "65242c90d0248278a7d2293b4ac8e531ba9d9981255a4c81f938b077b58c79f2",
+      "size": 44
+    },
+    {
+      "path": "config/invmove/emi.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/invmove/emi.json",
+      "sha256": "65242c90d0248278a7d2293b4ac8e531ba9d9981255a4c81f938b077b58c79f2",
+      "size": 44
+    },
+    {
+      "path": "config/invmove/jei.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/invmove/jei.json",
+      "sha256": "65242c90d0248278a7d2293b4ac8e531ba9d9981255a4c81f938b077b58c79f2",
+      "size": 44
+    },
+    {
+      "path": "config/invmove/rei.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/invmove/rei.json",
+      "sha256": "65242c90d0248278a7d2293b4ac8e531ba9d9981255a4c81f938b077b58c79f2",
+      "size": 44
+    },
+    {
+      "path": "config/invmove/unrecognized.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/invmove/unrecognized.json",
+      "sha256": "c2fb42429e07488632ee8f75840dd0519a5668a8802c093be287c3a08b0d5ef8",
+      "size": 1063
+    },
+    {
+      "path": "config/invmove/vanilla.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/invmove/vanilla.json",
+      "sha256": "ef66b48ebd9073d50130938cc13781aa0019dbd3c74036f371d4bffa2f7fdbc9",
+      "size": 1092
+    },
+    {
+      "path": "config/iris-excluded.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/iris-excluded.json",
+      "sha256": "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb",
+      "size": 31
+    },
+    {
+      "path": "config/iris.properties",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/iris.properties",
+      "sha256": "fa256b8a101a651bfc6d5cbe8e081a1c58e1f84291c8ec43e9da9d8cc53d2c76",
+      "size": 313
+    },
+    {
+      "path": "config/jei/blacklist.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/jei/blacklist.json",
+      "sha256": "b4174dc6e985aa90be5002c14e94b956d8d586683c44b7b6710c44d08fb13648",
+      "size": 19
+    },
+    {
+      "path": "config/jei/jei-client.ini",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/jei/jei-client.ini",
+      "sha256": "0721632c79aa20adb5d593e68d193031a5d61c2b1d321b158c33bd3308bcff99",
+      "size": 9749
+    },
+    {
+      "path": "config/jei/jei-colors.ini",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/jei/jei-colors.ini",
+      "sha256": "755f199a3868224bdccb2a8ffd8f1a4eb2d96140757f444ba31f8d677a66034f",
+      "size": 1362
+    },
+    {
+      "path": "config/jei/jei-debug.ini",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/jei/jei-debug.ini",
+      "sha256": "9e445273b8868aae630a7ec5b20ce5212aa813d855be81bcc874bd4aa43e16a4",
+      "size": 1091
+    },
+    {
+      "path": "config/jei/jei-mod-id-format.ini",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/jei/jei-mod-id-format.ini",
+      "sha256": "6a91c09d1cabc1980d90ab102a03ec58c0551213ab16a459b599d768b334d054",
+      "size": 489
+    },
+    {
+      "path": "config/jei/recipe-category-sort-order.ini",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/jei/recipe-category-sort-order.ini",
+      "sha256": "d3d2808b2148c0e98f19f9607f87e2d4a545a40c5ed7141a3b5fec117ca0a4d2",
+      "size": 267
+    },
+    {
+      "path": "config/konkrete/locals/de_de.local",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/konkrete/locals/de_de.local",
+      "sha256": "79a34cfd15c2d9c06498dc221be79279507d9b57666cd44f8d2c2cf95d3582ef",
+      "size": 369
+    },
+    {
+      "path": "config/konkrete/locals/en_us.local",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/konkrete/locals/en_us.local",
+      "sha256": "fdf1864fd049b3f1b9af1f8db6c5125a627be7d06a451c778da3329843d3c39a",
+      "size": 426
+    },
+    {
+      "path": "config/konkrete/locals/pl_pl.local",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/konkrete/locals/pl_pl.local",
+      "sha256": "d38a7776e362e4de6082078d803c1c9358d9d40526edfe4bdfd29c552aef76d8",
+      "size": 313
+    },
+    {
+      "path": "config/konkrete/locals/pt_br.local",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/konkrete/locals/pt_br.local",
+      "sha256": "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c",
+      "size": 322
+    },
+    {
+      "path": "config/lambdynlights.toml",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/lambdynlights.toml",
+      "sha256": "93e2d52a198fa222b1a77cc0490b4dd5749707ea46c58346da3feea5bed2f2ab",
+      "size": 4516
+    },
+    {
+      "path": "config/languagereload.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/languagereload.json",
+      "sha256": "6862a307122b6bc61c0d64c1fc16bdacddc8b56b963b20f32c41ca16ae6fd515",
+      "size": 186
+    },
+    {
+      "path": "config/letmedespawn.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/letmedespawn.json",
+      "sha256": "6af411644e22ede34383135509cb96b2a636d8ed45494b28976514a95537105e",
+      "size": 72
+    },
+    {
+      "path": "config/libgui.json5",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/libgui.json5",
+      "sha256": "6814fc05aa8d6664712b056cfd6cb51cb4bafeabe3f274b9cf5e19e27eff406d",
+      "size": 101
+    },
+    {
+      "path": "config/lithium.properties",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/lithium.properties",
+      "sha256": "76765e8e5ff8e927d80beb0739aababcf36e7babfd94262f2afece256cc5cd2e",
+      "size": 430
+    },
+    {
+      "path": "config/loadmyresources/config.cfg",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/loadmyresources/config.cfg",
+      "sha256": "549a26b9b8ab9e2df0a427732a737c5dbcdb0b6790ad7ea9a387dea789abcad5",
+      "size": 79
+    },
+    {
+      "path": "config/make_bubbles_pop.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/make_bubbles_pop.json",
+      "sha256": "2266b2e507e4dcea55fb1a53be33690efc8c1fe4ce7a559a98a29fecac2069c4",
+      "size": 383
+    },
+    {
+      "path": "config/medal.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/medal.json",
+      "sha256": "49b1b55c53bd54083572f71511428b4697e3eae4de39cc0204b0b19b45f0094d",
+      "size": 394
+    },
+    {
+      "path": "config/midnightlib.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/midnightlib.json",
+      "sha256": "b14c45c6447f9ee5474d70784a2ef96731abbeca1e92485b7599e76e9dce1444",
+      "size": 37
+    },
+    {
+      "path": "config/modmenu.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/modmenu.json",
+      "sha256": "1d1bb1874d8b7116c41314633a95075675304bd6c205b8d8c5920730dcc6169e",
+      "size": 474
+    },
+    {
+      "path": "config/moreculling.toml",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/moreculling.toml",
+      "sha256": "3ec4f9263c72988bc6490c7d488d5d576c9ebbc4c614f683de3a4772e8e89f0c",
+      "size": 595
+    },
+    {
+      "path": "config/notenoughanimations.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/notenoughanimations.json",
+      "sha256": "f734f35399f949a79b29328d6d0398027a5e5c4f5ffa15f35a44c8054b54da34",
+      "size": 1388
+    },
+    {
+      "path": "config/openloader/options.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/openloader/options.json",
+      "sha256": "a9076d31f99a7c047a0312f28ab47b6238efd759be1bf5e1a8d72dccf7228368",
+      "size": 1111
+    },
+    {
+      "path": "config/openloader/resources/Cobblemon-Tips-1.0.0.zip",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/openloader/resources/Cobblemon-Tips-1.0.0.zip",
+      "sha256": "13d123946cdbc4d06c96081f2b4316e275862d6574b4665575f32c445ca57371",
+      "size": 28502
+    },
+    {
+      "path": "config/panorama_screens/settings.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/panorama_screens/settings.json",
+      "sha256": "7688da256aa45808262ca17851a80e862511625009d6310e6f72e340c0f03564",
+      "size": 2012
+    },
+    {
+      "path": "config/particlerain.json5",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/particlerain.json5",
+      "sha256": "e951c9547a6fea5c2bb61dfec0c4c3208c49a43ea83d287878054c9db6a439f5",
+      "size": 1704
+    },
+    {
+      "path": "config/particular.json5",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/particular.json5",
+      "sha256": "96cba1f04b2331ecc2919c07a280234c388a1b756a9dc661302ee40b416b8a5a",
+      "size": 1069
+    },
+    {
+      "path": "config/presencefootsteps/updater.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/presencefootsteps/updater.json",
+      "sha256": "1e7c61df09c105e1eeca8cf3dcbdfeb976700e9904bcb3983fc7791adb7fad2e",
+      "size": 68
+    },
+    {
+      "path": "config/presencefootsteps/userconfig.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/presencefootsteps/userconfig.json",
+      "sha256": "1cb26a471de1f7ea80afeb77c35c9e86a7ecb9881e948b891eaea41b354046af",
+      "size": 426
+    },
+    {
+      "path": "config/resourcepacks/complexcobblemon.zip",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/resourcepacks/complexcobblemon.zip",
+      "sha256": "b9f3440c23b62a32e87671915d6708aaae17507104f6e19e25bb15d4855489bc",
+      "size": 12449447
+    },
+    {
+      "path": "config/resourcepacks/Maxi's-JM+CM_Pixel-U8.zip",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/resourcepacks/Maxi's-JM%2BCM_Pixel-U8.zip",
+      "sha256": "448128bffe9298d15522bf804837a2e2b1bff71185fb7c7f8a5f25e546bcc18a",
+      "size": 2698329
+    },
+    {
+      "path": "config/roughlyenoughitems/collapsible.json5",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/roughlyenoughitems/collapsible.json5",
+      "sha256": "a59667baa54738c1b294393a9b3652bcf7d392cdb8cba1c08a8006885b18e919",
+      "size": 46
+    },
+    {
+      "path": "config/roughlyenoughitems/config.json5",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/roughlyenoughitems/config.json5",
+      "sha256": "2e7ab8e0c29d45e0881e02e2bfc614cd72e2357d7f11434eff6285d43a11ccef",
+      "size": 5616
+    },
+    {
+      "path": "config/roughlyenoughitems/favorites.json5",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/roughlyenoughitems/favorites.json5",
+      "sha256": "e4f815d10bdeb36624cb33b0ea4e7aa9d4da63e6d2efa380d6d464a1cdd61653",
+      "size": 303
+    },
+    {
+      "path": "config/roughlyenoughitems/hints.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/roughlyenoughitems/hints.json",
+      "sha256": "ee05345c70d7289a1801b3e30efb9c11274cc47c4308440599efc79938f66193",
+      "size": 63
+    },
+    {
+      "path": "config/roughlyenoughitems/pinyin_double.properties",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/roughlyenoughitems/pinyin_double.properties",
+      "sha256": "850d5adc5a17e1ec975632397f1f0acfd0b80d4f6db5dea67a62bda150fec9b2",
+      "size": 73
+    },
+    {
+      "path": "config/roughlyenoughitems/pinyin.properties",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/roughlyenoughitems/pinyin.properties",
+      "sha256": "080c8e7e5f424a8d2b747a3b4b1952438fcee4ca74f7c2f0e64a423734d2c425",
+      "size": 48
+    },
+    {
+      "path": "config/sodium-extra-options.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/sodium-extra-options.json",
+      "sha256": "f2ba369526179462388746543b96d9c68e612d98ec300d0e461f56343d1a917f",
+      "size": 1583
+    },
+    {
+      "path": "config/sodium-extra.properties",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/sodium-extra.properties",
+      "sha256": "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70",
+      "size": 360
+    },
+    {
+      "path": "config/sodium-fingerprint.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/sodium-fingerprint.json",
+      "sha256": "22b7f3d7c54fab008ee6ca39f02c6f6df7ef151bcae07d49f83b4f3d92fe9518",
+      "size": 427
+    },
+    {
+      "path": "config/sodium-mixins.properties",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/sodium-mixins.properties",
+      "sha256": "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01",
+      "size": 258
+    },
+    {
+      "path": "config/sodium-options.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/sodium-options.json",
+      "sha256": "cde93d9df75ad322c3e36cbbdc75e47f0bbfeab9c5b483862c6c6b65cde5b82c",
+      "size": 719
+    },
+    {
+      "path": "config/sodium-shadowy-path-blocks-options.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/sodium-shadowy-path-blocks-options.json",
+      "sha256": "25baba4e198fbefd6656a38dcf0cdc3e7ccef211221b4f5218d22a778d1853fa",
+      "size": 107
+    },
+    {
+      "path": "config/sodiumextras-client.toml",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/sodiumextras-client.toml",
+      "sha256": "81e753214bf33cc24d150b9b5dd814e5f0d275428b84e2ceef09f63d4ebb0596",
+      "size": 4889
+    },
+    {
+      "path": "config/stendhal/stendhal.properties",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/stendhal/stendhal.properties",
+      "sha256": "9475d8c3f0bc7d3f5c3083ff02d9e651b94fa19a2343b408642896b128b19f7a",
+      "size": 323
+    },
+    {
+      "path": "config/tipsmod.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/tipsmod.json",
+      "sha256": "5684d479ee2d0eb82b344957d1fce05b21c3d766045f9e7c7d301f4b1e31e44f",
+      "size": 905
+    },
+    {
+      "path": "config/visuality.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/visuality.json",
+      "sha256": "770ae857671151a507f27f87f245404779a59e2457fc2c1ea51815d6f7222579",
+      "size": 1981
+    },
+    {
+      "path": "config/wakes.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/wakes.json",
+      "sha256": "e895e8c54dd96ec33f0424acf64b4a0b1666d4e275647740068c4085e3ad50e5",
+      "size": 1526
+    },
+    {
+      "path": "config/xaerominimap-common.txt",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/xaerominimap-common.txt",
+      "sha256": "771a844d13ab6c2ff99f14b8fd912d02c55a1a4104361692b740c3e596084f6f",
+      "size": 145
+    },
+    {
+      "path": "config/xaeropatreon.txt",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/xaeropatreon.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "path": "config/xaeroworldmap-common.txt",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/xaeroworldmap-common.txt",
+      "sha256": "f02ca95d7246bd4b9c7de895c46108fff42fd5fcf9d56816b7bdba821597b58f",
+      "size": 120
+    },
+    {
+      "path": "config/xaeroworldmap.txt",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/xaeroworldmap.txt",
+      "sha256": "6028733f967d0d0f6a80dd236d3dcc7d2446912c719ab9a7d3f83d8624d9b92d",
+      "size": 1218
+    },
+    {
+      "path": "config/yacl.json5",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yacl.json5",
+      "sha256": "d26a63d3cdf326412ba86dcc2781060bc53ed6c74ac7808e65325452e264e820",
+      "size": 35
+    },
+    {
+      "path": "config/yosbr/config/balm-client.toml",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/balm-client.toml",
+      "sha256": "e6ca77393d993b18e48a8d87115d52dad5eb0554ba3070f8919c257460fe377e",
+      "size": 786
+    },
+    {
+      "path": "config/yosbr/config/balm-common.out.toml",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/balm-common.out.toml",
+      "sha256": "4af862cd0a1c7c379c40c110d5ddea00e211dec005fb09dcee1bfa490b3682b0",
+      "size": 927
+    },
+    {
+      "path": "config/yosbr/config/balm-common.toml",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/balm-common.toml",
+      "sha256": "2fbbc2792edc05ca4df6648bf4f2637502e9bc1942baa957abaace7882e70fef",
+      "size": 873
+    },
+    {
+      "path": "config/yosbr/config/bebooks/config.properties",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/bebooks/config.properties",
+      "sha256": "ad937ed0c42866e2afa35bbe41d87f3e0fb32bfe397001092908f14d9a2e3ebf",
+      "size": 250
+    },
+    {
+      "path": "config/yosbr/config/bebooks/enchantment_data.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/bebooks/enchantment_data.json",
+      "sha256": "050344e8e9f46726be412134f0f7888c8a20792009184e8b8118f9ac0e570199",
+      "size": 3056
+    },
+    {
+      "path": "config/yosbr/config/betteradvancements.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/betteradvancements.json",
+      "sha256": "82ffaabd04cb676394314ad57bacb68b9160d2d8fec5109f1f106115e71417af",
+      "size": 597
+    },
+    {
+      "path": "config/yosbr/config/betterpingdisplay.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/betterpingdisplay.json",
+      "sha256": "b6ac6dcb805a7c126a17400ad2c66a6e582cfb6d9585c1ccac9f9d4cbf9e7c3b",
+      "size": 121
+    },
+    {
+      "path": "config/yosbr/config/betterthirdperson.json5",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/betterthirdperson.json5",
+      "sha256": "151cb9f1ab722aa7026701e482e77cb13eeef2ce7c77cfbac997f719a81b1dbb",
+      "size": 639
+    },
+    {
+      "path": "config/yosbr/config/bhmenu/bhmenu-general.properties",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/bhmenu/bhmenu-general.properties",
+      "sha256": "63067e4fa423f884b6be8a5d2108c020d4b4f2a0ab6dc0517dcd46f2b636f8d4",
+      "size": 889
+    },
+    {
+      "path": "config/yosbr/config/bhmenu/bhmenu-public_server_list.properties",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/bhmenu/bhmenu-public_server_list.properties",
+      "sha256": "637077c5478b85cd2799a8c6124402afec95fe034f212be6bcaf36ad935ec48e",
+      "size": 780
+    },
+    {
+      "path": "config/yosbr/config/bhmenu/bhmenu-server_creator_banner.properties",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/bhmenu/bhmenu-server_creator_banner.properties",
+      "sha256": "3fbe12c5fe7cafa3fff00236823b9ef6049b75e49f5db8cc47756d3b2a4ea35a",
+      "size": 616
+    },
+    {
+      "path": "config/yosbr/config/bwncr.toml",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/bwncr.toml",
+      "sha256": "b35a981348a11e9ef2e73e87530e4f97d2feb7e3e6df50af897159825fa5a9ff",
+      "size": 131
+    },
+    {
+      "path": "config/yosbr/config/citresewn.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/citresewn.json",
+      "sha256": "1ea03400477ac2075d61ae58cfc573bc78ce954507d090ab69547de279918656",
+      "size": 121
+    },
+    {
+      "path": "config/yosbr/config/cobblemon/main.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/cobblemon/main.json",
+      "sha256": "d08b5ae439dd0549e5d7dd8418b7f5724249a76d3d638e2c1967d8b249b1f0ba",
+      "size": 2557
+    },
+    {
+      "path": "config/yosbr/config/craftingtweaks-common.toml",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/craftingtweaks-common.toml",
+      "sha256": "4af862cd0a1c7c379c40c110d5ddea00e211dec005fb09dcee1bfa490b3682b0",
+      "size": 927
+    },
+    {
+      "path": "config/yosbr/config/craftingtweaks.toml",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/craftingtweaks.toml",
+      "sha256": "8830d327f96393c7952f119a69679025a5f1f21cffa278356503021d55d861b2",
+      "size": 274
+    },
+    {
+      "path": "config/yosbr/config/dynamiccrosshair.json5",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/dynamiccrosshair.json5",
+      "sha256": "add5ed0bc9c7f6acbbef0041e48423f0538c88de9abb92961bb82191cc5f3f89",
+      "size": 3377
+    },
+    {
+      "path": "config/yosbr/config/emi_ores-client.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/emi_ores-client.json",
+      "sha256": "1efbbe3d2bcae8b53d5d61596960703c047e9902a96eb46cf5214aeb68f093b6",
+      "size": 33
+    },
+    {
+      "path": "config/yosbr/config/emi.css",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/emi.css",
+      "sha256": "eaa7a68db0a98d21a97918d90ba8e176d4599607831deb54e30697fa547fe015",
+      "size": 10179
+    },
+    {
+      "path": "config/yosbr/config/enchdesc.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/enchdesc.json",
+      "sha256": "7116b95a9b6797af8db84e410a2ca2fdf6f813461e37cd04bff5af933f31567b",
+      "size": 2059
+    },
+    {
+      "path": "config/yosbr/config/enhanced_attack_indicator.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/enhanced_attack_indicator.json",
+      "sha256": "a465ac9fd343ed2d2454a2c8488f8812e6742e434bff7e98d1432797fc6c5ea4",
+      "size": 222
+    },
+    {
+      "path": "config/yosbr/config/entity_model_features.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/entity_model_features.json",
+      "sha256": "49c31f039ecaa30817ce0d89b98fa602dac4ad5b3972e7e2e0b5bfefe04615a8",
+      "size": 1080
+    },
+    {
+      "path": "config/yosbr/config/entity_texture_features.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/entity_texture_features.json",
+      "sha256": "0554c0e7816266477c65c18d2ada9fdddf1c6750787efd329056223ca4a073b2",
+      "size": 1420
+    },
+    {
+      "path": "config/yosbr/config/entityculling.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/entityculling.json",
+      "sha256": "68320f4d33013254db37919b8c6132480e845752f721a2cc6109f553678f79a7",
+      "size": 1345
+    },
+    {
+      "path": "config/yosbr/config/etf_warnings.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/etf_warnings.json",
+      "sha256": "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e",
+      "size": 28
+    },
+    {
+      "path": "config/yosbr/config/fabric/indigo-renderer.properties",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/fabric/indigo-renderer.properties",
+      "sha256": "e12cfbd19aa8d19e1bfcd9a8b76131d84c83735a4d20955ffee716e1d6fe18c0",
+      "size": 290
+    },
+    {
+      "path": "config/yosbr/config/fallingleaves.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/fallingleaves.json",
+      "sha256": "b2a2ba1b05a237b0bffae22188c7c2f9ed62cc356e9c4b2291de6929d64cf608",
+      "size": 10722
+    },
+    {
+      "path": "config/yosbr/config/ferritecore.mixin.properties",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/ferritecore.mixin.properties",
+      "sha256": "a2091a291309db8920c8a80e913ed31c24c29687d8cd25ac18076ad85a90ddb8",
+      "size": 1525
+    },
+    {
+      "path": "config/yosbr/config/forgeconfigapiport.toml",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/forgeconfigapiport.toml",
+      "sha256": "0b7d9dcfc1122e488c28991456edca82080ce402bdf1b45bbd35dc7fceaaa1c5",
+      "size": 278
+    },
+    {
+      "path": "config/yosbr/config/immediatelyfast.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/immediatelyfast.json",
+      "sha256": "f2b7f219198f0a911d04b09f545f2c1256e8d114951443924878dc10963e16aa",
+      "size": 1060
+    },
+    {
+      "path": "config/yosbr/config/invmove.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/invmove.json",
+      "sha256": "d3c2a43ded45efcd78e73bdadc545b42841172a1e6a9e7d20521ae17f67739fc",
+      "size": 382
+    },
+    {
+      "path": "config/yosbr/config/invmove/cloth-config.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/invmove/cloth-config.json",
+      "sha256": "65242c90d0248278a7d2293b4ac8e531ba9d9981255a4c81f938b077b58c79f2",
+      "size": 44
+    },
+    {
+      "path": "config/yosbr/config/invmove/emi.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/invmove/emi.json",
+      "sha256": "65242c90d0248278a7d2293b4ac8e531ba9d9981255a4c81f938b077b58c79f2",
+      "size": 44
+    },
+    {
+      "path": "config/yosbr/config/invmove/jei.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/invmove/jei.json",
+      "sha256": "65242c90d0248278a7d2293b4ac8e531ba9d9981255a4c81f938b077b58c79f2",
+      "size": 44
+    },
+    {
+      "path": "config/yosbr/config/invmove/rei.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/invmove/rei.json",
+      "sha256": "65242c90d0248278a7d2293b4ac8e531ba9d9981255a4c81f938b077b58c79f2",
+      "size": 44
+    },
+    {
+      "path": "config/yosbr/config/invmove/unrecognized.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/invmove/unrecognized.json",
+      "sha256": "c2fb42429e07488632ee8f75840dd0519a5668a8802c093be287c3a08b0d5ef8",
+      "size": 1063
+    },
+    {
+      "path": "config/yosbr/config/invmove/vanilla.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/invmove/vanilla.json",
+      "sha256": "ef66b48ebd9073d50130938cc13781aa0019dbd3c74036f371d4bffa2f7fdbc9",
+      "size": 1092
+    },
+    {
+      "path": "config/yosbr/config/iris-excluded.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/iris-excluded.json",
+      "sha256": "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb",
+      "size": 31
+    },
+    {
+      "path": "config/yosbr/config/iris.properties",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/iris.properties",
+      "sha256": "0ca25d3713e16fc58e6fbd01f8ee901526634e85deafafa2e89a013dd9bd8d13",
+      "size": 313
+    },
+    {
+      "path": "config/yosbr/config/jei/blacklist.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/jei/blacklist.json",
+      "sha256": "b4174dc6e985aa90be5002c14e94b956d8d586683c44b7b6710c44d08fb13648",
+      "size": 19
+    },
+    {
+      "path": "config/yosbr/config/jei/jei-client.ini",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/jei/jei-client.ini",
+      "sha256": "0721632c79aa20adb5d593e68d193031a5d61c2b1d321b158c33bd3308bcff99",
+      "size": 9749
+    },
+    {
+      "path": "config/yosbr/config/jei/jei-colors.ini",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/jei/jei-colors.ini",
+      "sha256": "755f199a3868224bdccb2a8ffd8f1a4eb2d96140757f444ba31f8d677a66034f",
+      "size": 1362
+    },
+    {
+      "path": "config/yosbr/config/jei/jei-debug.ini",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/jei/jei-debug.ini",
+      "sha256": "9e445273b8868aae630a7ec5b20ce5212aa813d855be81bcc874bd4aa43e16a4",
+      "size": 1091
+    },
+    {
+      "path": "config/yosbr/config/jei/jei-mod-id-format.ini",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/jei/jei-mod-id-format.ini",
+      "sha256": "6a91c09d1cabc1980d90ab102a03ec58c0551213ab16a459b599d768b334d054",
+      "size": 489
+    },
+    {
+      "path": "config/yosbr/config/jei/recipe-category-sort-order.ini",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/jei/recipe-category-sort-order.ini",
+      "sha256": "d3d2808b2148c0e98f19f9607f87e2d4a545a40c5ed7141a3b5fec117ca0a4d2",
+      "size": 267
+    },
+    {
+      "path": "config/yosbr/config/konkrete/locals/de_de.local",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/konkrete/locals/de_de.local",
+      "sha256": "79a34cfd15c2d9c06498dc221be79279507d9b57666cd44f8d2c2cf95d3582ef",
+      "size": 369
+    },
+    {
+      "path": "config/yosbr/config/konkrete/locals/en_us.local",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/konkrete/locals/en_us.local",
+      "sha256": "fdf1864fd049b3f1b9af1f8db6c5125a627be7d06a451c778da3329843d3c39a",
+      "size": 426
+    },
+    {
+      "path": "config/yosbr/config/konkrete/locals/pl_pl.local",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/konkrete/locals/pl_pl.local",
+      "sha256": "d38a7776e362e4de6082078d803c1c9358d9d40526edfe4bdfd29c552aef76d8",
+      "size": 313
+    },
+    {
+      "path": "config/yosbr/config/konkrete/locals/pt_br.local",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/konkrete/locals/pt_br.local",
+      "sha256": "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c",
+      "size": 322
+    },
+    {
+      "path": "config/yosbr/config/lambdynlights.toml",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/lambdynlights.toml",
+      "sha256": "93e2d52a198fa222b1a77cc0490b4dd5749707ea46c58346da3feea5bed2f2ab",
+      "size": 4516
+    },
+    {
+      "path": "config/yosbr/config/languagereload.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/languagereload.json",
+      "sha256": "6862a307122b6bc61c0d64c1fc16bdacddc8b56b963b20f32c41ca16ae6fd515",
+      "size": 186
+    },
+    {
+      "path": "config/yosbr/config/letmedespawn.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/letmedespawn.json",
+      "sha256": "6af411644e22ede34383135509cb96b2a636d8ed45494b28976514a95537105e",
+      "size": 72
+    },
+    {
+      "path": "config/yosbr/config/libgui.json5",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/libgui.json5",
+      "sha256": "6814fc05aa8d6664712b056cfd6cb51cb4bafeabe3f274b9cf5e19e27eff406d",
+      "size": 101
+    },
+    {
+      "path": "config/yosbr/config/lithium.properties",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/lithium.properties",
+      "sha256": "76765e8e5ff8e927d80beb0739aababcf36e7babfd94262f2afece256cc5cd2e",
+      "size": 430
+    },
+    {
+      "path": "config/yosbr/config/loadmyresources/config.cfg",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/loadmyresources/config.cfg",
+      "sha256": "549a26b9b8ab9e2df0a427732a737c5dbcdb0b6790ad7ea9a387dea789abcad5",
+      "size": 79
+    },
+    {
+      "path": "config/yosbr/config/make_bubbles_pop.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/make_bubbles_pop.json",
+      "sha256": "2266b2e507e4dcea55fb1a53be33690efc8c1fe4ce7a559a98a29fecac2069c4",
+      "size": 383
+    },
+    {
+      "path": "config/yosbr/config/medal.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/medal.json",
+      "sha256": "49b1b55c53bd54083572f71511428b4697e3eae4de39cc0204b0b19b45f0094d",
+      "size": 394
+    },
+    {
+      "path": "config/yosbr/config/midnightlib.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/midnightlib.json",
+      "sha256": "b14c45c6447f9ee5474d70784a2ef96731abbeca1e92485b7599e76e9dce1444",
+      "size": 37
+    },
+    {
+      "path": "config/yosbr/config/modmenu.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/modmenu.json",
+      "sha256": "1d1bb1874d8b7116c41314633a95075675304bd6c205b8d8c5920730dcc6169e",
+      "size": 474
+    },
+    {
+      "path": "config/yosbr/config/moreculling.toml",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/moreculling.toml",
+      "sha256": "3ec4f9263c72988bc6490c7d488d5d576c9ebbc4c614f683de3a4772e8e89f0c",
+      "size": 595
+    },
+    {
+      "path": "config/yosbr/config/notenoughanimations.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/notenoughanimations.json",
+      "sha256": "f734f35399f949a79b29328d6d0398027a5e5c4f5ffa15f35a44c8054b54da34",
+      "size": 1388
+    },
+    {
+      "path": "config/yosbr/config/panorama_screens/settings.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/panorama_screens/settings.json",
+      "sha256": "7688da256aa45808262ca17851a80e862511625009d6310e6f72e340c0f03564",
+      "size": 2012
+    },
+    {
+      "path": "config/yosbr/config/particlerain.json5",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/particlerain.json5",
+      "sha256": "e951c9547a6fea5c2bb61dfec0c4c3208c49a43ea83d287878054c9db6a439f5",
+      "size": 1704
+    },
+    {
+      "path": "config/yosbr/config/particular.json5",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/particular.json5",
+      "sha256": "96cba1f04b2331ecc2919c07a280234c388a1b756a9dc661302ee40b416b8a5a",
+      "size": 1069
+    },
+    {
+      "path": "config/yosbr/config/presencefootsteps/updater.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/presencefootsteps/updater.json",
+      "sha256": "1e7c61df09c105e1eeca8cf3dcbdfeb976700e9904bcb3983fc7791adb7fad2e",
+      "size": 68
+    },
+    {
+      "path": "config/yosbr/config/presencefootsteps/userconfig.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/presencefootsteps/userconfig.json",
+      "sha256": "1cb26a471de1f7ea80afeb77c35c9e86a7ecb9881e948b891eaea41b354046af",
+      "size": 426
+    },
+    {
+      "path": "config/yosbr/config/roughlyenoughitems/collapsible.json5",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/roughlyenoughitems/collapsible.json5",
+      "sha256": "a59667baa54738c1b294393a9b3652bcf7d392cdb8cba1c08a8006885b18e919",
+      "size": 46
+    },
+    {
+      "path": "config/yosbr/config/roughlyenoughitems/config.json5",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/roughlyenoughitems/config.json5",
+      "sha256": "2e7ab8e0c29d45e0881e02e2bfc614cd72e2357d7f11434eff6285d43a11ccef",
+      "size": 5616
+    },
+    {
+      "path": "config/yosbr/config/roughlyenoughitems/favorites.json5",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/roughlyenoughitems/favorites.json5",
+      "sha256": "e4f815d10bdeb36624cb33b0ea4e7aa9d4da63e6d2efa380d6d464a1cdd61653",
+      "size": 303
+    },
+    {
+      "path": "config/yosbr/config/roughlyenoughitems/hints.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/roughlyenoughitems/hints.json",
+      "sha256": "ee05345c70d7289a1801b3e30efb9c11274cc47c4308440599efc79938f66193",
+      "size": 63
+    },
+    {
+      "path": "config/yosbr/config/roughlyenoughitems/pinyin_double.properties",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/roughlyenoughitems/pinyin_double.properties",
+      "sha256": "850d5adc5a17e1ec975632397f1f0acfd0b80d4f6db5dea67a62bda150fec9b2",
+      "size": 73
+    },
+    {
+      "path": "config/yosbr/config/roughlyenoughitems/pinyin.properties",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/roughlyenoughitems/pinyin.properties",
+      "sha256": "080c8e7e5f424a8d2b747a3b4b1952438fcee4ca74f7c2f0e64a423734d2c425",
+      "size": 48
+    },
+    {
+      "path": "config/yosbr/config/sodium-extra-options.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/sodium-extra-options.json",
+      "sha256": "f2ba369526179462388746543b96d9c68e612d98ec300d0e461f56343d1a917f",
+      "size": 1583
+    },
+    {
+      "path": "config/yosbr/config/sodium-extra.properties",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/sodium-extra.properties",
+      "sha256": "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70",
+      "size": 360
+    },
+    {
+      "path": "config/yosbr/config/sodium-fingerprint.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/sodium-fingerprint.json",
+      "sha256": "642a423627c14a6b095e2b1111b6f2a836e44eb6219c662a5c7b5f9fd5be2151",
+      "size": 427
+    },
+    {
+      "path": "config/yosbr/config/sodium-mixins.properties",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/sodium-mixins.properties",
+      "sha256": "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01",
+      "size": 258
+    },
+    {
+      "path": "config/yosbr/config/sodium-options.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/sodium-options.json",
+      "sha256": "cde93d9df75ad322c3e36cbbdc75e47f0bbfeab9c5b483862c6c6b65cde5b82c",
+      "size": 719
+    },
+    {
+      "path": "config/yosbr/config/sodium-shadowy-path-blocks-options.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/sodium-shadowy-path-blocks-options.json",
+      "sha256": "25baba4e198fbefd6656a38dcf0cdc3e7ccef211221b4f5218d22a778d1853fa",
+      "size": 107
+    },
+    {
+      "path": "config/yosbr/config/sodiumextras-client.toml",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/sodiumextras-client.toml",
+      "sha256": "62f76d363069cd325ef19d02a1413d1982611dcf08e849b0bfbd041d062dd56f",
+      "size": 4891
+    },
+    {
+      "path": "config/yosbr/config/stendhal/stendhal.properties",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/stendhal/stendhal.properties",
+      "sha256": "9475d8c3f0bc7d3f5c3083ff02d9e651b94fa19a2343b408642896b128b19f7a",
+      "size": 323
+    },
+    {
+      "path": "config/yosbr/config/tipsmod.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/tipsmod.json",
+      "sha256": "5684d479ee2d0eb82b344957d1fce05b21c3d766045f9e7c7d301f4b1e31e44f",
+      "size": 905
+    },
+    {
+      "path": "config/yosbr/config/visuality.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/visuality.json",
+      "sha256": "770ae857671151a507f27f87f245404779a59e2457fc2c1ea51815d6f7222579",
+      "size": 1981
+    },
+    {
+      "path": "config/yosbr/config/wakes.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/wakes.json",
+      "sha256": "e895e8c54dd96ec33f0424acf64b4a0b1666d4e275647740068c4085e3ad50e5",
+      "size": 1526
+    },
+    {
+      "path": "config/yosbr/config/xaerominimap_entities.json",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/xaerominimap_entities.json",
+      "sha256": "cd69d198136600024c570149621c9147b6da9b29bd5ae779e7a126a6ce7aec83",
+      "size": 7931
+    },
+    {
+      "path": "config/yosbr/config/xaerominimap-common.txt",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/xaerominimap-common.txt",
+      "sha256": "771a844d13ab6c2ff99f14b8fd912d02c55a1a4104361692b740c3e596084f6f",
+      "size": 145
+    },
+    {
+      "path": "config/yosbr/config/xaerominimap.txt",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/xaerominimap.txt",
+      "sha256": "83135065e7eb9129f251c9af2267497dbda6488af34a5dbbd3325255632fb61d",
+      "size": 3655
+    },
+    {
+      "path": "config/yosbr/config/xaeropatreon.txt",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/xaeropatreon.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "path": "config/yosbr/config/xaeroworldmap-common.txt",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/xaeroworldmap-common.txt",
+      "sha256": "f02ca95d7246bd4b9c7de895c46108fff42fd5fcf9d56816b7bdba821597b58f",
+      "size": 120
+    },
+    {
+      "path": "config/yosbr/config/xaeroworldmap.txt",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/xaeroworldmap.txt",
+      "sha256": "6028733f967d0d0f6a80dd236d3dcc7d2446912c719ab9a7d3f83d8624d9b92d",
+      "size": 1218
+    },
+    {
+      "path": "config/yosbr/config/yacl.json5",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/config/yacl.json5",
+      "sha256": "d26a63d3cdf326412ba86dcc2781060bc53ed6c74ac7808e65325452e264e820",
+      "size": 35
+    },
+    {
+      "path": "config/yosbr/options.txt",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/options.txt",
+      "sha256": "e69f6b7477d3103a63797c17fad972a3ae55e5f9accb52e531a0cb8804302880",
+      "size": 6970
+    },
+    {
+      "path": "config/yosbr/shaderpacks/ComplementaryReimagined_r5.5.1.zip.txt",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/config/yosbr/shaderpacks/ComplementaryReimagined_r5.5.1.zip.txt",
+      "sha256": "13698a7e373a11bdb61ef72815daa4e0a22f834e9bf464ec7e466e357ba62ffb",
+      "size": 843
+    },
+    {
+      "path": "mods/complexclientfabric-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/complexclientfabric-1.0.0.jar",
+      "sha256": "b92f723869e7038e64100c1c7c8f9eec4456fce399a86c21e7e2298689e09486",
+      "size": 510257
+    }
+  ]
+}

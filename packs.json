@@ -10,6 +10,17 @@
         "version": "47.4.10"
       },
       "manifestUrl": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-smp/manifest.json"
+    },
+    {
+      "id": "atenas-cobblemon",
+      "name": "Atenas Cobblemon",
+      "description": "POKEMON CON LOS WACHOS",
+      "minecraft": "1.21.1",
+      "loader": {
+        "type": "fabric",
+        "version": "0.18.1"
+      },
+      "manifestUrl": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/manifest.json"
     }
   ]
 }
