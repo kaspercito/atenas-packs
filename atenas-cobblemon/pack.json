@@ -19,6 +19,13 @@
   "once": [],
   "sources": {
     "mods/Cobblemon-fabric-1.8.2+1.21.1.jar": "https://cdn.modrinth.com/data/MdwFAVRL/versions/GJ2a1b8O/Cobblemon-fabric-1.8.2%2B1.21.1.jar",
-    "mods/fabric-api-0.116.17+1.21.1.jar": "https://cdn.modrinth.com/data/P7dR8mSH/versions/Mys3P7lK/fabric-api-0.116.17%2B1.21.1.jar"
+    "mods/dynamic-fps-3.11.4+minecraft-1.21.0-fabric.jar": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/GBH14HiF/dynamic-fps-3.11.4%2Bminecraft-1.21.0-fabric.jar",
+    "mods/entityculling-fabric-1.11.3-mc1.21.1.jar": "https://cdn.modrinth.com/data/NNAgCjsB/versions/yllJFBpU/entityculling-fabric-1.11.3-mc1.21.1.jar",
+    "mods/fabric-api-0.116.17+1.21.1.jar": "https://cdn.modrinth.com/data/P7dR8mSH/versions/Mys3P7lK/fabric-api-0.116.17%2B1.21.1.jar",
+    "mods/ImmediatelyFast-Fabric-1.6.15+1.21.1.jar": "https://cdn.modrinth.com/data/5ZwdcRci/versions/aLnBqxFW/ImmediatelyFast-Fabric-1.6.15%2B1.21.1.jar",
+    "mods/iris-fabric-1.8.8+mc1.21.1.jar": "https://cdn.modrinth.com/data/YL57xq9U/versions/zsoi0dso/iris-fabric-1.8.8%2Bmc1.21.1.jar",
+    "mods/notenoughanimations-fabric-1.12.6-mc1.21.1.jar": "https://cdn.modrinth.com/data/MPCX6s5C/versions/P5COwDnM/notenoughanimations-fabric-1.12.6-mc1.21.1.jar",
+    "mods/sodium-extra-fabric-0.9.4+mc1.21.1.jar": "https://cdn.modrinth.com/data/PtjYWJkn/versions/YEWu6red/sodium-extra-fabric-0.9.4%2Bmc1.21.1.jar",
+    "mods/sodium-fabric-0.8.13+mc1.21.1.jar": "https://cdn.modrinth.com/data/AANobbMI/versions/SMxNOGZ6/sodium-fabric-0.8.13%2Bmc1.21.1.jar"
   }
 }
