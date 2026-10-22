@@ -1,8 +1,8 @@
 {
   "id": "atenas-cobblemon",
   "name": "Atenas Cobblemon",
-  "packVersion": "1.0.10",
-  "changelog": "Añadido: lambdynamiclights-4.8.6+1.21.1.jar\nQuitado: lambdynamiclights-4.8.11+1.21.1.jar\nAjustes: 1.21.1 · fabric 0.18.1 · RAM 8G-12G",
+  "packVersion": "1.0.11",
+  "changelog": "Quitado: owo-lib-0.13.0-alpha.15+1.21.jar",
   "minecraft": "1.21.1",
   "loader": {
     "type": "fabric",
@@ -1697,12 +1697,6 @@
       "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/owo-lib-0.12.15.4%2B1.21.jar",
       "sha256": "825180ce17bc012fb450653b14df9f32479dcdd073fc3f133bb47462f5a63cec",
       "size": 1183559
-    },
-    {
-      "path": "mods/owo-lib-0.13.0-alpha.15+1.21.jar",
-      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/owo-lib-0.13.0-alpha.15%2B1.21.jar",
-      "sha256": "bf14fd85d3d360e5c1f8e4e2294a8b2ee5c0baf7f3788160473b6d217ef3816f",
-      "size": 1963544
     },
     {
       "path": "mods/particular-1.1.2+1.21.jar",
