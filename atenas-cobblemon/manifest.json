@@ -1,8 +1,8 @@
 {
   "id": "atenas-cobblemon",
   "name": "Atenas Cobblemon",
-  "packVersion": "1.0.11",
-  "changelog": "Quitado: owo-lib-0.13.0-alpha.15+1.21.jar",
+  "packVersion": "1.0.12",
+  "changelog": "Quitado: balm-fabric-1.21.1-21.0.46.jar",
   "minecraft": "1.21.1",
   "loader": {
     "type": "fabric",
@@ -1415,12 +1415,6 @@
       "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/another_furniture-fabric-4.0.2.jar",
       "sha256": "3f0e6c276dde5cd6390e9c14bc4c283e4043f25d812c1f5ecc36b7b2f61642b5",
       "size": 2398841
-    },
-    {
-      "path": "mods/balm-fabric-1.21.1-21.0.46.jar",
-      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/balm-fabric-1.21.1-21.0.46.jar",
-      "sha256": "99569f2c1e1e6541f8cd9b91a6782f239ec29dabf3b41e17f17a139220eff09a",
-      "size": 619073
     },
     {
       "path": "mods/balm-fabric-1.21.1-21.0.66.jar",
