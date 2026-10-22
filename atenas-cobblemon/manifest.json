@@ -1,8 +1,8 @@
 {
   "id": "atenas-cobblemon",
   "name": "Atenas Cobblemon",
-  "packVersion": "1.0.2",
-  "changelog": "Añadido: dynamic-fps-3.11.4+minecraft-1.21.0-fabric.jar, entityculling-fabric-1.11.3-mc1.21.1.jar, ImmediatelyFast-Fabric-1.6.15+1.21.1.jar, iris-fabric-1.8.8+mc1.21.1.jar, notenoughanimations-fabric-1.12.6-mc1.21.1.jar, sodium-extra-fabric-0.9.4+mc1.21.1.jar, sodium-fabric-0.8.13+mc1.21.1.jar",
+  "packVersion": "1.0.3",
+  "changelog": "Añadido: BetterThirdPerson-Fabric-1.21-1.9.0.jar, entity_model_features-3.3.12-1.21-fabric.jar, entity_texture_features-7.2.6-1.21-fabric (1).jar, entity_texture_features-7.2.6-1.21-fabric.jar, make_bubbles_pop-0.3.0-fabric-mc1.19.4-1.21.jar, owo-lib-0.13.0-alpha.15+1.21.jar, particular-1.1.2+1.21.jar, visuality-0.7.7+1.21.jar\nQuitado: dynamic-fps-3.11.4+minecraft-1.21.0-fabric.jar, entityculling-fabric-1.11.3-mc1.21.1.jar, ImmediatelyFast-Fabric-1.6.15+1.21.1.jar, iris-fabric-1.8.8+mc1.21.1.jar, notenoughanimations-fabric-1.12.6-mc1.21.1.jar, sodium-extra-fabric-0.9.4+mc1.21.1.jar, sodium-fabric-0.8.13+mc1.21.1.jar",
   "minecraft": "1.21.1",
   "loader": {
     "type": "fabric",
@@ -1411,6 +1411,12 @@
       "size": 619073
     },
     {
+      "path": "mods/BetterThirdPerson-Fabric-1.21-1.9.0.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/BetterThirdPerson-Fabric-1.21-1.9.0.jar",
+      "sha256": "f9ec9dc6508b20d32a3c770ecc77641e8f87c98e298d58e2757a6ef14abbb457",
+      "size": 52188
+    },
+    {
       "path": "mods/bookshelf-fabric-1.21.1-21.1.64.jar",
       "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/bookshelf-fabric-1.21.1-21.1.64.jar",
       "sha256": "6ab519ab1e398ce7c679de2308c8c8d76e6966c01071a95810181dd26c9cbaa5",
@@ -1453,12 +1459,6 @@
       "size": 247914
     },
     {
-      "path": "mods/dynamic-fps-3.11.4+minecraft-1.21.0-fabric.jar",
-      "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/GBH14HiF/dynamic-fps-3.11.4%2Bminecraft-1.21.0-fabric.jar",
-      "sha256": "f66b13835282603bd6f8902faa5142e1311bb6393496b04a5df7008415b2fdf8",
-      "size": 217532
-    },
-    {
       "path": "mods/emi_ores-1.2+1.21.1+fabric.jar",
       "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/emi_ores-1.2%2B1.21.1%2Bfabric.jar",
       "sha256": "c90d4edcc91eea15e560e36f832fb09801962d10df941c3ab750aedf6bc9e77c",
@@ -1477,10 +1477,22 @@
       "size": 23810
     },
     {
-      "path": "mods/entityculling-fabric-1.11.3-mc1.21.1.jar",
-      "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/yllJFBpU/entityculling-fabric-1.11.3-mc1.21.1.jar",
-      "sha256": "9b06f16803071299d1aa2ade4d5539749fdfaddba28b6b9350dac9876eead1a5",
-      "size": 1519243
+      "path": "mods/entity_model_features-3.3.12-1.21-fabric.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/entity_model_features-3.3.12-1.21-fabric.jar",
+      "sha256": "d089852c2b554165568ac786047a45efdc0f1141c607eca03f9e7e7e66524022",
+      "size": 653743
+    },
+    {
+      "path": "mods/entity_texture_features-7.2.6-1.21-fabric (1).jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/entity_texture_features-7.2.6-1.21-fabric%20(1).jar",
+      "sha256": "fc4bf6228195a0fe8af33a36409c8dab9b391ba2920210445d11c8c69e56a6b9",
+      "size": 800215
+    },
+    {
+      "path": "mods/entity_texture_features-7.2.6-1.21-fabric.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/entity_texture_features-7.2.6-1.21-fabric.jar",
+      "sha256": "fc4bf6228195a0fe8af33a36409c8dab9b391ba2920210445d11c8c69e56a6b9",
+      "size": 800215
     },
     {
       "path": "mods/fabric-api-0.116.17+1.21.1.jar",
@@ -1505,18 +1517,6 @@
       "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/ferritecore-7.0.2-hotfix-fabric.jar",
       "sha256": "e3fae8e321474a35e94f9bb09eafd0440ce0fe98f4aebbc067e392889700a4fa",
       "size": 120709
-    },
-    {
-      "path": "mods/ImmediatelyFast-Fabric-1.6.15+1.21.1.jar",
-      "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/aLnBqxFW/ImmediatelyFast-Fabric-1.6.15%2B1.21.1.jar",
-      "sha256": "9c391f0864caf9083cac98e44b1ab6235e45fbf340efda5ba75e0a21929d05d5",
-      "size": 342235
-    },
-    {
-      "path": "mods/iris-fabric-1.8.8+mc1.21.1.jar",
-      "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/zsoi0dso/iris-fabric-1.8.8%2Bmc1.21.1.jar",
-      "sha256": "b5ad39a6cb113ca0a1765f06689f9f4b29ccd0c81247de90b06c42f5da1092f5",
-      "size": 2690177
     },
     {
       "path": "mods/jeed-1.21-2.2.19-fabric.jar",
@@ -1567,6 +1567,12 @@
       "size": 771768
     },
     {
+      "path": "mods/make_bubbles_pop-0.3.0-fabric-mc1.19.4-1.21.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/make_bubbles_pop-0.3.0-fabric-mc1.19.4-1.21.jar",
+      "sha256": "42daaf9bf8070827cf03deb492a312cac6a3f002f4a4736d9a4c956726a8ced1",
+      "size": 27579
+    },
+    {
       "path": "mods/melody_fabric_1.0.10_MC_1.21.jar",
       "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/melody_fabric_1.0.10_MC_1.21.jar",
       "sha256": "223ab859b9cc246d8d6e5cec5e734f97be3aac545de6cda7743750262428ed83",
@@ -1597,12 +1603,6 @@
       "size": 9907
     },
     {
-      "path": "mods/notenoughanimations-fabric-1.12.6-mc1.21.1.jar",
-      "url": "https://cdn.modrinth.com/data/MPCX6s5C/versions/P5COwDnM/notenoughanimations-fabric-1.12.6-mc1.21.1.jar",
-      "sha256": "c122d94d63493de89a90778f761ccebcc53ba009279c93492b99869381f37f45",
-      "size": 1873853
-    },
-    {
       "path": "mods/OpenLoader-fabric-1.21.1-21.1.5.jar",
       "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/OpenLoader-fabric-1.21.1-21.1.5.jar",
       "sha256": "95b48a53035f1b7193916b8202637a582d6680ebdcdb0ce6a0c6c0427a443483",
@@ -1613,6 +1613,18 @@
       "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/owo-lib-0.12.15.4%2B1.21.jar",
       "sha256": "825180ce17bc012fb450653b14df9f32479dcdd073fc3f133bb47462f5a63cec",
       "size": 1183559
+    },
+    {
+      "path": "mods/owo-lib-0.13.0-alpha.15+1.21.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/owo-lib-0.13.0-alpha.15%2B1.21.jar",
+      "sha256": "bf14fd85d3d360e5c1f8e4e2294a8b2ee5c0baf7f3788160473b6d217ef3816f",
+      "size": 1963544
+    },
+    {
+      "path": "mods/particular-1.1.2+1.21.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/particular-1.1.2%2B1.21.jar",
+      "sha256": "932e9f48506c6258f9215a243049076fbc9e72c3f42284115d59f65696c20be8",
+      "size": 240317
     },
     {
       "path": "mods/prickle-fabric-1.21.1-21.1.8.jar",
@@ -1627,22 +1639,16 @@
       "size": 377858
     },
     {
-      "path": "mods/sodium-extra-fabric-0.9.4+mc1.21.1.jar",
-      "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/YEWu6red/sodium-extra-fabric-0.9.4%2Bmc1.21.1.jar",
-      "sha256": "42c36c7cb3084ac8038df5c946f0b4222e7b07499ee947c68c92adf52435936a",
-      "size": 472019
-    },
-    {
-      "path": "mods/sodium-fabric-0.8.13+mc1.21.1.jar",
-      "url": "https://cdn.modrinth.com/data/AANobbMI/versions/SMxNOGZ6/sodium-fabric-0.8.13%2Bmc1.21.1.jar",
-      "sha256": "3d43c14985a4deb19c654aad3393b454cf57e1ebcbba86c4ae6a98dfc60eca2d",
-      "size": 1574609
-    },
-    {
       "path": "mods/sodiumleafculling-fabric-1.0.1-1.21.1.jar",
       "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/sodiumleafculling-fabric-1.0.1-1.21.1.jar",
       "sha256": "aa8f0db9eb8f2bbe06d4713dc42e1d0d362ed14a33b85a4f7917202bb7b65041",
       "size": 299711
+    },
+    {
+      "path": "mods/visuality-0.7.7+1.21.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/visuality-0.7.7%2B1.21.jar",
+      "sha256": "c10fe78103b659259161330be2f6f2123dedf5f2f00cd243225a88d5ffa8c372",
+      "size": 79452
     },
     {
       "path": "mods/yet_another_config_lib_v3-3.6.6+1.21.1-fabric.jar",

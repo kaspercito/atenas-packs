@@ -5,10 +5,3 @@
 #  Se administra desde Atenas Admin (pestaña «Añadir mods»).
 # ═══════════════════════════════════════════════════════════════
 cobblemon
-sodium
-iris
-entityculling
-immediatelyfast
-dynamic-fps
-not-enough-animations
-sodium-extra
