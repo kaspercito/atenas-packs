@@ -1,8 +1,8 @@
 {
   "id": "atenas-cobblemon",
   "name": "Atenas Cobblemon",
-  "packVersion": "1.0.5",
-  "changelog": "Añadido: dynamic-fps-3.11.4+minecraft-1.21.0-fabric.jar, entityculling-fabric-1.11.3-mc1.21.1.jar, ImmediatelyFast-Fabric-1.6.15+1.21.1.jar, iris-fabric-1.8.8+mc1.21.1.jar, notenoughanimations-fabric-1.12.6-mc1.21.1.jar, owo-lib-0.13.0-alpha.15+1.21.jar, sodium-extra-fabric-0.9.4+mc1.21.1.jar, sodium-fabric-0.8.13+mc1.21.1.jar",
+  "packVersion": "1.0.6",
+  "changelog": "Añadido: sodium-fabric-0.6.13+mc1.21.1.jar\nQuitado: sodium-fabric-0.8.13+mc1.21.1.jar",
   "minecraft": "1.21.1",
   "loader": {
     "type": "fabric",
@@ -1675,10 +1675,10 @@
       "size": 472019
     },
     {
-      "path": "mods/sodium-fabric-0.8.13+mc1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/sodium-fabric-0.8.13%2Bmc1.21.1.jar",
-      "sha256": "3d43c14985a4deb19c654aad3393b454cf57e1ebcbba86c4ae6a98dfc60eca2d",
-      "size": 1574609
+      "path": "mods/sodium-fabric-0.6.13+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/sodium-fabric-0.6.13%2Bmc1.21.1.jar",
+      "sha256": "e04599514d88e41765f710eeba59e3814909833396bc11b977f48fc2e7e50353",
+      "size": 1297761
     },
     {
       "path": "mods/sodiumleafculling-fabric-1.0.1-1.21.1.jar",
