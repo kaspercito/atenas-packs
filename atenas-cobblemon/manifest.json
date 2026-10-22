@@ -1,8 +1,8 @@
 {
   "id": "atenas-cobblemon",
   "name": "Atenas Cobblemon",
-  "packVersion": "1.0.6",
-  "changelog": "Añadido: sodium-fabric-0.6.13+mc1.21.1.jar\nQuitado: sodium-fabric-0.8.13+mc1.21.1.jar",
+  "packVersion": "1.0.7",
+  "changelog": "Añadido: [1.21.1] SecurityCraft-fabric-V0.6.1.jar, balm-fabric-1.21.1-21.0.66.jar, cardinal-components-api-6.1.3.jar, lambdynamiclights-4.8.11+1.21.1.jar, PresenceFootsteps-1.11.2+1.21.jar, sodium-extra-fabric-0.6.0+mc1.21.1.jar, sound-physics-remastered-fabric-1.21.1-1.5.2.jar, travelersbackpack-fabric-1.21.1-10.1.39.jar, voicechat-fabric-1.21.1-2.6.22.jar, wakes-0.4.1+1.21.1.jar, waystones-fabric-1.21.1-21.1.46.jar\nQuitado: sodium-extra-fabric-0.9.4+mc1.21.1.jar",
   "minecraft": "1.21.1",
   "loader": {
     "type": "fabric",
@@ -1387,6 +1387,12 @@
       "size": 843
     },
     {
+      "path": "mods/[1.21.1] SecurityCraft-fabric-V0.6.1.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/%5B1.21.1%5D%20SecurityCraft-fabric-V0.6.1.jar",
+      "sha256": "7ea8a8a37615c5a7eeb95a3db5b0ea71e566f147c7422f1e9898b051bf6375b1",
+      "size": 2267199
+    },
+    {
       "path": "mods/AdvancedLootInfo-fabric-1.21.1-1.1.7.jar",
       "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/AdvancedLootInfo-fabric-1.21.1-1.1.7.jar",
       "sha256": "6e152d59b90165288b08bc6d2dba54ed079299195325b64c46ba0f73412ac98f",
@@ -1411,6 +1417,12 @@
       "size": 619073
     },
     {
+      "path": "mods/balm-fabric-1.21.1-21.0.66.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/balm-fabric-1.21.1-21.0.66.jar",
+      "sha256": "fda64674da8959d8d3f0c4b5bc1e9543e867b16e9f078bffa704f95cd584a855",
+      "size": 805265
+    },
+    {
       "path": "mods/BetterThirdPerson-Fabric-1.21-1.9.0.jar",
       "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/BetterThirdPerson-Fabric-1.21-1.9.0.jar",
       "sha256": "f9ec9dc6508b20d32a3c770ecc77641e8f87c98e298d58e2757a6ef14abbb457",
@@ -1421,6 +1433,12 @@
       "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/bookshelf-fabric-1.21.1-21.1.64.jar",
       "sha256": "6ab519ab1e398ce7c679de2308c8c8d76e6966c01071a95810181dd26c9cbaa5",
       "size": 339416
+    },
+    {
+      "path": "mods/cardinal-components-api-6.1.3.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/cardinal-components-api-6.1.3.jar",
+      "sha256": "302a8a4bc2e34cbffaf61af75ab5de47c06bfa159436665870ae61092b0f69a2",
+      "size": 229645
     },
     {
       "path": "mods/citresewn-1.2.2+1.21.jar",
@@ -1573,6 +1591,12 @@
       "size": 161045
     },
     {
+      "path": "mods/lambdynamiclights-4.8.11+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/lambdynamiclights-4.8.11%2B1.21.1.jar",
+      "sha256": "913b0358b1031828f1e060ea0ee361232dc2a1c82464f488a0a920739ce7c763",
+      "size": 2023375
+    },
+    {
       "path": "mods/language-reload-1.7.3+1.21.1.jar",
       "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/language-reload-1.7.3%2B1.21.1.jar",
       "sha256": "66ed72f7e890524ed1afaa829075e19d4e084c7e6914fded9f289adb51f2e3af",
@@ -1657,6 +1681,12 @@
       "size": 240317
     },
     {
+      "path": "mods/PresenceFootsteps-1.11.2+1.21.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/PresenceFootsteps-1.11.2%2B1.21.jar",
+      "sha256": "0108e0df22f395bed4053b20d05663f98ea89db760c0cf0b7fb2d0edecb5af49",
+      "size": 5694024
+    },
+    {
       "path": "mods/prickle-fabric-1.21.1-21.1.8.jar",
       "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/prickle-fabric-1.21.1-21.1.8.jar",
       "sha256": "0298071d0c28a7417b713b89e35f8a8ccb8b0afb83f75bb786deca0d7b56945a",
@@ -1669,10 +1699,10 @@
       "size": 377858
     },
     {
-      "path": "mods/sodium-extra-fabric-0.9.4+mc1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/sodium-extra-fabric-0.9.4%2Bmc1.21.1.jar",
-      "sha256": "42c36c7cb3084ac8038df5c946f0b4222e7b07499ee947c68c92adf52435936a",
-      "size": 472019
+      "path": "mods/sodium-extra-fabric-0.6.0+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/sodium-extra-fabric-0.6.0%2Bmc1.21.1.jar",
+      "sha256": "1a7434e444c851d82efbe3d5a8fd2dbb142e9bdf0012d7c6a0e4741c641b1a2d",
+      "size": 373661
     },
     {
       "path": "mods/sodium-fabric-0.6.13+mc1.21.1.jar",
@@ -1687,10 +1717,40 @@
       "size": 299711
     },
     {
+      "path": "mods/sound-physics-remastered-fabric-1.21.1-1.5.2.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/sound-physics-remastered-fabric-1.21.1-1.5.2.jar",
+      "sha256": "ace731943db3a02c375e401d18bab3756be4582015066643db9b4a9dead87fbb",
+      "size": 205305
+    },
+    {
+      "path": "mods/travelersbackpack-fabric-1.21.1-10.1.39.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/travelersbackpack-fabric-1.21.1-10.1.39.jar",
+      "sha256": "a68843c41eceb1867692936d749b8ce9b390c23b1ee4f99ecb4b1feca26c11cc",
+      "size": 1508904
+    },
+    {
       "path": "mods/visuality-0.7.7+1.21.jar",
       "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/visuality-0.7.7%2B1.21.jar",
       "sha256": "c10fe78103b659259161330be2f6f2123dedf5f2f00cd243225a88d5ffa8c372",
       "size": 79452
+    },
+    {
+      "path": "mods/voicechat-fabric-1.21.1-2.6.22.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/voicechat-fabric-1.21.1-2.6.22.jar",
+      "sha256": "972a01592f670aa57f2dc2e3587a656b798106037468c61e4bfb49eba7d6ae36",
+      "size": 5369475
+    },
+    {
+      "path": "mods/wakes-0.4.1+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/wakes-0.4.1%2B1.21.1.jar",
+      "sha256": "2ba269063a5655eb8b32909c0ea6d486f61afcae202aa236fe3a6fefc57d43f9",
+      "size": 268435
+    },
+    {
+      "path": "mods/waystones-fabric-1.21.1-21.1.46.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-cobblemon/files/mods/waystones-fabric-1.21.1-21.1.46.jar",
+      "sha256": "06f4c8364e38ddff5d1afd100ca2f2d38b10a95f89a4b1d95b2a117accae24c1",
+      "size": 1248666
     },
     {
       "path": "mods/yet_another_config_lib_v3-3.6.6+1.21.1-fabric.jar",
