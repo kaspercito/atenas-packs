@@ -1,0 +1,20 @@
+{
+  "id": "atenas-zombies",
+  "name": "Atenas Zombies",
+  "baseUrl": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-zombies",
+  "minecraft": "1.20.1",
+  "loader": {
+    "type": "forge",
+    "version": "47.4.0"
+  },
+  "ram": {
+    "min": "8G",
+    "max": "8G"
+  },
+  "server": "atenasmc.live",
+  "managed": [
+    "mods"
+  ],
+  "once": [],
+  "sources": {}
+}
