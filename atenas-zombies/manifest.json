@@ -1,8 +1,8 @@
 {
   "id": "atenas-zombies",
   "name": "Atenas Zombies",
-  "packVersion": "1.0.2",
-  "changelog": "Añadido: solsauthlogin-1.20.1-1.3.1.jar",
+  "packVersion": "1.0.3",
+  "changelog": "Optimización\nAñadido: embeddium-0.3.31+mc1.20.1.jar, MouseTweaks-forge-mc1.20.1-2.25.1.jar, oculus-mc1.20.1-1.8.0.jar, rubidium-extra-0.5.4.4+mc1.20.1-build.131.jar",
   "minecraft": "1.20.1",
   "loader": {
     "type": "forge",
@@ -6901,6 +6901,12 @@
       "size": 42194
     },
     {
+      "path": "mods/embeddium-0.3.31+mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-zombies/files/mods/embeddium-0.3.31%2Bmc1.20.1.jar",
+      "sha256": "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb",
+      "size": 1320675
+    },
+    {
       "path": "mods/embellishcraft-1.20.1-7.0.0.0.jar",
       "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-zombies/files/mods/embellishcraft-1.20.1-7.0.0.0.jar",
       "sha256": "e509691641f108c3f6e78c89834a21db54d3c86c415af791312914984c890dd7",
@@ -7381,6 +7387,12 @@
       "size": 1272670
     },
     {
+      "path": "mods/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-zombies/files/mods/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+      "sha256": "6c27d16aa715ac6613a55fc463739e2c7b78279e4e4c4cede299e4a2d4a70f08",
+      "size": 76237
+    },
+    {
       "path": "mods/Nameless Trinkets-1.20.1-1.8.5.jar",
       "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-zombies/files/mods/Nameless%20Trinkets-1.20.1-1.8.5.jar",
       "sha256": "ced5f0f14c9ce929321421753beeb0f46d828a0ca3caeb681038ca0a2268dcd4",
@@ -7421,6 +7433,12 @@
       "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-zombies/files/mods/OctoLib-FORGE-0.5.0.1%2B1.20.1.jar",
       "sha256": "5bb146c691f2c5054752f006a61aab6335ecb1cd9718a9643733de5367971047",
       "size": 424035
+    },
+    {
+      "path": "mods/oculus-mc1.20.1-1.8.0.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-zombies/files/mods/oculus-mc1.20.1-1.8.0.jar",
+      "sha256": "0945df0cba0f62b3901dd80c3268e5311b770ece78c78037a45db12ac0425fef",
+      "size": 2851119
     },
     {
       "path": "mods/open-parties-and-claims-forge-1.20.1-0.25.8.jar",
@@ -7589,6 +7607,12 @@
       "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-zombies/files/mods/ritchiesprojectilelib-2.1.0%2Bmc.1.20.1-forge.jar",
       "sha256": "0c9cff7514d059601b290d3e14e28fc373083092fccd436de1d64a747e6714b3",
       "size": 78667
+    },
+    {
+      "path": "mods/rubidium-extra-0.5.4.4+mc1.20.1-build.131.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-zombies/files/mods/rubidium-extra-0.5.4.4%2Bmc1.20.1-build.131.jar",
+      "sha256": "32c28582040dfab4e167542bf319107296e9eff3cb17f4f576eba036f2d256da",
+      "size": 568608
     },
     {
       "path": "mods/saturn-mc1.20.1-0.1.3.jar",
