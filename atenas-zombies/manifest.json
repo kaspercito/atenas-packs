@@ -1,8 +1,8 @@
 {
   "id": "atenas-zombies",
   "name": "Atenas Zombies",
-  "packVersion": "1.0.3",
-  "changelog": "Optimización\nAñadido: embeddium-0.3.31+mc1.20.1.jar, MouseTweaks-forge-mc1.20.1-2.25.1.jar, oculus-mc1.20.1-1.8.0.jar, rubidium-extra-0.5.4.4+mc1.20.1-build.131.jar",
+  "packVersion": "1.0.4",
+  "changelog": "Añadido: waystones-forge-1.20.1-14.1.21.jar",
   "minecraft": "1.20.1",
   "loader": {
     "type": "forge",
@@ -7853,6 +7853,12 @@
       "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-zombies/files/mods/watut-forge-1.20.1-1.2.3.jar",
       "sha256": "19a7291187e1074dac0ade56f95cdb84936e8563c55afdc0b86c90ea7cd80a9e",
       "size": 435496
+    },
+    {
+      "path": "mods/waystones-forge-1.20.1-14.1.21.jar",
+      "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-zombies/files/mods/waystones-forge-1.20.1-14.1.21.jar",
+      "sha256": "fd6fe3c645328ea7be5bc6723d02c881e34650e0cbd4527ba59e42fa4cbe3c80",
+      "size": 536782
     },
     {
       "path": "mods/weaponthrow-1.20.1-6.0-beta.1.jar",
