@@ -2529,8 +2529,8 @@
     {
       "path": "config/modernfix-mixins.properties",
       "url": "https://raw.githubusercontent.com/kaspercito/atenas-packs/main/atenas-zombies/files/config/modernfix-mixins.properties",
-      "sha256": "8367aacebf8b3ea127d64f84568732d21ff9e34e4874287f9290d139258b8206",
-      "size": 6082
+      "sha256": "a21105c75cbdb0275a1b61be84fdd11441eaf85515ab269089fab8c3202f61b2",
+      "size": 6085
     },
     {
       "path": "config/moonlight-client.toml",
